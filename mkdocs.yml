@@ -22,5 +22,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Atas:
+      - 14/09/2023: atas/ata_14_09.md
 
 
