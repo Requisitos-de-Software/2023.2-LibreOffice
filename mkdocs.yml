@@ -1,19 +1,26 @@
-site_name: My Docs
+site_name: Libre Office Writer
 
 theme:
   name: material
+  language: pt-BR
+  favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png
   palette:
+    # accent: blue
   
     - scheme: default
-      primary: deep purple
+      primary: blue
       toggle:
         icon: material/brightness-7 
         name: Switch to dark mode
 
     - scheme: slate
-      primary: deep purple
+      primary: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+nav:
+  - Home: index.md
 
 
