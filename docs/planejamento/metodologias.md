@@ -85,4 +85,4 @@ As criações das _branchs_ devem seguir o padrão:
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|--------------------------|-----------|
-| 1.0     | 19/09/20233 | Criação e edição da página | [Edilberto Cantuaria](https://github.com/edilbertocantuaria)        | [Ana Luíza](https://github.com/analuizargds) |
+| 1.0     | 19/09/20233 | Criação e edição da página | Edilberto Cantuaria | Ana Luíza |
