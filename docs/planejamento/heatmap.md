@@ -10,4 +10,4 @@ O heatmap da _Figura 1_ tem por objetivo transparecer os horários livres dos me
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 19/09/2023|Criação da página|  [Edilberto Cantuaria](https://github.com/edilbertocantuaria)           | [Artur Seppa](https://github.com/artur-seppa)| 
+| 1.0    | 19/09/2023|Criação da página|Edilberto Cantuaria   | Artur Seppa| 

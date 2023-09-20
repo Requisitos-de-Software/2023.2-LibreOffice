@@ -25,6 +25,7 @@ nav:
   - Planejamento: 
       - Ferramentas: planejamento/ferramentas.md
       - Disponibilidade dos membros: planejamento/heatmap.md
+      - Metodologias: planejamento/metodologias.md
   - Atas:
       - 14/09/2023: atas/ata_14_09.md
 
