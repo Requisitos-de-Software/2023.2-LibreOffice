@@ -1,5 +1,7 @@
 # Metodologia
 
+## Introdução
+
 Considerando o escopo do trabalho, é evidente que há um foco significativo na engenharia de requisitos. Nesse contexto, bem como na valorização da documentação gerada ao longo do projeto, identificamos uma conexão com abordagens de desenvolvimento orientadas ao plano. Conforme Sommerville (2011, p. 42) destaca, as saídas de um estágio são utilizadas como base para o planejamento da atividade no estágio subsequente. É importante ressaltar que essa abordagem não exclui a possibilidade de incorporar elementos das metodologias ágeis, pois, como mencionado por Sommerville (2011, p. 42), a maioria dos projetos de software combina práticas das abordagens orientadas ao plano e ágeis. Diante desse cenário, a equipe de desenvolvimento optou por adotar determinadas metodologias de modo a otimizar a organização e o processo de desenvolvimento, visando a máxima eficiência, considerando a realidade do grupo.
 
 ## 1. Scrum 
