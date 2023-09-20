@@ -22,5 +22,6 @@ theme:
 
 nav:
   - Home: index.md
+  - planejamento/cronograma.md
 
 
