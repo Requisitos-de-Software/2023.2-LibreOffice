@@ -55,4 +55,4 @@ Esse GitHub Pages é destinado a documentação dos artefatos produzidos pelo gr
 
 | Versão | Data       | Descrição              | Autor(es) | Revisor(es) |
 | ------- | ---------- | ------------------------ | --------- | ----------- |
-| 1.1     | 15/09/2023 | Documentação da equipe | Ana Luíza | Ana Leticia    |
+| 1.0     | 15/09/2023 | Documentação da equipe | Ana Luíza | Ana Leticia    |
