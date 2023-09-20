@@ -21,13 +21,13 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Home: index.md
-  - Planejamento: 
+   - Home: index.md
+    - Planejamento: 
       - Ferramentas: planejamento/ferramentas.md
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
       - Aplicativo Escolhido: planejamento/appEscolhido.md
-  - Atas:
+      - Cronograma: planejamento/cronograma.md
+   - Atas:
       - 14/09/2023: atas/ata_14_09.md
-
 
