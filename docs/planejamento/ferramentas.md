@@ -10,17 +10,17 @@ Este documento apresenta as ferramentas utilizadas pela equipe durante a elabora
 
 | Ícones | Ferramenta | Finalidade |
 | :------: | :----------: | :---------------------------------------------------: |
-| <img src="../images/ferramentas/github.png" height="70" title="Github">|  <a id="a" href="#aa">Github</a> | Verfica o versionamento de contribuição e realiza o armazenamento do repositório do projeto |
-| <img src="../images/ferramentas/teams.png" height="70" title="Teams">|  <a id="b" href="#bb">Microsoft Teams</a> | Ambiente para realização de reuniões e apresentações|
-| <img src="../images/ferramentas/whatsapp.png" height="70" title="Telegram">| <a id="c" href="#cc">Whatsapp</a> | Ambiente de comunicação entre os integrantes da equipe de projeto. |
-|<img src="../images/ferramentas/excel.png" height= 70 width=70> | <a id="c" href="#cc">Excel</a> | Aplicação de montagem de planilhas|
+| <img src="../../images/ferramentas/github.png" height="70" title="Github">|  <a id="a" href="#aa">Github</a> | Verfica o versionamento de contribuição e realiza o armazenamento do repositório do projeto |
+| <img src="../../images/ferramentas/teams.png" height="70" title="Teams">|  <a id="b" href="#bb">Microsoft Teams</a> | Ambiente para realização de reuniões e apresentações|
+| <img src="../../images/ferramentas/whatsapp.png" height="70" title="Telegram">| <a id="c" href="#cc">Whatsapp</a> | Ambiente de comunicação entre os integrantes da equipe de projeto. |
+|<img src="../../images/ferramentas/excel.png" height= 70 width=70> | <a id="c" href="#cc">Excel</a> | Aplicação de montagem de planilhas|
 |<img src="https://user-images.githubusercontent.com/54439337/178488789-69ddaafc-2d25-4d76-b780-3a90bda82ee6.png" height= 60> | <a id="d" href="#dd">MkDocs</a> | Ferramenta de build  do git pages do projeto. |
-|<img src="../images/ferramentas/docs.png" height=70> | <a id="e" href="#ee">Google Docs</a> | Aplicativo para elaboração de documentos do projeto. |
-|<img src="../images/ferramentas/logo_person.png" height=70> | <a id="f" href="#ff">This person does not exist</a> | Ferramenta para geração de pessoas fictícias |
+|<img src="../../images/ferramentas/docs.png" height=70> | <a id="e" href="#ee">Google Docs</a> | Aplicativo para elaboração de documentos do projeto. |
+|<img src="../../images/ferramentas/logo_person.png" height=70> | <a id="f" href="#ff">This person does not exist</a> | Ferramenta para geração de pessoas fictícias |
 |<img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" height= 60 width=60> | <a id="g" href="#gg">Figma</a> | Ferramenta para prototipagem. |
 |<img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0=w240-h480-rw" height= 80 width=80> | <a id="h" href="#hh">LucidChart</a> | Ferramenta para criação de diagramas. |
-|<img src="../images/ferramentas/youtube.png" height= 70> | <a id="i" href="#ii">YouTube</a> | Ferramenta para hospedagem de vídeos em nuvem. |
-|<img src="../images/ferramentas/vs_code.png" height= 70> | <a id="j" href="#jj">Visual Studio Code</a> | Ambiente de desenvolvimento dos artefatos |
+|<img src="../../images/ferramentas/youtube.png" height= 70> | <a id="i" href="#ii">YouTube</a> | Ferramenta para hospedagem de vídeos em nuvem. |
+|<img src="../../images/ferramentas/vs_code.png" height= 70> | <a id="j" href="#jj">Visual Studio Code</a> | Ambiente de desenvolvimento dos artefatos |
 
 
 <figcaption align="center">Fonte: Artur Seppa Reiman</figcaption>
