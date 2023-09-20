@@ -17,7 +17,7 @@ Na Tabela 1, apresenta-se o cronograma planejado para as atividades da primeira 
 |   Selecionar ferramentas do projeto   | Início: 05/09 <br>Fim: 19/09   | Artur  | Início: 19/09 Fim: 20/09  | Edilberto  |
 |   Confecção do cronograma   | Início: 05/09 <br>Fim: 19/09    	| Rafael 	| Início: 19/09 Fim: 20/09  |   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela |
 |   Rich Picture | Início: 14/09 <br>Fim: 19/09   | Ana Letícia e Raphaela  | Início: 19/09 Fim: 20/09  | Rafael |
-|    Elicitar metodologias | Início: 14/09 <br>Fim: 19/09   | Edilberto   | Início:  19/09 Fim: 20/09 	| Artur  |
+|    Elicitar metodologias | Início: 14/09 <br>Fim: 19/09   | Edilberto   | Início:  19/09 Fim: 20/09 	| Ana Luíza  |
 |   Heatmap	| Início: 14/09<br>Fim: 19/09 	|  Edilberto	| Início: 19/09<br>Fim: 20/09 	| Artur 	|
 |   Atas de reunião	| Início: 14/09<br>Fim: 19/09 	|  Ana Luíza	| Início: 19/09<br>Fim: 20/09 	| Rapahela	|
 |   Gravar apresentação                 	| Início: 20/09 <br>Fim: 20/09    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela | Início: 16/04 Fim: 16/04  	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  |
@@ -37,7 +37,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 |   Selecionar ferramentas do projeto   | Início: 05/09 <br>Fim: 19/09   | Artur  | Início: 19/09 Fim: 20/09  | Edilberto  |
 |   Confecção do cronograma   | Início: 05/09 <br>Fim: 19/09    	| Rafael 	| Início: 19/09 Fim: 20/09  |   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela |
 |   Rich Picture | Início: 14/09<br>Fim: 19/09   | Ana Letícia e Raphaela  | Início: 19/09 Fim: 20/09  | Rafael |
-|    Elicitar metodologias | Início: 14/09 <br>Fim: 19/09   | Edilberto   | Início:  19/09 Fim: 20/09 	| Artur  |
+|    Elicitar metodologias | Início: 14/09 <br>Fim: 19/09   | Edilberto   | Início:  19/09 Fim: 20/09 	| Ana Luíza  |
 |   Heatmap	| Início: 14/09<br>Fim: 19/09 	|  Edilberto	| Início: 19/09<br>Fim: 20/09 	| Artur 	|
 |   Atas de reunião	| Início: 14/09<br>Fim: 19/09 	|  Ana Luíza	| Início: 19/09<br>Fim: 20/09 	| Rapahela	|
 |   Gravar apresentação                 	| Início: 20/09 <br>Fim: 20/09    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela | Início: 16/04 Fim: 16/04  	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  |
@@ -173,6 +173,6 @@ Na Tabela 9, apresenta-se o cronograma planejado para as atividades da última e
 
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
- 1.0 | 19/09/2023 | Primeira versão do cronograma | [Rafael Canabrava](https://github.com/rafaelxavierr) | 
+ 1.0 | 19/09/2023 | Primeira versão do cronograma | Rafael | Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela
 
 
