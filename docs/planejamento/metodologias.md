@@ -83,7 +83,7 @@ As criações das _branchs_ devem seguir o padrão:
 
 >Sommerville,Ian - Engenharia de Software - 9 ed. - São Paulo: Pearson Prentice Hall, 2011.
 
-## Histórico de Versões
+## Histórico de Versão
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|--------------------------|-----------|

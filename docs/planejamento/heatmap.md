@@ -6,7 +6,7 @@ O heatmap da _Figura 1_ tem por objetivo transparecer os horários livres dos me
 |---------------------------------------------------|
 | Figura 1: HeatMap; Fonte: autoria própria.        |
 
-## Histórico de Versões
+## Histórico de Versão
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
