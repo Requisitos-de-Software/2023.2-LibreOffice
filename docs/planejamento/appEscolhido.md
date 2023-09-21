@@ -18,15 +18,15 @@ Baseado nos critérios citados anteriormente e após intrução do professor, o 
 
 - O aplicativo é open source então não haveria dificulade ou restrições para utilizá-lo na disciplina;
 
-- O aplicativo não tem uma complexidade muito granda, mas ainda sim possui muitas funcionalidades que podem ser exploradas no decorrer da disciplina.
+- O aplicativo não tem uma complexidade muito grande, mas ainda assim possui muitas funcionalidades que podem ser exploradas no decorrer da disciplina.
 
 ## Rich Picture
 
-O richpicture é uma ferramenta visual para expressar ideias e analisar problemas, tudo isso de forma informal e de fácil entendimento. No contexto da engenharia de software, ele é utilizado para abstrair o funcionamento de sistemas de software e se apresenta na forma de um diagrama com alguns elementos básicos como: atores, processos, armazenamento de dados, setas e limites do sistema. 1
+O Rich Picture é uma ferramenta visual para expressar ideias e analisar problemas, tudo isso de forma informal e de fácil entendimento. No contexto da engenharia de software, ele é utilizado para abstrair o funcionamento de sistemas de software e se apresenta na forma de um diagrama com alguns elementos básicos como: atores, processos, armazenamento de dados, setas e limites do sistema. 1
 
 A figura 1 apresenta o Rich Picture do aplicativo Libre Office Writer
 
-![Richpicturev1](../images/rich_picture/rich_picture_libreoffice.jpeg)
+![Richpicturev1](../images/rich_picture/richPicture.jpeg)
 
 <div style="text-align: center">
     <p> Figura 1: Rich Picture (Fonte: Ana Leticia e Raphaela. 2023).</p>
