@@ -22,12 +22,14 @@ theme:
 
 nav:
     - Home: index.md
+    - Atas:
+      - 14/09/2023: atas/ata_14_09.md
+    - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao1.md
     - Planejamento: 
       - Aplicativo Escolhido: planejamento/appEscolhido.md
       - Ferramentas: planejamento/ferramentas.md
       - Cronograma: planejamento/cronograma.md
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
-    - Atas:
-      - 14/09/2023: atas/ata_14_09.md
 
