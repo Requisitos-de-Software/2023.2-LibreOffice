@@ -95,17 +95,60 @@ Ao longo da sessão, a moderadora lançava um tema sobre o aplicativo para que o
 
 - Essas sugestões podem melhorar significativamente a acessibilidade e a usabilidade do LibreOffice Writer, tornando-o mais inclusivo e amigável para todos os tipos de usuários.
 
+### Requisitos elicitados
 
+Após a sessão de brainstorming, foi possível fazer a elicitação dos requisitos funcionais listados na Tabela 2 e os requisitos não funcionais listados na Tabela 3.
 
+Legenda das Tabelas 2 e 3:
 
+- RFx: Requisito Funcional nºx
+- RNFx: Requisito Não-Funcional nºx
+- BSx: Requisito nºx elicitado pelo Brainstorming.
 
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos funcionais.</p></font>
 
+<center>
 
 | <a id="anchor_BS" style="color:black;"> ID</a> | Descrição                                                       | Código | Implementado |
 | ---------------------------------------------- | ------------------------------------------------------------------------------ | ------ | :------: |
-| BS01       | O usuário deve poder realizar cadastro                                         | RF01   | Sim |
+| BS01       | O usuário deve poder criar documentos de texto.      | RF01   | Sim |
+| BS02       |  O usuário deve poder editar documentos de texto.       | RF02   | Sim |
+| BS03     | O usuário deve poder salvar documentos em vários formatos, incluindo ODF, .doc, e HTML.      | RF03   | Sim |
+| BS04    | O usuário deve ter acesso a recursos como verificador ortográfico, dicionário de sinônimos e autocorreção.                                               | RF04   | Sim|
+| BS05  | O usuário deve poder criar estilos para parágrafos, caracteres individuais, quadros e páginas.   | RF05   | Sim |
+| BS06      | O usuário deve poder criar índices e sumários em documentos de texto.     | RF06   | Sim |
+| BS07   | O usuário deve poder inserir figuras de diferentes formatos nos documentos.      | RF07   | Sim |
+| BS08    | O usuário deve poder criar desenhos diretamente em documentos de texto.   | RF08   | Nåo |
+| BS09     | O usuário deve ter a capacidade de executar cálculos sofisticados em tabelas em documentos de texto.        | RF09   | Sim |
+| BS10   | O usuário deve poder personalizar a interface do programa, incluindo ícones e menus.    | RF10   | Sim |
+| BS11  | O usuário deve poder utilizar a função de arrastar e soltar para trabalhar eficientemente com objetos nos documentos. | RF11   | Não |
+| BS12   | O usuário deve poder acessar um sistema de Ajuda na rede abrangente.   | RF12   | Não |
+| BS13      | O usuário deve ser capaz de colaborar em tempo real com outros usuários, permitindo a edição simultânea de documentos por várias pessoas. | RF13   | Não |
+| BS14     | O usuário deve ter a capacidade de traduzir automaticamente documentos para diferentes idiomas diretamente no aplicativo.    | RF14   | Não |
+| BS15     | O usuário deve poder integrar de maneira eficaz o aplicativo com serviços de armazenamento em nuvem, tornando o compartilhamento e o acesso a documentos mais simples e ágeis.    | RF15   | Não |
+| BS16   | O usuário deve ter à disposição ferramentas avançadas de reconhecimento de fala para realizar ditado de texto nos documentos com precisão.      | RF16   | Não |
+| BS17  | O usuário deve experimentar uma melhoria significativa na acessibilidade do aplicativo, atendendo a diretrizes rigorosas de acessibilidade.    | RF17   | Não |
+| BS18    | O usuário deve se beneficiar de recursos de análise de texto e IA que oferecem sugestões avançadas de formatação e conteúdo.      | RF18   | Não |
+| BS19   | O usuário deve ter acesso a modelos específicos para diferentes tipos de documentos, como artigos acadêmicos e relatórios técnicos.      | RF19   | Não |
+| BS20    | O usuário deve poder realizar pesquisas avançadas para localizar informações em documentos extensos.    | RF20   | Não |
+| BS21    | O usuário deve ter a capacidade de editar documentos offline para facilitar o trabalho sem conexão à internet.  | RF21   | Não |
+| BS22    | O usuário deve poder utilizar uma função de voz para ouvir o texto lido em voz alta, especialmente útil para usuários com deficiência visual.                    | RF22   | Não |
 
+</center>
 
+<font size="3"><p style="text-align: center">Tabela 3: Requisitos não funcionais.</p></font>
+
+<center>
+
+| <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                 | Código | Implementado |
+| ----------------------------------------------- | ------------------------------------------------------------------------- | ------ | :------: |
+| BS23           | O LibreOffice Writer deve ser compatível com uma variedade de formatos de documento, incluindo ODF, .doc e HTML.                                    | RNF01  | Sim |
+| BS24      |  O aplicativo deve ser capaz de se integrar de forma eficaz com serviços de armazenamento em nuvem para facilitar o compartilhamento e o acesso a documentos. | RNF02  | Não |
+| BS25   |    O LibreOffice Writer deve funcionar de forma eficiente, mesmo em documentos longos e complexos.   | RNF03  | Sim |
+| BS26   | Deve ser acessível para pessoas com deficiência, seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas.  | RNF04  | Não |
+| BS27   | O aplicativo deve ser compatível com sistemas mobile.                                           | RNF05  | Não |
+
+</center>
 
 ## Referências Bibliográficas
 
