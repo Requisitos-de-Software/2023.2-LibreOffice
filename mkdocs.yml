@@ -33,5 +33,7 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
-    - Elicitação:
+    - Elicitação: 
       - Perfil do usuário: elicitacao/perfilUsuario.md
+      - Introspecção: elicitacao/introspeccao.md
+      - Brainstorming: elicitacao/tecnicas/brainstorming.md
