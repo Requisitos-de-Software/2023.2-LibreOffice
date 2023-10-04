@@ -1,3 +1,5 @@
+# Técnica dos 100 dólares
+
 ## Introdução
 
 Após a coleta dos requisitos utilizando as técnicas de brainstorming, introspecção e questionários, é necessário estabelecer uma priorização para compreender a importância de cada um deles. Nesse contexto, o artefato desenvolvido emprega a técnica dos 100 dólares como uma abordagem eficaz para priorizar os requisitos levantados.
@@ -47,7 +49,7 @@ Com base na metodologia descrita e os requisitos elicitados, a priorização de 
 <p> Tabela 1: Priorização de Requisitos (Fonte: Artur Seppa Reiman, 2023).</p>
 </div>
 
-## Referências
+## Referências bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a> L. Dean and W. Don. 2003. Managing software requirements: A use case approach. In Addison Wesley. Disponível em: https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4. Acesso em: 02/10/2023.
 
@@ -56,4 +58,4 @@ Com base na metodologia descrita e os requisitos elicitados, a priorização de 
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
-| 1.0     | 02/10/20233 | Criação do documento | Artur Seppa Reiman | Raphaela |
+| 1.0     | 02/10/20233 | Criação do documento | Artur Seppa Reiman | Rafael |

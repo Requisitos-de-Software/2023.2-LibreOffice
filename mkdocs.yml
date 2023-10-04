@@ -33,4 +33,4 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
-
+    - $100: elicitacao/100dolares.md
