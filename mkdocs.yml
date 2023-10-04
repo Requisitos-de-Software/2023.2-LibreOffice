@@ -33,4 +33,5 @@ nav:
       - Cronograma: planejamento/cronograma.md
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
-
+    - Elicitação: 
+      - Introspecção: elicitacao/introspeccao.md
