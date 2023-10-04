@@ -56,4 +56,4 @@ Com base na metodologia descrita e os requisitos elicitados, a priorização de 
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
-| 1.0     | 02/10/20233 | Criação do documento | Artur Seppa Reiman | Rafael Xavier |
+| 1.0     | 02/10/20233 | Criação do documento | Artur Seppa Reiman | Raphaela |
