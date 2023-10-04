@@ -29,11 +29,11 @@ Ao longo da sessão, a moderadora lançava um tema sobre o aplicativo para que o
 
 <center>
 
-![teste](../../images/quadro_brainstorm/quadrorespostas.jpg)
+![teste](../../images/quadro_brainstorm/brainstormingprint.jpg)
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Participantes do brainstorming.</p></font>
 
 
 ## Temas/Respostas
@@ -150,11 +150,10 @@ Legenda das Tabelas 2 e 3:
 
 </center>
 
-## Referências Bibliográficas
-
-> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliografia
+
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 02/10/2023.
 
@@ -162,4 +161,4 @@ Legenda das Tabelas 2 e 3:
 
 | Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 28/04/2023 | Criação do artefato       | Rafael Xavier   | Artur Seppa |
+| `1.0`    | 28/04/2023 | Criação do artefato       | Rafael Xavier   | Ana Luíza |
