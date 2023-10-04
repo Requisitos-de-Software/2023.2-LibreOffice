@@ -23,7 +23,7 @@ Na Tabela 1, apresenta-se o cronograma planejado para as atividades da primeira 
 |   Gravar apresentação                 	| Início: 20/09 <br>Fim: 20/09    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela | Início: 16/04 Fim: 16/04  	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  |
 |   Correção pós apresentação	| Início: 21/09<br>Fim: 22/09 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 23/09<br>Fim: 25/09 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ### Executado
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
@@ -43,7 +43,7 @@ Na Tabela 2, está explicitado o cronograma executado das atividades da primeira
 |   Gravar apresentação                 	| Início: 20/09 <br>Fim: 20/09    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela | Início: 16/04 Fim: 16/04  	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  |
 |   Correção pós apresentação	| Início: 21/09<br>Fim: 22/09 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 23/09<br>Fim: 25/09 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ## Entrega 2 - Elicitação - Técnicas e priorização
 
@@ -54,14 +54,20 @@ Na Tabela 3, apresenta-se o cronograma planejado para as atividades da segunda e
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |---------------------------------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------------	|-----------	|
-|   Entedimento das técnicas de elicitação de requisitos e quais serão usadas no projeto   	| Início: 22/09 <br> Fim: 24/09   	| A definir   	| Início: 25/09 <br> Fim: 25/09 	|   A definir 	|
-|   Aplicação das técnicas de elicitação de requisitos escolhidas     	| Início: 26/09 <br>Fim: 28/09   	| A definir	| Início: 29/04  <br>Fim: 29/09 	|   A definir 	|
-|   Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto 	| Início: 22/09 <br> Fim: 28/09   	|        A definir           	| Início: 29/09 <br> Fim: 29/09 	|   A definir	|
-|   Priorização dos requisitos segundo as técnicas escolhidas         	| Início: 30/09 <br>Fim: 02/10   	|     A definir     	| Início: 02/10 <br>Fim: 03/10 	|  A definir  	|
-|   Gravação da Apresentação e Entrega  	| Início: 03/10 <br>Fim: 03/10   	|      A definir    	| Início: 04/10 <br> Fim: 04/10 	|   A definir  	|
-|   Correção pós apresentação	| Início: 05/10 <br>Fim: 08/10 	| A definir	| Início: 09/10 <br>Fim: 10/10 	| A definir	|
+|   Alterações no cronograma   	| Início: 26/09 <br>Fim: 02/10   	| Rafael  | Início: 02/10  <br>Fim: 03/10 	|   Artur	|
+|   Entedimento das técnicas de elicitação de requisitos e quais serão usadas no projeto   	| Início: 22/09 <br> Fim: 26/09   	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela   	| Início: 25/09 <br> Fim: 25/09 	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Realização do Brainstorming     	| Início: 28/09 <br>Fim: 28/09   	| Ana Letícia, Ana Luíza(Moderadora), Rafael e Raphaela  | Início: 29/09  <br>Fim: 29/09 	|   Rafael 	|
+|   Documentação do brainstorming    	| Início: 30/09 <br>Fim: 02/10   	| Rafael | Início: 02/10  <br>Fim: 2/10 	|  Ana Luíza 	|
+|   Realização e documentação da introspecção    	| Início: 30/09 <br>Fim: 02/10   	| Edilberto | Início: 02/10  <br>Fim: 2/10 	|  Rafael 	|
+|   Elaboração de perguntas para o questionário   	| Início: 28/09 <br>Fim: 30/09   	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael | Início: 30/09  <br>Fim: 30/09 	|  Ana Letícia 	|
+|   Montagem do questionário e do perfil do usuário   	| Início: 30/09 <br>Fim: 04/10   	| Ana Letícia | Início: 04/10  <br>Fim: 04/10 	|  Edilberto 	|
+|   Entendimento das técnicas de priorização de requisitos e quais serão usadas no projeto 	| Início: 22/09 <br> Fim: 26/09   	|        Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela           	| Início: 29/09 <br> Fim: 29/09 	|   Ana Letícia	|
+|   Priorização usando Moscow         	| Início: 02/10 <br>Fim: 03/10   	|     Raphaela   	| Início: 03/10 <br>Fim: 04/10 	|  Artur  	|
+|   Priorização usando técnica dos 100$       	| Início: 02/10 <br>Fim: 03/10   	|     Artur   	| Início: 03/10 <br>Fim: 04/10 	|  Raphaela  	|
+|   Gravação da Apresentação e Entrega  	| Início: 03/10 <br>Fim: 04/10   	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela      	| Início: 04/10 <br> Fim: 04/10 	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	|
+|   Correção pós apresentação	| Início: 05/10 <br>Fim: 08/10 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 09/10 <br>Fim: 10/10 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ## Entrega 3 - Modelagem de Requisitos 1
 
@@ -72,14 +78,14 @@ Na Tabela 4, apresenta-se o cronograma planejado para as atividades da terceira 
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |---------------------------------------------------------------	|-------------------------------	|------------------	|-------------------------	|------------------	|
-|   Modelagem de Requisitos: Cenários    	| Início: 16/10<br>Fim: 20/10    	|  A definir	| Início: 21/10 Fim: 22/10 	|        A definir    	|
-|   Modelagem de Requisitos: Léxico                    	| Início: 16/10<br>Fim: 20/10     	|   A definir 	| Início: 21/10 Fim: 22/10 	|  A definir   |
-|   Modelagem de Requisitos: Use Case                  	| Início: 16/10<br>Fim: 20/10      	|  A definir	| Início: 21/10 Fim: 22/10 	| A definir |
-|   Modelagem de Requisitos: Especificação Suplementar 	| Início: 16/10<br>Fim: 20/10      	|   A definir	| Início: 21/10 Fim: 22/10 	|    A definir     	|
-|   Gravação da Apresentação e Entrega                 	| Início: 23/10<br>Fim: 23/10     	| A definir  | Início: 24/10 Fim: 25/10	|     A definir      |
-|   Correção pós apresentação	| Início: 26/10<br>Fim: 29/10 	|  A definir	| Início: 30/10<br>Fim: 31/10 	|  A definir	|
+|   Modelagem de Requisitos: Cenários    	| Início: 16/10<br>Fim: 20/10    	|  Ana Letícia e Raphaela	| Início: 21/10 Fim: 22/10 	|        Edilberto    	|
+|   Modelagem de Requisitos: Léxico                    	| Início: 16/10<br>Fim: 20/10     	|   Ana Luíza e Rafael	| Início: 21/10 Fim: 22/10 	|  Artur  |
+|   Modelagem de Requisitos: Use Case                  	| Início: 16/10<br>Fim: 20/10      	|  Artur	| Início: 21/10 Fim: 22/10 	| A Ana Luíza |
+|   Modelagem de Requisitos: Especificação Suplementar 	| Início: 16/10<br>Fim: 20/10      	|   Edilberto	| Início: 21/10 Fim: 22/10 	|    A Rapharla   	|
+|   Gravação da Apresentação e Entrega                 	| Início: 23/10<br>Fim: 23/10     	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  | Início: 24/10 Fim: 25/10	|     Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela     |
+|   Correção pós apresentação	| Início: 26/10<br>Fim: 29/10 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 30/10<br>Fim: 31/10 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 
 ## Entrega 4 - Modelagem de Requisitos 2
@@ -91,13 +97,13 @@ Na Tabela 5, apresenta-se o cronograma planejado para as atividades da quarta en
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Modelagem de Requisitos - Ágil: NFR Framework      | Início: 30/10<br>Fim: 01/11   	| A definir 	| Início: 01/11 Fim: 02/11 	|      A definir     	|
-|   Modelagem de Requisitos - Ágil: Backlogs       	| Início: 01/11<br>Fim: 03/11    	| A definir	| Início: 03/11 Fim: 04/11 	|      A definir      	|
-|   Modelagem de Requisitos - Ágil: Histórias de Usuário   | Início: 03/11<br>Fim: 05/11    | A definir  | Início: 05/11 Fim: 06/11 	|   A definir  	|
-|   Gravação da Apresentação e Entrega    | Início: 06/11<br>Fim: 07/11  |  A definir	| Início: 07/11 Fim: 07/11 	|   A definir   	|
-|   Correção pós apresentação	| Início: 08/11<br>Fim: 10/11 	| A definir	| Início: 10/11<br>Fim: 11/11 	| A definir 	|
+|   Modelagem de Requisitos - Ágil: NFR Framework      | Início: 30/10<br>Fim: 01/11   	| Rafael e Ana Luíza	| Início: 01/11 Fim: 02/11 	|      Ana Letícia e Edilberto     	|
+|   Modelagem de Requisitos - Ágil: Backlogs       	| Início: 01/11<br>Fim: 03/11    	| Ana Letícia e Edilberto	| Início: 03/11 Fim: 04/11 	|       Artur e Raphaela    	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário   | Início: 03/11<br>Fim: 05/11    | Artur e Raphaela  | Início: 05/11 Fim: 06/11 	|   Rafael e Ana Luíza  	|
+|   Gravação da Apresentação e Entrega    | Início: 06/11<br>Fim: 07/11  |   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 07/11 Fim: 07/11 	|    Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	|
+|   Correção pós apresentação	| Início: 08/11<br>Fim: 10/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 10/11<br>Fim: 11/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1
 
@@ -108,12 +114,12 @@ Na Tabela 6, apresenta-se o cronograma planejado para as atividades da entrega 5
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Verificação por inspeção de todos os artefatos   | Início: 08/11<br>Fim: 09/11    	| A definir	| Início: 09/11 Fim: 10/11 	| A definir 	|
-|   Validação: Prototipação e Comprovação Informal   	| Início: 09/11<br>Fim: 11/11    	| A definir	| Início: 11/11 Fim: 12/11 	| A definir 	|
-|   Gravação da Apresentação e Entrega    | Início: 12/11<br>Fim: 12/11    	|   A definir 	| Início: 13/11 Fim: 13/11 	| A definir	|
-|   Correção pós apresentação	| Início: 14/11<br>Fim: 15/11 	| A definir 	| Início: 15/11<br>Fim: 16/11 	|  A definir  |
+|   Verificação por inspeção de todos os artefatos   | Início: 08/11<br>Fim: 09/11    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 09/11 Fim: 10/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Validação: Prototipação e Comprovação Informal   	| Início: 09/11<br>Fim: 11/11    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 11/11 Fim: 12/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	|
+|   Gravação da Apresentação e Entrega    | Início: 12/11<br>Fim: 12/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	| Início: 13/11 Fim: 13/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Correção pós apresentação	| Início: 14/11<br>Fim: 15/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	| Início: 15/11<br>Fim: 16/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela   |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 
 ## Entrega 5.2 - Análise de Requisitos 2
@@ -125,12 +131,12 @@ Na Tabela 7, apresenta-se o cronograma planejado para as atividades da entrega 5
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Verificação por inspeção de todos os artefatos  | Início: 23/11<br>Fim: 25/11    	| A definir | Início: 25/11 Fim: 26/11 	|   A definir	|
-|   Validação: Prototipação e Comprovação Informal  	| Início: 26/11<br>Fim: 28/11  	|   A definir   | Início: 28/11 Fim: 29/11 	|     A definir   	|
-|   Gravação da Apresentação e Entrega     | Início: 29/11<br>Fim: 29/11    	|   A definir	| Início: 30/11 Fim: 30/11 	|     A definir    	|
-|   Correção pós apresentação	| Início: 01/12<br>Fim: 03/12 	|  A definir	| Início: 03/12<br>Fim: 04/12 	| A definir 	|
+|   Verificação por inspeção de todos os artefatos  | Início: 23/11<br>Fim: 25/11    	| Edilberto, Rafael e Raphaela   | Início: 25/11 Fim: 26/11 	|   Ana Letícia, Ana Luíza, Artur	|
+|   Validação: Prototipação e Comprovação Informal  	| Início: 26/11<br>Fim: 28/11  	|   Ana Letícia, Ana Luíza, Artur   | Início: 28/11 Fim: 29/11 	|     Edilberto, Rafael e Raphaela   	|
+|   Gravação da Apresentação e Entrega     | Início: 29/11<br>Fim: 29/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 30/11 Fim: 30/11 	|     Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela   	|
+|   Correção pós apresentação	| Início: 01/12<br>Fim: 03/12 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 03/12<br>Fim: 04/12 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -141,12 +147,12 @@ Na Tabela 8, apresenta-se o cronograma planejado para as atividades da sexta ent
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Pós-rastreabilidade: Backward-form  | Início: 13/11<br>Fim: 15/11 |  A definir	| Início: 15/11 Fim: 16/11 	| A definir	|
-|   Pós-rastreabilidade: Forward-form    	| Início: 16/11<br>Fim: 18/11  	| A definir	| Início: 18/11 Fim: 19/11 	| A definir |
-|   Gravação da Apresentação e Entrega 	| Início: 19/11<br>Fim: 19/11    	|   A definir	| Início: 20/11 Fim: 20/11 	| A definir	|
-|   Correção pós apresentação	| Início: 22/11<br>Fim: 23/11 	|  A definir	| Início: 23/11<br>Fim: 24/11 	| A definir 	|
+|   Pós-rastreabilidade: Backward-form  | Início: 13/11<br>Fim: 15/11 |  Ana Letícia, Ana Luíza e Artur	| Início: 15/11 Fim: 16/11 	|  Edilberto, Rafael e Raphaela	|
+|   Pós-rastreabilidade: Forward-form    	| Início: 16/11<br>Fim: 18/11  	| Edilberto, Rafael e Raphaela| Início: 18/11 Fim: 19/11 	| Ana Letícia, Ana Luíza e Artur |
+|   Gravação da Apresentação e Entrega 	| Início: 19/11<br>Fim: 19/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 20/11 Fim: 20/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Correção pós apresentação	| Início: 22/11<br>Fim: 23/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 23/11<br>Fim: 24/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 
 ## Entrega Final 
 
@@ -157,11 +163,11 @@ Na Tabela 9, apresenta-se o cronograma planejado para as atividades da última e
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
-|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 02/12<br>Fim: 04/12    	| A definir 	| Início: 04/12 Fim: 05/12 	| A definir	|
-|   Gravação da Apresentação e Entrega  	| Início: 05/12<br>Fim: 05/12 	|  A definir	| Início: 06/12<br>Fim: 06/12 	| A definir	|
-|   Correção pós apresentação	| Início: 07/12<br>Fim: 08/12 	|  A definir	| Início: 06/12<br>Fim: 09/12 	| A definir 	|
+|   Desenvolvimento do projeto final (correção e complemento) 	| Início: 02/12<br>Fim: 04/12    	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 04/12 Fim: 05/12 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Gravação da Apresentação e Entrega  	| Início: 05/12<br>Fim: 05/12 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 06/12<br>Fim: 06/12 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+|   Correção pós apresentação	| Início: 07/12<br>Fim: 08/12 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 06/12<br>Fim: 09/12 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
 ## Bibliografia
 
 >SALES, André Barros de. Ambientação - Aula 1, Exemplo de Cronograma. **Aprender 3**. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2692717/mod_resource/content/1/Exemplo%20de%20Cronograma.pdf>>. Acesso em: 19/09/2023.
@@ -174,5 +180,5 @@ Na Tabela 9, apresenta-se o cronograma planejado para as atividades da última e
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
  1.0 | 19/09/2023 | Primeira versão do cronograma | Rafael | Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela
-
+ 2.0 | 02/10/2023 | Cronograma devidamente detalhado em todas as entregas | Rafael Xavier | Artur
 
