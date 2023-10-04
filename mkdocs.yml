@@ -36,3 +36,4 @@ nav:
     - Elicitação: 
       - Introspecção: elicitacao/introspeccao.md
       - Brainstorming: elicitacao/tecnicas/brainstorming.md
+    - Moscow: elicitacao/priorizacao/moscow.md
