@@ -22,6 +22,7 @@ A abordagem da introspecção na elicitação de requisitos é um método que en
 
 Aplicando a técnica para o software LibreOffice Writer obteve-se os resultados que estão registrados a seguir que apresenta os cenários de utilização do sistema e o comportamento esperado.
 
+<center>
 | Cenário de uso | Observações |
 | -: | :- |
 | **Abertura do aplicativo** | A tela inicial deve apresentar um documento em branco pronto para ser editado ou alguns modelos disponíveis, como: convite, currículos, calendário, etc. |
@@ -33,8 +34,9 @@ Aplicando a técnica para o software LibreOffice Writer obteve-se os resultados 
 | **Usabilidade** | O tempo de resposta do aplicativo deve estar diretamente relacionado ao tamanho do arquivo gerado. Portanto, é natural que um documento contendo várias imagens e tabelas leve mais tempo para processar do que um simples texto com uma única frase. Além disso, o aplicativo deve incorporar medidas de prevenção contra falhas, como a funcionalidade de salvamento automático. |
 
 <div style="text-align: center">
-<p> Tabela 1: Registro da introspecção (Fonte: autor, 2023).</p>
+<p> Tabela 1: Registro da introspecção (Fonte: Edilberto Almeida Cantuaria, 2023).</p>
 </div>
+</center>
 
 ## Parecer do Avaliador 
 
@@ -135,20 +137,19 @@ Possuir ferramentas/opções:
 
 
 <div style="text-align: center">
-<p> Tabela 2: Requisitos elicitados (Fonte: autor, 2023).</p>
+<p> Tabela 2: Requisitos elicitados (Fonte: Edilberto Almeida Cantuaria, 2023).</p>
 </div>
 
 </center>
-
-
-## Histórico de Versão
-
-| Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
-| ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 01/10/2023 | Criação do documento.              | Edilberto Cantuaria | Rafael Xavier  |
 
 
 ## Referências
 [1] DICIO: Dicionário Online de Português, disponível no [link](https://www.dicio.com.br/introspeccao/), acesso em out. 2023.
 
 [2] SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível [clicando aqui](https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: out. 2023.
+
+## Histórico de Versão
+
+| Versão | Data       | Descrição                          | Edilberto Almeida Cantuaria(es)     |  Revisor(es)  |
+| ------ | ---------- | ---------------------------------- | ------------- | ------------- |
+| `1.0`  | 01/10/2023 | Criação do documento.              | Edilberto Cantuaria | Rafael Xavier  |
