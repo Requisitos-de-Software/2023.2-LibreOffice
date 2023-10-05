@@ -34,11 +34,13 @@ nav:
       - Disponibilidade dos membros: planejamento/heatmap.md
       - Metodologias: planejamento/metodologias.md
     - Elicitação: 
-      - Introspecção: elicitacao/introspeccao.md
-      - Questionário: elicitacao/questionario.md
-      - Brainstorming: elicitacao/tecnicas/brainstorming.md
-    - Priorização:
-      - $100: elicitacao/100dolares.md
-      - Moscow: elicitacao/priorizacao/moscow.md
+      - Perfil do usuário: elicitacao/perfilUsuario.md
+      - Técnicas:
+        - Introspecção: elicitacao/introspeccao.md
+        - Questionário: elicitacao/questionario.md
+        - Brainstorming: elicitacao/tecnicas/brainstorming.md
+      - Priorização:
+        - $100: elicitacao/100dolares.md
+        - Moscow: elicitacao/priorizacao/moscow.md
 
 
