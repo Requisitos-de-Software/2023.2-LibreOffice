@@ -51,7 +51,9 @@ Legenda:
 - RF: Requisito Funcional
 - RNF: Requisito Não Funcional
 
-<div style="text-align:center"> Tabela 1: Priorização dos requisitos de acordo com método Moscow</div>
+<br>
+
+<center>
 
 | Identificador | Requisito | Tipo | Prioridade | 
 | :---: | :---------------: | :--: | :--------: | 
@@ -113,7 +115,8 @@ Legenda:
 | BS26  | Deve ser acessível para pessoas com deficiência, seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas.  | RNF | Should |
 | BS27  | O aplicativo deve ser compatível com sistemas mobile.                                           | RNF  | Should |
 
-
+Tabela 1: Priorização dos requisitos de acordo com método Moscow (Fonte: Raphaela Guimarães, 2023)
+</center>
 
 ## Bibliografia
 

@@ -8,8 +8,6 @@ O processo de brainstorming foi realizado via Teams na data de 28/09/2023 de 12:
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
-
 <center>
 
 | Nome                                                      | Função     |
@@ -19,22 +17,18 @@ O processo de brainstorming foi realizado via Teams na data de 28/09/2023 de 12:
 | <span style = "color: orange"> Rafael Xavier </span>        | Usuário    |
 | <span style = "color: orange"> Raphaela Guimarães </span> | Usuário    |
 
+Tabela 1: Participantes do brainstorming (Fonte: Rafael Xavier, 2023)
+
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Rafael Xavier.</p></font>
-
 Ao longo da sessão, a moderadora lançava um tema sobre o aplicativo para que os participantes dessem suas respostas em um quadro na ferramenta Miro em dois minutos, como mostrado na Figura 1.
-
-<font size="3"><p style="text-align: center">Figura 1: Quadro de respostas.</p></font>
 
 <center>
 
 ![teste](../../images/quadro_brainstorm/brainstormingprint.jpg)
 
+Figura 1: Quadro de respostas (Fonte: Participantes do brainstorming, 2023)
 </center>
-
-<font size="3"><p style="text-align: center">Fonte: Participantes do brainstorming.</p></font>
-
 
 ## Temas/Respostas
 
@@ -105,7 +99,7 @@ Legenda das Tabelas 2 e 3:
 - RNFx: Requisito Não-Funcional nºx
 - BSx: Requisito nºx elicitado pelo Brainstorming.
 
-<font size="3"><p style="text-align: center">Tabela 2: Requisitos funcionais.</p></font>
+<br>
 
 <center>
 
@@ -134,10 +128,10 @@ Legenda das Tabelas 2 e 3:
 | BS21    | O usuário deve ter a capacidade de editar documentos offline para facilitar o trabalho sem conexão à internet.  | RF21   | Não |
 | BS22    | O usuário deve poder utilizar uma função de voz para ouvir o texto lido em voz alta, especialmente útil para usuários com deficiência visual.                    | RF22   | Não |
 
+Tabela 2: Requisitos funcionais (Fonte: Rafael Xavier, 2023)
 </center>
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos não funcionais.</p></font>
-
+<br>
 <center>
 
 | <a id="anchor_BSNF" style="color:black;">ID</a> | Descrição                                                                 | Código | Implementado |
@@ -148,12 +142,15 @@ Legenda das Tabelas 2 e 3:
 | BS26   | Deve ser acessível para pessoas com deficiência, seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas.  | RNF04  | Não |
 | BS27   | O aplicativo deve ser compatível com sistemas mobile.                                           | RNF05  | Não |
 
+Tabela 3: Requisitos não funcionais (Fonte: Rafael Xavier, 2023)
 </center>
+
+## Referências Bibliográficas
+
+> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 
 ## Bibliografia
-
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 > Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 02/10/2023.
 

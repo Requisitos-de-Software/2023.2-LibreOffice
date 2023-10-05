@@ -22,7 +22,7 @@ Baseado nas respostas adquiridas foi traçado um perfil de usuário com as segui
 - **educação**: ensino superior incompleto
 - **ocupação**: estudante
 - **experiência**: experiente
-- **tarefas primárias**: redaçõ de documentos acadêmicos e pessoais
+- **tarefas primárias**: redação de documentos acadêmicos e pessoais
 
 ## Referências Bibliográficas
 
