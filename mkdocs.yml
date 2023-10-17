@@ -43,5 +43,10 @@ nav:
       - Priorização:
         - $100: elicitacao/100dolares.md
         - Moscow: elicitacao/priorizacao/moscow.md
+    - Modelagem:
+      - Casos de Uso: modelagem/casosDeUso.md
+      - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+      - Cenários: modelagem/cenarios.md
+      - Léxicos: modelagem/lexicos.md
 
 
