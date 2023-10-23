@@ -26,3 +26,77 @@ Tabela 2: Modelo dos léxicos (Fonte: Ana Luíza e Rafael)
 
 </center>
 
+## Léxicos
+
+Os léxicos do Libre Office Writer, apresentados nas tabelas 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior.
+
+
+### L01 - Salvar
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Salvar | exportar | Salvar um documento finalizado | Salva o documento em diferentes formatos | Verbo |
+
+Tabela 3: Léxico 01 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L02 - Criar documento
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Criar documento |  | Produzir documento | Cria um novo documento em branco | Verbo |
+
+Tabela 4: Léxico 02 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L03 - Inserir gráfico
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Inserir gráfico | adicionar gráfico, incluir gráfico | Inserir representações visuais de dados em um documento de texto | Torna os dados do documento mais acessíveis e compreensíveis | Verbo |
+
+Tabela 5: Léxico 03 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L04 - Estilo de texto
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Estilo de texto | exportar | Conjunto de atributos para estilizar o texto | Define características como fonte, tamanho e cor do texto | Objeto |
+
+Tabela 6: Léxico 04 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L05 - Itálico ativado
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Itálico ativado | Em itálico| Indicador se o estilo itálico está ativado | Altera o estilo do texto, inclinando-o para um visual diferenciado, ou deixando o texto no formato padrão quando desativado | Estado |
+
+Tabela 7: Léxico 05 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+<center>
+
+## Histórico de versão
+
+| Versão  | Data       | Descrição                  | Autor                    | Revisor   |
+|---------|------------|----------------------------|-------------|-----------|
+| 1.0     | 23/10/2023 | Criação do documento | Ana Luíza e Rafael | Artur |
+
+</center>
