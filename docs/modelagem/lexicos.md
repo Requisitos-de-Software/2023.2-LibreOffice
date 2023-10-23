@@ -17,5 +17,12 @@ Para a confeccção dos léxicos, utilizamos a notação do Léxico Ampliado da 
 
 Tabela 1: Léxicos do tipo LAL (Fonte: SAYÃO e CARVALHO<a id="anchor_1" href="#REF1">¹</a>)
 
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Nome do Léxico | Sinônimo | Símbolo | Descrição do efeito | Verbo/Objeto/Estado |
+
+Tabela 2: Modelo dos léxicos (Fonte: Ana Luíza e Rafael)
+
 </center>
 
