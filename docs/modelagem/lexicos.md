@@ -91,6 +91,46 @@ Tabela 7: Léxico 05 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
+### L06 - Editar documentos de texto
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Editar documentos de texto | Modificar documentos | Capacidade de edição do texto | Possibilidade de fazeralterações | Verbo |
+
+Tabela 8: Léxico 06 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L07 - Criar índices e sumários
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Criar índices e sumários | Elaborar sumários | Possibilidade de organização | Indexa e sumariza o documento deixando-o mais organizado | Verbo |
+
+Tabela 9: Léxico 07 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L08 - Colaborar em tempo real em documento
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Colaborar em tempo real em documento | Modidicar o documento ao mesmo tempo que outros usuários| Possibilidade de edição simultânea | Possibilita que o trabalho seja otimizado | Verbo |
+
+Tabela 10: Léxico 08 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+
+
+
+
 <center>
 
 ## Histórico de versão
