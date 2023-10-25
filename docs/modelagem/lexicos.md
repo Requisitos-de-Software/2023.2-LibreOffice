@@ -28,8 +28,7 @@ Tabela 2: Modelo dos léxicos (Fonte: Ana Luíza e Rafael)
 
 ## Léxicos
 
-Os léxicos do Libre Office Writer, apresentados nas tabelas 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior.
-
+Os léxicos do Libre Office Writer, apresentados nas tabelas 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 e 14 foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior.
 
 ### L01 - Salvar
 
@@ -127,9 +126,65 @@ Tabela 10: Léxico 08 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
+### L09 - Criação de desenhos em documentos de texto
 
+<center>
 
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Criação de desenhos em documentos de texto | Produzir ilustrações nos textos | Ação de criar desenhos diretamente nos documentos de texto.|  Capacidade de adicionar desenhos à documentação. | Verbo |
 
+Tabela 11: Léxico 09 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L10 - Personalizar a Interface do Aplicativo
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Personalizar a Interface do Aplicativo | Adaptar o visual do software. | Ação de ajustar a interface, incluindo ícones e menus, de acordo com as preferências do usuário. | Capacidade de adequar o ambiente de trabalho. | Verbo |
+
+Tabela 12: Léxico 10 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L11 - Realizar cálculos complexos em tabelas
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Realizar cálculos complexos em tabelas | Efetuar operações avançadas em tabelas | Ação de executar cálculos sofisticados em tabelas dentro de documentos de texto. | Capacidade de realizar análises e cálculos avançados. | Verbo |
+
+Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### L12 - Formatação Automática
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas. | A capacidade de manter uma formatação automática que melhora a consistência visual dos documentos. | Estado |
+
+Tabela 14: Léxico 12 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+## Bibliografia
+
+>SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 23/10/2023.
+
+>Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/>. Acesso em: 23/10/2023.
+
+>Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em: 23/10/2023.
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: <http://www.nilc.icmc.usp.br/til/til2006/0030.pdf>. Acesso em: 23/10/2023.
 
 <center>
 
