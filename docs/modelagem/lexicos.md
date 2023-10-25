@@ -97,7 +97,7 @@ Tabela 7: Léxico 05 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Editar documentos de texto | Modificar documentos | Capacidade de edição do texto | Possibilidade de fazer alterações | Verbo |
+| Editar documentos de texto | Modificar documentos | Capacidade de edição do texto | Possibilidade de fazer alterações no <a href="#L13">documento</a> | Verbo |
 
 Tabela 8: Léxico 06 (Fonte: Ana Luíza e Rafael)
 
@@ -109,7 +109,7 @@ Tabela 8: Léxico 06 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Criar índices e sumários | Elaborar sumários | Possibilidade de organização | Indexa e sumariza o documento deixando-o mais organizado | Verbo |
+| Criar índices e sumários | Elaborar sumários | Possibilidade de organização | Indexa e sumariza o <a href="#L13">documento</a> deixando-o mais organizado | Verbo |
 
 Tabela 9: Léxico 07 (Fonte: Ana Luíza e Rafael)
 
@@ -121,7 +121,7 @@ Tabela 9: Léxico 07 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Colaborar em tempo real em documento | Modidicar o documento ao mesmo tempo que outros usuários| Possibilidade de edição simultânea | Possibilita que o trabalho seja otimizado | Verbo |
+| Colaborar em tempo real em documento | Modidicar o documento ao mesmo tempo que outros usuários| Possibilidade de edição simultânea | Possibilita que o trabalho dos <a href="#L14">usuários</a> seja otimizado | Verbo |
 
 Tabela 10: Léxico 08 (Fonte: Ana Luíza e Rafael)
 
@@ -133,7 +133,7 @@ Tabela 10: Léxico 08 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Criação de desenhos em documentos de texto | Produzir ilustrações nos textos | Ação de criar desenhos diretamente nos documentos de texto.|  Capacidade de adicionar desenhos à documentação. | Verbo |
+| Criação de desenhos em documentos de texto | Produzir ilustrações nos textos | Ação de criar desenhos diretamente nos documentos de texto.|  Capacidade de adicionar desenhos ao <a href="#L13">documento</a>. | Verbo |
 
 Tabela 11: Léxico 09 (Fonte: Ana Luíza e Rafael)
 
@@ -145,7 +145,7 @@ Tabela 11: Léxico 09 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Personalizar a Interface do Aplicativo | Adaptar o visual do software. | Ação de ajustar a interface, incluindo ícones e menus, de acordo com as preferências do usuário. | Capacidade de adequar o ambiente de trabalho. | Verbo |
+| Personalizar a Interface do Aplicativo | Adaptar o visual do software. | Ação de ajustar a interface, incluindo ícones e menus, de acordo com as preferências do <a href="#L14">usuário</a>. | Capacidade de adequar o ambiente de trabalho. | Verbo |
 
 Tabela 12: Léxico 10 (Fonte: Ana Luíza e Rafael)
 
@@ -157,7 +157,7 @@ Tabela 12: Léxico 10 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Realizar cálculos complexos em tabelas | Efetuar operações avançadas em tabelas | Ação de executar cálculos sofisticados em tabelas dentro de documentos de texto. | Capacidade de realizar análises e cálculos avançados. | Verbo |
+| Realizar cálculos complexos em tabelas | Efetuar operações avançadas em tabelas | Ação de executar cálculos sofisticados em tabelas dentro de documentos de texto. | Capacidade de realizar análises e cálculos avançados no <a href="#L13">documento</a>. | Verbo |
 
 Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
 
@@ -169,7 +169,7 @@ Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas. | A capacidade de manter uma formatação automática que melhora a consistência visual dos documentos. | Estado |
+| Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas. | A capacidade de manter uma formatação automática que melhora a consistência visual dos <a href="#L13">documentos</a>. | Estado |
 
 Tabela 14: Léxico 12 (Fonte: Ana Luíza e Rafael)
 
