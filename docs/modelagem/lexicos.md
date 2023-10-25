@@ -133,7 +133,7 @@ Tabela 10: Léxico 08 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Criação de desenhos em documentos de texto | Produzir ilustrações nos textos | Ação de criar desenhos diretamente nos documentos de texto.|  Capacidade de adicionar desenhos ao <a href="#L13">documento</a>. | Verbo |
+| Criação de desenhos em documentos de texto | Produzir ilustrações nos textos | Ação de criar desenhos diretamente nos documentos de texto|  Capacidade de adicionar desenhos ao <a href="#L13">documento</a> | Verbo |
 
 Tabela 11: Léxico 09 (Fonte: Ana Luíza e Rafael)
 
@@ -145,7 +145,7 @@ Tabela 11: Léxico 09 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Personalizar a Interface do Aplicativo | Adaptar o visual do software. | Ação de ajustar a interface, incluindo ícones e menus, de acordo com as preferências do <a href="#L14">usuário</a>. | Capacidade de adequar o ambiente de trabalho. | Verbo |
+| Personalizar a Interface do Aplicativo | Adaptar o visual do software | Ação de ajustar a interface, incluindo ícones e menus, de acordo com as preferências do <a href="#L14">usuário</a> | Capacidade de adequar o ambiente de trabalho | Verbo |
 
 Tabela 12: Léxico 10 (Fonte: Ana Luíza e Rafael)
 
@@ -157,7 +157,7 @@ Tabela 12: Léxico 10 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Realizar cálculos complexos em tabelas | Efetuar operações avançadas em tabelas | Ação de executar cálculos sofisticados em tabelas dentro de documentos de texto. | Capacidade de realizar análises e cálculos avançados no <a href="#L13">documento</a>. | Verbo |
+| Realizar cálculos complexos em tabelas | Efetuar operações avançadas em tabelas | Ação de executar cálculos sofisticados em tabelas dentro de documentos de texto | Capacidade de realizar análises e cálculos avançados no <a href="#L13">documento</a> | Verbo |
 
 Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
 
@@ -169,7 +169,7 @@ Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas. | A capacidade de manter uma formatação automática que melhora a consistência visual dos <a href="#L13">documentos</a>. | Estado |
+| Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas | A capacidade de manter uma formatação automática que melhora a consistência visual dos <a href="#L13">documentos</a> | Estado |
 
 Tabela 14: Léxico 12 (Fonte: Ana Luíza e Rafael)
 
