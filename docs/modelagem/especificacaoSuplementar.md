@@ -27,7 +27,7 @@ A metodologia FURPS+ [²](#referencias-bibliograficas) é utilizada para avaliar
 Concluindo, o modelo FURPS+ é uma abordagem abrangente para classificar e definir requisitos de software, considerando diferentes dimensões de qualidade e funcionalidade. É uma ferramenta útil para orientar o processo de desenvolvimento de software e garantir que todos os requisitos essenciais sejam contemplados
 
 ## Metodologia FURPS+ aplicada ao LibreOffice Witter
-Para melhor as tabelas seguintes, temos a tabela 1 que é uma legenda para as tabelas seguintes.
+<!-- Para melhor as tabelas seguintes, temos a tabela 1 que é uma legenda para as tabelas seguintes.
 
 
 <font><p style="text-align: center">**Tabela 1** - Legenda.</p></font>
@@ -41,7 +41,7 @@ Para melhor as tabelas seguintes, temos a tabela 1 que é uma legenda para as ta
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font> -->
 
 
 ### Funcionalidade  
@@ -49,29 +49,24 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 
 ### Usabilidade 
 
-<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
-
 <center>
 
 | ID    | Descrição                                                                                                                                                                                                                                                   |
 | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | USA01 | O sistema deve ser compatível com a opção de alto contraste, exibindo cores adequadas para essa configuração.                                                                                                                                               |
 | USA02 | O aplicativo deve destacar e enfatizar recursos de acessibilidade em seu design.                                                                                                                                                                            |
-| USA03 | As principais ou críticas devem ser identificadas pela cor vermelha..                                                                                                                                                                                       |
+| USA03 | Palavras desconhecidas que possivelmente são erros ortográficos ou erros gramaticais devem ser identificadas pela cor vermelha.                                                                                                                                                                                       |
 | USA04 | O sistema deve incluir recursos de acessibilidade, como um teclado virtual e a capacidade de aumentar o tamanho da fonte.                                                                                                                                   |
-| USA05 | O aplicativo deve aderir a uma padronização de design que seja minimalista e intuitiva, apresentando uma interface padronizada que proporcione conforto ao usuário e exiba informações de forma clara, acessível e com textos e ícones de fácil compreensão |
+| USA05 | O aplicativo deve apresentar uma interface padronizada que proporcione conforto ao usuário  |
 | USA06 | O sistema deve oferecer caminhos curtos para a realização de tarefas complexas, garantindo que estas possam ser concluídas em no máximo 5 cliques.                                                                                                          |
 | USA07 | O aplicativo deve permitir a identificação fácil das funcionalidades disponíveis.                                                                                                                                                                           |
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
-
+<font><p style="text-align: center">**Tabela 1:** Requisitos de Usabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
 
 
 ### Confiabilidade 
 
-
-<font><p style="text-align: center">**Tabela 3** - Requisitos de Confiabilidade.</p></font>
 
 <center>
 
@@ -86,13 +81,11 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | CONF07  | O aplicativo deve permitir a identificação fácil das funcionalidades disponíveis.                                                                                                  |
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
+<font><p style="text-align: center">**Tabela 2:** Requisitos de Confiabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
 
 
 
 ### Performance 
-
-<font><p style="text-align: center">**Tabela 2** - Requisitos de Performance.</p></font>
 
 <center>
 
@@ -105,12 +98,12 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | PERF05  | É fundamental que a aplicação mantenha um consumo de memória razoável para evitar possíveis problemas em dispositivos cujo sistema operacional não esteja atualizado. |
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
+<font><p style="text-align: center">**Tabela 3:** Requisitos de Performance. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
 
 
 ### Suportabilidade
 
-<font><p style="text-align: center">**Tabela 2** - Requisitos de Suportabilidade.</p></font>
+
 
 <center>
 
@@ -120,28 +113,11 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | SUP02  | O sistema do LibreOffice Writer deve ser projetado com capacidade de extensibilidade, permitindo a adição de novas funcionalidades, adaptação às mudanças e interoperação entre sistemas semelhantes (Como o *Word*  da Microsoft Office e o *Docs* da Google) .                                            |
 | SUP03  | O sistema do LibreOffice Writer deve ser dotado de recursos de rastreabilidade, incluindo mecanismos para registrar e acompanhar mudanças e correções ao longo do tempo, juntamente com controle de versão e registros de alterações.                                                                       |
 | SUP04  | O sistema do LibreOffice Writer deve incorporar tolerância a falhas para assegurar que possa lidar com problemas de maneira eficaz, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, realização de backups regulares e rápida restauração em caso de falhas. |
-| SUP05  | É fundamental que a aplicação mantenha um consumo de memória razoável para evitar possíveis problemas em dispositivos cujo sistema operacional não esteja atualizado.                                                                                                                                       |
+
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
+<font><p style="text-align: center">**Tabela 4:** Requisitos de Suportabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
 
-
-<font><p style="text-align: center">**Tabela 2** - Requisitos de Suportabilidade.</p></font>
-
-<center>
-
-| ID     | Descrição                                                                                                                                                                                                                                                                                                   | Requisito Relacionado |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| SUPA01 | O site oficial do LibreOffice Writer deve incluir uma seção dedicada ao Suporte ao Usuário, oferecendo serviços de Atendimento ao Consumidor (SAC) ou equivalentes.                                                                                                                                         |                       |
-| SUP02  | O sistema do LibreOffice Writer deve ser projetado com capacidade de extensibilidade, permitindo a adição de novas funcionalidades, adaptação às mudanças e interoperação entre sistemas semelhantes (Como o *Word*  da Microsoft Office e o *Docs* da Google) .                                            |                       |
-| SUP03  | O sistema do LibreOffice Writer deve ser dotado de recursos de rastreabilidade, incluindo mecanismos para registrar e acompanhar mudanças e correções ao longo do tempo, juntamente com controle de versão e registros de alterações.                                                                       |                       |
-| SUP04  | O sistema do LibreOffice Writer deve incorporar tolerância a falhas para assegurar que possa lidar com problemas de maneira eficaz, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, realização de backups regulares e rápida restauração em caso de falhas. |                       |
-| SUP05  | É fundamental que a aplicação mantenha um consumo de memória razoável para evitar possíveis problemas em dispositivos cujo sistema operacional não esteja atualizado.                                                                                                                                       |                       |
-
-                       
-</center>
-
-<font size="3"><p style="text-align: center">Fonte: [Edilberto Almeida Cantuaria, 2023](https://github.com/edilbertocantuaria).</p></font>
 
 
 ### Outros requisitos não-funcionais (+)
