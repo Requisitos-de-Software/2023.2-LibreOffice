@@ -198,7 +198,9 @@ O índice é inserido no início do documento, fornecendo uma lista organizada d
 |**Exceção**|
 |<p>O aplicativo pode não abrir corretamente devido a problemas técnicos.</p>|
 
-Tabela 6: Criação de Documento Extensivo com Índice Automatizado
+Tabela 6: Criação de Documento Extensivo com Índice Automatizado. Fonte: Raphaela, 2023.
+
+</center>
 
 ## Cenário 7
 
@@ -225,8 +227,9 @@ Tabela 6: Criação de Documento Extensivo com Índice Automatizado
 |**Exceção**|
 |<p>A ferramenta pode não funcionar corretamente devido a problemas técnicos.</p>|
 
-Tabela 7: Revisão de Documento no LibreOffice
+Tabela 7: Revisão de Documento no LibreOffice. Fonte: Raphaela, 2023.
 
+</center>
 
 ## Cenário 8
 
@@ -254,8 +257,9 @@ Tabela 7: Revisão de Documento no LibreOffice
 |**Exceção**|
 |<p>O aplicativo pode não salvar corretamente devido a problemas técnicos.</p>|
 
-Tabela 8: Exportação de Documento Writer para PDF com Formatação Preservada.
+Tabela 8: Exportação de Documento Writer para PDF com Formatação Preservada. Fonte: Raphaela, 2023.
 
+</center>
 
 ## Cenário 9
 
@@ -283,8 +287,9 @@ Tabela 8: Exportação de Documento Writer para PDF com Formatação Preservada.
 |**Exceção**|
 |<p>A macro pode não funcionar corretamente devido a problemas técnicos.</p>|
 
-Tabela 9: Uso de Macros Personalizadas no LibreOffice.
+Tabela 9: Uso de Macros Personalizadas no LibreOffice. Fonte: Raphaela, 2023.
 
+</center>
 
 ## Cenário 10
 
@@ -306,21 +311,14 @@ Tabela 9: Uso de Macros Personalizadas no LibreOffice.
 |**Recursos**|
 |<p>Internet.</p><p>Computador com LibreOffice Writer instalado. </p> |
 |**Episódios**|
-|O usuário decide acessar ou editar um documento.</p> <p>Se o documento estiver armazenado localmente no dispositivo e o usuário estiver offline, o usuário abre o aplicativo ou programa de edição de documentos no modo offline.</p> <p>O usuário seleciona o documento local que deseja acessar e editá-lo.</p> <p>O usuário realiza as edições necessárias no documento enquanto está offline.</p> <p>Quando o usuário retorna à conectividade online, o aplicativo ou programa automaticamente sincroniza as alterações com a versão na nuvem (se disponível).</p> <p>
-OU</p> <p>
-
-Se o documento estiver armazenado na nuvem e o usuário estiver online, o usuário abre o aplicativo ou programa de edição de documentos no modo online.</p> <p>
-O usuário faz login na sua conta na nuvem (por exemplo, Google Drive ou Dropbox).</p> <p>
-O usuário seleciona o documento na nuvem que deseja acessar e editá-lo.</p> <p>
-O usuário realiza as edições necessárias no documento enquanto está online.</p> <p>
-Todas as alterações são automaticamente salvas na versão na nuvem.</p>|
+|<p>O usuário decide acessar ou editar um documento.</p> <p>Se o documento estiver armazenado localmente no dispositivo e o usuário estiver offline, o usuário abre o aplicativo ou programa de edição de documentos no modo offline.</p> <p>O usuário seleciona o documento local que deseja acessar e editá-lo.</p> <p>O usuário realiza as edições necessárias no documento enquanto está offline.</p> <p>Quando o usuário retorna à conectividade online, o aplicativo ou programa automaticamente sincroniza as alterações com a versão na nuvem (se disponível).</p> <p>OU</p> <p>Se o documento estiver armazenado na nuvem e o usuário estiver online, o usuário abre o aplicativo ou programa de edição de documentos no modo online.</p> <p>O usuário faz login na sua conta na nuvem (por exemplo, Google Drive ou Dropbox).</p> <p>O usuário seleciona o documento na nuvem que deseja acessar e editá-lo.</p> <p>O usuário realiza as edições necessárias no documento enquanto está online.</p> <p>Todas as alterações são automaticamente salvas na versão na nuvem.</p>|
 |**Restrição**|
 |<p>O usuário deve ter o LibreOffice Writer instalado no computador.</p>|
 |**Exceção**|
 |<p>O aplicativo pode não abrir corretamente devido a problemas técnicos.</p>|
 
 
-Tabela 10: Alternância entre Modo Offline e Online para Acesso e Edição de Documentos
+Tabela 10: Alternância entre Modo Offline e Online para Acesso e Edição de Documentos. Fonte: Raphaela, 2023.
 
 ## Bibliografia
 
