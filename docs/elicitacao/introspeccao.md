@@ -97,7 +97,6 @@ Possuir ferramentas/opções:
 
 <center>
 
-
 **Requisitos Funcionais (RF):**
 
 | Identificador | Requisito                                                                                                                                                                         | Tipo  |
@@ -134,8 +133,8 @@ Possuir ferramentas/opções:
 |     INT30     | O LibreOffice Writer deve ser tolerante a falhas, minimizando o impacto de erros do usuário ou falhas do sistema                                                                  |  RNF  |
 
 
-<div style="text-align: center">
-<p> Tabela 2: Requisitos elicitados (Fonte: Edilberto Almeida Cantuaria, 2023).</p>
+
+<font><p style="text-align: center">**Tabela 2:** Requisitos elicitados. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
 </div>
 
 </center>
