@@ -201,11 +201,12 @@ Tabela 16: Léxico 14 (Fonte: Ana Luíza e Rafael)
 
 ## Bibliografia
 
->SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 23/10/2023.
-
 >Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/lexico/>. Acesso em: 23/10/2023.
 
 >Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em: 23/10/2023.
+
+>SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 23/10/2023.
+
 
 ## Referências Bibliográficas
 
