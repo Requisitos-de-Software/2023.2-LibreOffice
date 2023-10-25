@@ -28,27 +28,27 @@ Tabela 2: Modelo dos léxicos (Fonte: Ana Luíza e Rafael)
 
 ## Léxicos
 
-Os léxicos do Libre Office Writer, apresentados nas tabelas 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 e 14 foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior.
+Os léxicos do Libre Office Writer, apresentados nas tabelas 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 e 16 foram identificados a partir do uso do aplicativo e dos requisitos elicitados na etapa anterior.
 
-### L01 - Salvar
+### <a id="L01" style="color:inherit"> L01 - Salvar</a>
 
 <center>
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Salvar | exportar | Salvar um documento finalizado | Salva o documento em diferentes formatos | Verbo |
+| Salvar | exportar | Salvar um documento finalizado | Salva o <a href="#L13">documento</a> em diferentes formatos | Verbo |
 
 Tabela 3: Léxico 01 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
-### L02 - Criar documento
+### <a id="L02" style="color:inherit"> L02 - Criar documento</a>
 
 <center>
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Criar documento |  | Produzir documento | Cria um novo documento em branco | Verbo |
+| Criar documento | Produzir documento | O documento pode ser criado para diferentes contextos, como por exemplo, escrever um texto pessoal ou acadêmico. | Cria um novo <a href="#L13">documento</a> em branco | Verbo |
 
 Tabela 4: Léxico 02 (Fonte: Ana Luíza e Rafael)
 
@@ -60,13 +60,14 @@ Tabela 4: Léxico 02 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Inserir gráfico | adicionar gráfico, incluir gráfico | Inserir representações visuais de dados em um documento de texto | Torna os dados do documento mais acessíveis e compreensíveis | Verbo |
+| Inserir gráfico | adicionar gráfico, incluir gráfico | Inserir representações visuais de dados em um documento de texto | Torna os dados do <a href="#L13">documento</a> mais acessíveis e compreensíveis | Verbo |
 
 Tabela 5: Léxico 03 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
-### L04 - Estilo de texto
+### <a id="L04" style="color:inherit"> L04 - Estilo de texto</a>
+
 
 <center>
 
@@ -84,19 +85,19 @@ Tabela 6: Léxico 04 (Fonte: Ana Luíza e Rafael)
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Itálico ativado | Em itálico| Indicador se o estilo itálico está ativado | Altera o estilo do texto, inclinando-o para um visual diferenciado, ou deixando o texto no formato padrão quando desativado | Estado |
+| Itálico ativado | Em itálico | Indicador se o estilo itálico está ativado | Altera o <a href="#L04">estilo</a>  do texto, inclinando-o para um visual diferenciado, ou deixando o texto no formato padrão quando desativado | Estado |
 
 Tabela 7: Léxico 05 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
-### L06 - Editar documentos de texto
+### <a id="L06" style="color:inherit"> L06 - Editar documentos de texto</a>
 
 <center>
 
 | Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
 | -------------- | -------- | ------- | ------------------- | ------------------- |
-| Editar documentos de texto | Modificar documentos | Capacidade de edição do texto | Possibilidade de fazeralterações | Verbo |
+| Editar documentos de texto | Modificar documentos | Capacidade de edição do texto | Possibilidade de fazer alterações | Verbo |
 
 Tabela 8: Léxico 06 (Fonte: Ana Luíza e Rafael)
 
@@ -171,6 +172,30 @@ Tabela 13: Léxico 11 (Fonte: Ana Luíza e Rafael)
 | Formatação Automática | Configuração de formatação automática | O estado em que a formatação de documentos é ajustada automaticamente de acordo com as configurações definidas. | A capacidade de manter uma formatação automática que melhora a consistência visual dos documentos. | Estado |
 
 Tabela 14: Léxico 12 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### <a id="L13" style="color:inherit"> L13 - Documento</a>
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Documento | Arquivo  | O documento escrito que pode ser utilizado em diversas áreas, dependendo do uso | O documento pode ser <a href="#L02">criado</a>, editado, <a href="#L01">salvo</a> e deletado pelo <a href="#L14">usuário</a> | Objeto |
+
+Tabela 15: Léxico 13 (Fonte: Ana Luíza e Rafael)
+
+</center>
+
+### <a id="L14" style="color:inherit"> L14 - Usuário</a>
+
+<center>
+
+| Léxico         | Sinônimo | Noção   | Impacto             | Classificação       |
+| -------------- | -------- | ------- | ------------------- | ------------------- |
+| Usuário | Consumidor  | O usuário pode se enquadrar no [perfil de usuário](../elicitacao/perfilUsuario.md) e pode utilizar o app para editar um documento para qualquer finalidade | O usuário pode <a href="#L02">criar</a>, <a href="#L06">editar</a>, visualizar, e <a href="#L01">salvar</a> <a href="#L13">documentos</a> | Objeto |
+
+Tabela 16: Léxico 14 (Fonte: Ana Luíza e Rafael)
 
 </center>
 
