@@ -1,0 +1,1782 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../elicitacao/priorizacao/moscow/">
+      
+      
+        <link rel="next" href="../especificacaoSuplementar/">
+      
+      <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
+    
+    
+      
+        <title>Casos de Uso - Libre Office Writer</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#caso-de-uso" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Libre Office Writer" class="md-header__button md-logo" aria-label="Libre Office Writer" data-md-component="logo">
+      
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Libre Office Writer
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Libre Office Writer" class="md-nav__button md-logo" aria-label="Libre Office Writer" data-md-component="logo">
+      
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png" alt="logo">
+
+    </a>
+    Libre Office Writer
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Atas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_14_09/" class="md-nav__link">
+        14/09/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_26_09/" class="md-nav__link">
+        26/09/2023
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_16_10/" class="md-nav__link">
+        16/10/2023
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          Apresentações
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao1/" class="md-nav__link">
+        Apresentação 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        Apresentação 2
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          Planejamento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Planejamento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/appEscolhido/" class="md-nav__link">
+        Aplicativo Escolhido
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        Ferramentas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        Cronograma
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        Disponibilidade dos membros
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologias/" class="md-nav__link">
+        Metodologias
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+          Elicitação
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfilUsuario/" class="md-nav__link">
+        Perfil do usuário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+          Técnicas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          Técnicas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+          Priorização
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/100dolares/" class="md-nav__link">
+        $100
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/moscow/" class="md-nav__link">
+        Moscow
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+          Modelagem
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Casos de Uso
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Casos de Uso
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-caso-de-uso" class="md-nav__link">
+    Diagrama de Caso de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="Diagrama de Caso de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc-acessar-documento" class="md-nav__link">
+    UC-Acessar Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-1-criar-novo-documento" class="md-nav__link">
+    Caso de Uso 1 - Criar novo documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-2-editar-documento" class="md-nav__link">
+    Caso de Uso 2 - Editar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc-transferencia-de-dados" class="md-nav__link">
+    UC-Transferência de dados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-3-compartilhar-documento" class="md-nav__link">
+    Caso de Uso 3 - Compartilhar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-4-exportar-documento" class="md-nav__link">
+    Caso de Uso 4 - Exportar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-5-salvar-documento" class="md-nav__link">
+    Caso de Uso 5 - Salvar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc-redigir-documento" class="md-nav__link">
+    UC-Redigir documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-6-formatar-pagina" class="md-nav__link">
+    Caso de Uso 6 - Formatar página
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-7-pesquisar-na-pagina" class="md-nav__link">
+    Caso de Uso 7 - Pesquisar na página
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-8-acionar-ferramentas" class="md-nav__link">
+    Caso de Uso 8 - Acionar ferramentas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-9-ver-atualizacoes-na-pagina" class="md-nav__link">
+    Caso de Uso 9 - Ver atualizações na página
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacaoSuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexicos/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diagrama-de-caso-de-uso" class="md-nav__link">
+    Diagrama de Caso de Uso
+  </a>
+  
+    <nav class="md-nav" aria-label="Diagrama de Caso de Uso">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc-acessar-documento" class="md-nav__link">
+    UC-Acessar Documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-1-criar-novo-documento" class="md-nav__link">
+    Caso de Uso 1 - Criar novo documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-2-editar-documento" class="md-nav__link">
+    Caso de Uso 2 - Editar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc-transferencia-de-dados" class="md-nav__link">
+    UC-Transferência de dados
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-3-compartilhar-documento" class="md-nav__link">
+    Caso de Uso 3 - Compartilhar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-4-exportar-documento" class="md-nav__link">
+    Caso de Uso 4 - Exportar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-5-salvar-documento" class="md-nav__link">
+    Caso de Uso 5 - Salvar documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc-redigir-documento" class="md-nav__link">
+    UC-Redigir documento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-6-formatar-pagina" class="md-nav__link">
+    Caso de Uso 6 - Formatar página
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-7-pesquisar-na-pagina" class="md-nav__link">
+    Caso de Uso 7 - Pesquisar na página
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-8-acionar-ferramentas" class="md-nav__link">
+    Caso de Uso 8 - Acionar ferramentas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#caso-de-uso-9-ver-atualizacoes-na-pagina" class="md-nav__link">
+    Caso de Uso 9 - Ver atualizações na página
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="caso-de-uso">Caso de Uso</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Após a elicitação de requisitos a partir das técnicas desenvolvidas pela equipe, buscou-se analisar as funcionalidades levantadas e as interações entre os atores do sistema proposto. Nesse contexto, o artefato desenvolvido emprega a  metodologia de diagrama de casos de uso, dentro da notação notação UML (Unified Modeling Language), como uma abordagem eficaz para modelar os diferentes cenários de uso de um sistema.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Na Linguagem de Modelagem Unificada (UML), o diagrama de casos de uso efetua a modelagem simplificada das interações (casos de uso) entre os atores e um sistema em desenvolvimento. Sendo responsável por descrever os diferentes cenários de uso de uma aplicação, além de identificar as funcionalidades fornecidas e sua utilização dada pelos atores no ambiente.</p>
+<p>A construção de um diagrama pode ser definida por 4 elementos fundamentais para a elaboração e entendimento das funcionalidades e interações no sistema, sendo representados na Tabela 1 subsequente.</p>
+<table>
+<thead>
+<tr>
+<th>Nome</th>
+<th>Função</th>
+<th align="center">Elemento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ator</td>
+<td>Representam um componente externo que interage com os objetos dentro do sistema. Ele pode ser identificado por um usuário, sistema ou outro elemento externo no cenário da aplicação.</td>
+<td align="center"><figure style="width: 20%; display: flex;"><img alt="actor" src="../../images/modelagem/casosDeUso/simbologias/actor.png" /></figure></td>
+</tr>
+<tr>
+<td>Elipse (Caso de Uso)</td>
+<td>Descreve uma ação ou funcionalidade específica que um ator pode realizar dentro do sistema.</td>
+<td align="center"><figure style="width: 40%; display: flex;"><img alt="elipse" src="../../images/modelagem/casosDeUso/simbologias/elipse.png" /></figure></td>
+</tr>
+<tr>
+<td>Retângulo (Sistema)</td>
+<td>Descreve o sistema proposto, sendo composto por casos de uso e relações no seu cenário interno e atores no seu cenário externo.</td>
+<td align="center"><figure style="width: 40%; display: flex;"><img alt="retangulo" src="../../images/modelagem/casosDeUso/simbologias/retangulo.png" /></figure></td>
+</tr>
+<tr>
+<td>Flecha (Relações)</td>
+<td>Representam as relações e interações entre os atores e casos de uso</td>
+<td align="center"><figure style="width: 40%; display: flex;"><img alt="flechas" src="../../images/modelagem/casosDeUso/simbologias/flecha.png" /></figure></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 1: Elementos do diagrama de casos de uso (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<p>Nesse contexto, para destacar uma melhor percepção do sistema, as tabelas 2 e 3 buscam representar, a definição das relações assim como as possíveis definições de atores.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Relação</th>
+<th align="center">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">include</td>
+<td align="center">Indica uma relação entre casos de usos dependentes, no qual o elemento antecessor necessita da execução subsequente do seu sucessor no sistema.</td>
+</tr>
+<tr>
+<td align="center">extends</td>
+<td align="center">Indica uma relação entre casos de usos independentes, no qual o elemento antecessor pode executar ou não o elemento sucessor no sistema.</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 2: Definição das relações nos casos de uso (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<table>
+<thead>
+<tr>
+<th align="center">Ator</th>
+<th align="center">Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">primário</td>
+<td align="center">Representa os atores que executam as funcionalidades no sistema, sendo alocados ao lado esquerdo do retângulo</td>
+</tr>
+<tr>
+<td align="center">secundário</td>
+<td align="center">Representa os atores que respondem a alguma funcionalidade executada no sistema, sendo alocados ao lado esquerdo do retângulo</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 3: Definição dos atores primários e secundários (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h2 id="diagrama-de-caso-de-uso">Diagrama de Caso de Uso</h2>
+<p>A construção dos Diagramas de Casos de Uso desenvolvidos e representados nas figuras 1, 2 e 3 e tabelas de 4 a 9, foram elaborados a partir da ferramenta de modelagem Lucichard e seguem como base os requisitos elicitados na seção anterior do projeto.</p>
+<h3 id="uc-acessar-documento">UC-Acessar Documento</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="US_Conta" src="../../images/modelagem/casosDeUso/diagramas/UC-acessarDocumento.png" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Figura 1: Diagrama de Casos de Uso referentes ao acesso de documentos (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-1-criar-novo-documento">Caso de Uso 1 - Criar novo documento</h3>
+<table>
+<thead>
+<tr>
+<th>UC01</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de criar novos documentos no sistema</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário determina a instanciação de documentos dentre as possíveis formas</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Novo" <li> O usuário indica se o documento a ser produzido será um arquivo em branco ou a partir de um template pré definido </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ol> <li> O Usuário acessa a aplicação <li> O sistema inicia com a instanciação de um arquivo em branco pronto para ser redigido </ol></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar um novo documento</td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário tem acesso a um novo documento para ser redigido</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS01</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT01</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">BS19</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 4: UC 1 - Criar novo documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-2-editar-documento">Caso de Uso 2 - Editar documento</h3>
+<table>
+<thead>
+<tr>
+<th>UC02</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de editar documentos no sistema</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação e acesso aos dispositivos de armazenamento</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário determina a edição de documentos</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Abrir ..." <li> O usuário localiza o documento a ser editado seja no disco rigido ou na nuvem </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ol> <li> O Usuário acessa as formas de armazenamento do sistema <li> O usuário abre o arquivo com a aplicação </ol></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo <li> O usuário localiza e solicita a abertura do documento no sistema <li> O aplicativo exibe uma mensagem de erro informando que não foi possível carregar o documento</td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário pode editar um documento na aplicação</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS02</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS21</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS15</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT13</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 5: UC 2 - Editar documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="uc-transferencia-de-dados">UC-Transferência de dados</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="US_Conta" src="../../images/modelagem/casosDeUso/diagramas/UC-transferenciaDados.png" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Figura 2: Diagrama de Casos de Uso referentes a transferência de dados (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-3-compartilhar-documento">Caso de Uso 3 - Compartilhar documento</h3>
+<table>
+<thead>
+<tr>
+<th>UC03</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de compartilhar documentos de diferentes formas</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação e acesso aos dispositivos de compartilhamento</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário determina o compartilhamento de arquivos dentre as duas possíveis formas</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser compartilhado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Enviar" <li> O usuário indica se o documento pode ser compatilhado via email ou bluetooth  <li> O usuário determina a forma de exportação a partir das extensões disponíveis </br></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>Não há fluxo alternativo</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><b>Fluxo 1: Compartilhar via Email</b> <ol> <li> O usuário acessa o aplicativo e o documento a ser compartilhado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Enviar" <li> O usuário indica que o documento vai ser compatilhado via email <li> O sistema indicar que não foi possível acessar o serviço de email </ol> <b> Fluxo 2: Compartilhar via Bluetooth</b> <ol> <li> O usuário acessa o aplicativo e o documento a ser compartilhado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Enviar" <li> O usuário indica que o documento vai ser compatilhado via bluetooth <li> O sistema notificar que nenhum dispositivo bluetooth foi encontrado para enviar o arquivo </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário compartilha o documento definido</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS15</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT14</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">BS03</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS03</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 6: UC 3 - Compartilhar documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-4-exportar-documento">Caso de Uso 4 - Exportar documento</h3>
+<table>
+<thead>
+<tr>
+<th>UC04</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de exportar documentos com diferentes tipos de extensões de arquivo dentro do sistema</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação e acesso aos dispositivos de armazenamento</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário determina o tipo de extensão e o local de armazenamento do arquivo a ser exportado</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser exportado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Exportar como" <li> O usuário indica a extensão de exportação do documento  <li> O usuário determina o direcionamento de armazenamento do arquivo</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>Não há fluxo alternativo</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><b>Fluxo 1: Exportação para o Disco Rígido</b> <ol> <li> O usuário acessa o aplicativo e o documento a ser exportado<li> O usuário acessa a aba "Exportar como" <li> O usuário indica a extensão de exportação do documento  <li> O usuário determina que o direcionamento de armazenamento do arquivo será no disco rígido <li> O sistema notificar que não espaço suficiente no sistema para armazenar o arquivo no disco </ol> <b> Fluxo 2: Exportação para a Nuvem </b> <ol> <li> O usuário acessa o aplicativo e o documento a ser exportado<li> O usuário acessa a aba "Exportar como" <li> O usuário indica a extensão de exportação do documento  <li> O usuário determina que o direcionamento de armazenamento do arquivo será na nuvem <li> O sistema notificar que não conseguiu obter acesso ao armazenamento na nuvem no sistema </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário compartilha o documento definido</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT14</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">BS03</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS03</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 7: UC 4 - Exportar documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-5-salvar-documento">Caso de Uso 5 - Salvar documento</h3>
+<table>
+<thead>
+<tr>
+<th>UC05</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de salvar documentos na extensão padrão odt dentro do sistema</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação e acesso aos dispositivos de armazenamento</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário determina o local de armazenamento do arquivo com a sua extensão odt</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser armazenado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Salvar" <li> O usuário indica se o documento odt pode ser armazenado no disco rigido do dispositivo do sistema ou na nuvem</td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser armazenado <li> O usuário pressiona as teclas "Ctrl+S" <li> O usuário indica o local de armazenamento do arquivo no sistema</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><b>Fluxo 1: Armazenamento em Disco Rígido</b> <ol> <li> O usuário acessa o aplicativo e o documento a ser armazenado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Salvar" <li> O usuário indica que o documento odt vai ser armazenado no disco rigido do dispositivo <li> O sistema notificar que não espaço suficiente no sistema para armazenar o arquivo no disco </ol> <b> Fluxo 2: Armazenamento na Nuvem </b> <ol> <li> O usuário acessa o aplicativo e o documento a ser armazenado <li> O usuário acessa o menu de documentos em "Arquivos" e a aba "Salvar" <li> O usuário indica que o documento odt vai ser armazenado na nuvem <li> O sistema notificar que não conseguiu obter acesso ao armazenamento na nuvem no sistema </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário salva o documento no sistema</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT14</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">BS03</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS03</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 8: UC 5 - Salvar documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="uc-redigir-documento">UC-Redigir documento</h3>
+<table>
+<thead>
+<tr>
+<th><img alt="US_Conta" src="../../images/modelagem/casosDeUso/diagramas/UC-redigirDocumento.png" /></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Figura 3: Diagrama de Casos de Uso referentes a produção de documento (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-6-formatar-pagina">Caso de Uso 6 - Formatar página</h3>
+<table>
+<thead>
+<tr>
+<th>UC06</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de formatar as páginas do documento</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação e acesso ao dispositivo de armazenamento</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário impõe a edição de elementos textuais e visuais no documento</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário acessa o menu de formatação em "Inserir", "Formatar" e "Estilos" <li> O usuário indica as operações de formatação que deseja executar <li> A depender o usuário impõe os elementos textuais e visuais, formatando o texto, anexando aquivos, construindo gráficos e tabelas </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário acessa a barra inicial superior <li> O usuário indica as formatações que deseja realizar, clicando nos icones correspondentes para editar </ol></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário busca utilizar as ferramentas de alteração de elementos visuais e textuais  <li> O sistema indicar que não foi possível acessar essas ferramentas </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário formata o documento de acordo com seu interesse</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS05</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS06</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS07</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT02</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT03</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT04</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT05</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT06</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT07</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT08</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT09</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 9: UC 6 - Formatar página (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-7-pesquisar-na-pagina">Caso de Uso 7 - Pesquisar na página</h3>
+<table>
+<thead>
+<tr>
+<th>UC07</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de pesquisar palavras e textos de interesse no documento</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário impõe a pesquisa de palavras e textos no documento</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário acessa o menu de "Editar" e a aba "Localizar" <li> O usuário insere o texto a ser buscado no documento </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário insere o atalho de busca "Ctrl+F" <li> O usuário indica o texto a ser localizado </ol></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário buscar o texto no documento <li> A aplicação notifica o usuário que a ferramenta não está operando da forma correta </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário localiza o texto de interesse no documento</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS20</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT11</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 10: UC 7 - Pesquisar na página (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-8-acionar-ferramentas">Caso de Uso 8 - Acionar ferramentas</h3>
+<table>
+<thead>
+<tr>
+<th>UC08</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de acionar as ferramentas de auxilio de escrita no documento</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário aciona as ferramentas de auxilio de escrita no sistema</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário acessa o menu de "Ferramentas" e suas configurações <li> O usuário aciona a autocorreção e/ou o assistente de escrita </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>não há fluxo alternativo</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário busca acionar alguma ferramenta <li> A aplicação notifica o usuário que a ferramenta não está operando da forma correta </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário aciona ferramentas de escrita no documento</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS04</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS18</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS14</a>, <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/">BS16</a>,  <a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT10</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 11: UC 8 - Acionar ferramentas (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h3 id="caso-de-uso-9-ver-atualizacoes-na-pagina">Caso de Uso 9 - Ver atualizações na página</h3>
+<table>
+<thead>
+<tr>
+<th>UC09</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário é capaz de ver as atualizações no documento</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Usuário</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Acesso a aplicação</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário verifica as atualizações do documento no sistema</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário acessa o menu de "Editar" e a aba de "Registrar alterações" <li> Verifica e edita as últimas atualizações feitas no sistema </ol></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td>não há fluxo alternativo</td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ol> <li> O usuário acessa o aplicativo e o documento de interesse <li> O usuário busca verificar e editar alguma atualizações no documento <li> A aplicação notifica o usuário que a ferramenta não está operando da forma correta </ol></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>O usuário verifica e editar as atualizações feitas no sistema</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>22/10/2023</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao/">INT18</a></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 12: UC 9 - Ver atualizações na página (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>FERNANDO, Sidney. Caso de Uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/. Acesso em: 20 outubro 2023.</p>
+<p>Tutorial de Caso de Uso UML. Disponível em: <a href="https://www.youtube.com/watch?v=ab6eDdwS3rA">https://www.youtube.com/watch?v=ab6eDdwS3rA</a>. Acesso em: 20 outubro 2023.</p>
+<p>Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml</a>.  Acesso em: 20 outubro 2023.</p>
+<p>UML DIAGRAMS. Use Case Diagrams. Disponível em: <a href="https://www.uml-diagrams.org/use-case-diagrams.html">https://www.uml-diagrams.org/use-case-diagrams.html</a>. Acesso em: 20 outubro 2023.</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>22/10/2023</td>
+<td>Criação da Página e Incorporação dos seus elementos</td>
+<td>Artur Seppa</td>
+<td>Ana Luíza</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.b4d07000.min.js"></script>
+      
+    
+  </body>
+</html>
