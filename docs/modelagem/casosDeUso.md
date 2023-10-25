@@ -155,7 +155,7 @@ A construção dos Diagramas de Casos de Uso desenvolvidos e representados nas f
 </div>
 
 ### UC-Redigir documento
-| ![US_Conta](../images/modelagem/casosDeUso/diagramas/UC-redigirdocumento.png)                                                   |
+| ![US_Conta](../../images/modelagem/casosDeUso/diagramas/UC-redigirDocumento.png)                                                   |
 |---------------------------------------------------------------------------------------|
 <div style="text-align: center">
 <p> Figura 3: Diagrama de Casos de Uso referentes a produção de documento (Fonte: Artur Seppa Reiman, 2023).</p>
