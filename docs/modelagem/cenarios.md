@@ -107,7 +107,7 @@ Tabela 3: Descrição do cenário de inserção de imagens no LibreOffice Writer
 
 
 
-## Cenário 3
+## Cenário 4
 
 
 <center>
@@ -171,6 +171,157 @@ Tabela 5: Descrição do cenário de incorporação de gráficos e tabelas no Li
 
 </center>
 
+## Cenário 6
+
+
+<center>
+
+
+
+|*Cenário 6*|
+|--------------|
+|**Titulo**|
+|Criação de Documento Extensivo com Índice Automatizado|
+|**Objetivo**|
+|Permitir que o usuário crie de forma eficiente um documento extenso com várias seções, enquanto gera automaticamente um índice para facilitar a navegação e localização de conteúdo relevante dentro do documento.|
+|**Contexto**|
+|<p>Local: Tela inicial do aplicativo.</p> <p>Tempo: Aproximadamente 1 min.</p> <p>Pré-condição: O LibreOffice Writer estar instalado no sistema</p>|
+|**Atores**|
+|Usuários do LibreOffice Writer.|
+|**Recursos**|
+|<p>Internet.</p><p>Computador com LibreOffice Writer instalado. </p> |
+|**Episódios**|
+|<p>1. O usuário inicia o LibreOffice Writer.</p> <p>2. O usuário seleciona a opção "Novo Documento em Branco".</p> <p>3. O aplicativo abre um novo documento em branco.</p> <p>O autor escreve o conteúdo do documento, dividindo-o em várias seções, capítulos ou partes, conforme necessário.</p><p>
+O índice é inserido no início do documento, fornecendo uma lista organizada de seções e palavras-chave com links para as páginas correspondentes.</p>|
+|**Restrição**|
+|<p>O usuário deve ter o LibreOffice Writer instalado no computador.</p>|
+|**Exceção**|
+|<p>O aplicativo pode não abrir corretamente devido a problemas técnicos.</p>|
+
+Tabela 6: Criação de Documento Extensivo com Índice Automatizado
+
+## Cenário 7
+
+
+<center>
+
+
+|*Cenário 7*|
+|--------------|
+|**Titulo**|
+|Revisão de Documento no LibreOffice|
+|**Objetivo**|
+|Permitir que um revisor analise um documento, faça comentários e sugira alterações usando as ferramentas de revisão do LibreOffice.|
+|**Contexto**|
+|<p>Local: Documento aberto no aplicativo.</p> <p>Tempo: Aproximadamente 1 min.</p> <p>Pré-condição: O LibreOffice Writer estar instalado no sistema e internet no computador</p>|
+|**Atores**|
+|Usuários do LibreOffice Writer.|
+|**Recursos**|
+|<p>Internet.</p><p>Computador com LibreOffice Writer instalado. </p> |
+|**Episódios**|
+|<p>1. O usuário inicia o LibreOffice Writer.</p> <p>2. O usuário seleciona a opção "Novo Documento em Branco".</p> <p>3. O aplicativo abre um novo documento em branco.</p> <p>O usuário digita e formata texto no documento.</p> <p>O revisor abre o documento no LibreOffice.</p> <p>O revisor utiliza as ferramentas de revisão do LibreOffice para destacar erros e fazer comentários, como sugestões de correções e observações.</p>|
+|**Restrição**|
+|<p>O usuário deve ter o LibreOffice Writer instalado no computador e internet.</p><p>O autor e o revisor devem ter meios de comunicação para enviar e receber o documento revisado.</p>|
+|**Exceção**|
+|<p>A ferramenta pode não funcionar corretamente devido a problemas técnicos.</p>|
+
+Tabela 7: Revisão de Documento no LibreOffice
+
+
+## Cenário 8
+
+
+<center>
+
+
+
+|*Cenário 8*|
+|--------------|
+|**Titulo**|
+|Exportação de Documento Writer para PDF com Formatação Preservada|
+|**Objetivo**|
+|Permitir que um usuário converta um documento Writer em um arquivo PDF, garantindo que a formatação original seja preservada.|
+|**Contexto**|
+|<p>Local: Tela de um documento finalizado.</p> <p>Tempo: Aproximadamente 1 min.</p> <p>Pré-condição: O LibreOffice Writer estar instalado no sistema e ter um documento pronto</p>|
+|**Atores**|
+|Usuário do LibreOffice Writer.|
+|**Recursos**|
+|<p>Computador com LibreOffice Writer instalado. </p> |
+|**Episódios**|
+|<p>1. O usuário inicia o LibreOffice Writer.</p> <p>2. O usuário seleciona a opção "Novo Documento em Branco".</p> <p>3. O aplicativo abre um novo documento em branco.</p> <p>O usuário digita e formata texto básico no documento.</p><p>O usuário verifica a formatação do documento para garantir que esteja conforme desejado antes da conversão.</p><p>O usuário seleciona a opção "Exportar como PDF" no LibreOffice Writer.</p>|
+|**Restrição**|
+|<p>O usuário deve ter o LibreOffice Writer instalado no computador.</p>|
+|**Exceção**|
+|<p>O aplicativo pode não salvar corretamente devido a problemas técnicos.</p>|
+
+Tabela 8: Exportação de Documento Writer para PDF com Formatação Preservada.
+
+
+## Cenário 9
+
+
+<center>
+
+
+
+|*Cenário 9*|
+|--------------|
+|**Titulo**|
+|Uso de Macros Personalizadas no LibreOffice|
+|**Objetivo**|
+|Permitir que um usuário avançado crie e execute macros personalizadas para automatizar tarefas repetitivas no LibreOffice.|
+|**Contexto**|
+|<p>Local: Documento aberto no aplicativo.</p> <p>Tempo: Aproximadamente 30 min.</p> <p>Pré-condição: O LibreOffice Writer estar instalado no sistema</p>|
+|**Atores**|
+|Usuários avançados do LibreOffice Writer.|
+|**Recursos**|
+|<p>Computador com LibreOffice Writer instalado. </p> |
+|**Episódios**|
+|<p>O usuário avançado identifica uma tarefa repetitiva no LibreOffice que deseja automatizar.</p> <p>O usuário avançado abre o LibreOffice Writer, Calc ou outro aplicativo do LibreOffice, dependendo da tarefa que deseja automatizar.</p> <p>O usuário avançado acessa a seção de macros do LibreOffice.</p> <p>O usuário avançado cria uma nova macro personalizada, programando as ações que a macro deve executar.</p> <p>O usuário avançado associa a macro a um atalho de teclado ou a um botão personalizado na barra de ferramentas, facilitando a execução da macro.</p> <p>Quando a tarefa repetitiva surgir, o usuário avançado executa a macro pressionando o atalho de teclado ou clicando no botão personalizado.</p> <p>A macro executa as ações programadas de forma automática, concluindo a tarefa em questão.</p> <p>O usuário avançado verifica se a tarefa foi concluída com sucesso e faz qualquer ajuste necessário na macro, se aplicável.</p>|
+|**Restrição**|
+|<p>O usuário deve ter o LibreOffice Writer instalado no computador.</p>|
+|**Exceção**|
+|<p>A macro pode não funcionar corretamente devido a problemas técnicos.</p>|
+
+Tabela 9: Uso de Macros Personalizadas no LibreOffice.
+
+
+## Cenário 10
+
+
+<center>
+
+
+
+|*Cenário 10*|
+|--------------|
+|**Titulo**|
+|Alternância entre Modo Offline e Online para Acesso e Edição de Documentos|
+|**Objetivo**|
+|Permitir que um usuário alterne entre o modo offline e online para acessar e editar documentos armazenados localmente ou na nuvem, de acordo com as necessidades.|
+|**Contexto**|
+|<p>Local: Tela inicial do aplicativo.</p> <p>Tempo: Aproximadamente 1 min.</p> <p>Pré-condição: O LibreOffice Writer estar instalado no sistema e deve haver conexão com a internet</p>|
+|**Atores**|
+|Usuários do LibreOffice Writer.|
+|**Recursos**|
+|<p>Internet.</p><p>Computador com LibreOffice Writer instalado. </p> |
+|**Episódios**|
+|O usuário decide acessar ou editar um documento.</p> <p>Se o documento estiver armazenado localmente no dispositivo e o usuário estiver offline, o usuário abre o aplicativo ou programa de edição de documentos no modo offline.</p> <p>O usuário seleciona o documento local que deseja acessar e editá-lo.</p> <p>O usuário realiza as edições necessárias no documento enquanto está offline.</p> <p>Quando o usuário retorna à conectividade online, o aplicativo ou programa automaticamente sincroniza as alterações com a versão na nuvem (se disponível).</p> <p>
+OU</p> <p>
+
+Se o documento estiver armazenado na nuvem e o usuário estiver online, o usuário abre o aplicativo ou programa de edição de documentos no modo online.</p> <p>
+O usuário faz login na sua conta na nuvem (por exemplo, Google Drive ou Dropbox).</p> <p>
+O usuário seleciona o documento na nuvem que deseja acessar e editá-lo.</p> <p>
+O usuário realiza as edições necessárias no documento enquanto está online.</p> <p>
+Todas as alterações são automaticamente salvas na versão na nuvem.</p>|
+|**Restrição**|
+|<p>O usuário deve ter o LibreOffice Writer instalado no computador.</p>|
+|**Exceção**|
+|<p>O aplicativo pode não abrir corretamente devido a problemas técnicos.</p>|
+
+
+Tabela 10: Alternância entre Modo Offline e Online para Acesso e Edição de Documentos
+
 ## Bibliografia
 
 
@@ -186,4 +337,4 @@ Tabela 5: Descrição do cenário de incorporação de gráficos e tabelas no Li
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 24/10/2023 | Criação dos cenários                        | [Ana Letícia](https://github.com/analeticiaa) e Raphaella|    |
+| `1.0`  | 24/10/2023 | Criação dos cenários                        | [Ana Letícia](https://github.com/analeticiaa) e [Raphaela](https://github.com/raphaiela)|    |
