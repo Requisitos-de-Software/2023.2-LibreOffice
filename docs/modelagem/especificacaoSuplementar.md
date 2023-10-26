@@ -62,7 +62,7 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | USA07 | O aplicativo deve permitir a identificação fácil das funcionalidades disponíveis.                                                                                                                                                                           |
 </center>
 
-<font><p style="text-align: center">**Tabela 1:** Requisitos de Usabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
+<font><p style="text-align: center">**Tabela 1:** Requisitos de Usabilidade. Fonte: Edilberto Almeida Cantuaria .</p></font>
 
 
 ### Confiabilidade 
@@ -81,7 +81,7 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | CONF07  | O aplicativo deve permitir a identificação fácil das funcionalidades disponíveis.                                                                                                  |
 </center>
 
-<font><p style="text-align: center">**Tabela 2:** Requisitos de Confiabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
+<font><p style="text-align: center">**Tabela 2:** Requisitos de Confiabilidade. Fonte: Edilberto Almeida Cantuaria .</p></font>
 
 
 
@@ -98,7 +98,7 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 | PERF05  | É fundamental que a aplicação mantenha um consumo de memória razoável para evitar possíveis problemas em dispositivos cujo sistema operacional não esteja atualizado. |
 </center>
 
-<font><p style="text-align: center">**Tabela 3:** Requisitos de Performance. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
+<font><p style="text-align: center">**Tabela 3:** Requisitos de Performance. Fonte: Edilberto Almeida Cantuaria .</p></font>
 
 
 ### Suportabilidade
@@ -116,7 +116,7 @@ Na seção de `elicitacao`, foram identificados os requisitos funcionais, e a Ta
 
 </center>
 
-<font><p style="text-align: center">**Tabela 4:** Requisitos de Suportabilidade. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
+<font><p style="text-align: center">**Tabela 4:** Requisitos de Suportabilidade. Fonte: Edilberto Almeida Cantuaria .</p></font>
 
 
 
