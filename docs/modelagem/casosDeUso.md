@@ -8,7 +8,7 @@ Após a elicitação de requisitos a partir das técnicas desenvolvidas pela equ
 
 Na Linguagem de Modelagem Unificada (UML), o diagrama de casos de uso efetua a modelagem simplificada das interações (casos de uso) entre os atores e um sistema em desenvolvimento. Sendo responsável por descrever os diferentes cenários de uso de uma aplicação, além de identificar as funcionalidades fornecidas e sua utilização dada pelos atores no ambiente.
 
-A construção de um diagrama pode ser definida por 4 elementos fundamentais na elaboração e entendimento das funcionalidades e interações no sistema, sendo abordados na Tabela 1 por:
+A construção de um diagrama pode ser definida por 4 elementos fundamentais para a elaboração e entendimento das funcionalidades e interações no sistema, sendo representados na Tabela 1 subsequente.
 
 | Nome | Função | Elemento
 |------|------|:-------:
@@ -21,7 +21,7 @@ A construção de um diagrama pode ser definida por 4 elementos fundamentais na 
 <p> Tabela 1: Elementos do diagrama de casos de uso (Fonte: Artur Seppa Reiman, 2023).</p>
 </div>
 
-Nesse contexto, para destacar uma melhor percepção do sistema, pode ser incluido a definição das relações do sistema assim como as possíveis definições de atores. Sendo descritas nas tabelas 2 e 3 a seguir:
+Nesse contexto, para destacar uma melhor percepção do sistema, as tabelas 2 e 3 buscam representar, a definição das relações assim como as possíveis definições de atores.
 
 |Relação|Descrição
 |:--:|:--:|
@@ -43,7 +43,7 @@ Nesse contexto, para destacar uma melhor percepção do sistema, pode ser inclui
  
 ## Diagrama de Caso de Uso
 
-A construção dos Diagramas de Casos de Uso elaborados e representados no artefato foram elaborados a partir da ferramenta de modelagem Lucichard e seguem como base os requisitos elicitados na seção anterior do projeto. Sendo ilustrados pelas figuras e tabelas descritivas subsequentes:
+A construção dos Diagramas de Casos de Uso desenvolvidos e representados nas figuras 1, 2 e 3 e tabelas de 4 a 9, foram elaborados a partir da ferramenta de modelagem Lucichard e seguem como base os requisitos elicitados na seção anterior do projeto.
 
 ### UC-Acessar Documento
 | ![US_Conta](../images/modelagem/casosDeUso/diagramas/UC-acessarDocumento.png)                                                   |
@@ -155,7 +155,7 @@ A construção dos Diagramas de Casos de Uso elaborados e representados no artef
 </div>
 
 ### UC-Redigir documento
-| ![US_Conta](../images/modelagem/casosDeUso/diagramas/UC-Redigirdocumento.png)                                                   |
+| ![US_Conta](../../images/modelagem/casosDeUso/diagramas/UC-redigirDocumento.png)                                                   |
 |---------------------------------------------------------------------------------------|
 <div style="text-align: center">
 <p> Figura 3: Diagrama de Casos de Uso referentes a produção de documento (Fonte: Artur Seppa Reiman, 2023).</p>
@@ -239,13 +239,13 @@ A construção dos Diagramas de Casos de Uso elaborados e representados no artef
 
 ## Bibliografia 
 
-FERNANDO, Sidney. Caso de Uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/. Acesso em: 20 outubro 2023.
+>FERNANDO, Sidney. Caso de Uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/. Acesso em: 20 outubro 2023.
 
-Tutorial de Caso de Uso UML. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 20 outubro 2023.
+>Tutorial de Caso de Uso UML. Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA>. Acesso em: 20 outubro 2023.
 
-Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>.  Acesso em: 20 outubro 2023.
+>Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>.  Acesso em: 20 outubro 2023.
 
-UML DIAGRAMS. Use Case Diagrams. Disponível em: <https://www.uml-diagrams.org/use-case-diagrams.html>. Acesso em: 20 outubro 2023.
+>UML DIAGRAMS. Use Case Diagrams. Disponível em: <https://www.uml-diagrams.org/use-case-diagrams.html>. Acesso em: 20 outubro 2023.
 
 ## Histórico de Versões
 
