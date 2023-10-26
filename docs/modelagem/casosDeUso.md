@@ -155,7 +155,7 @@ A construção dos Diagramas de Casos de Uso desenvolvidos e representados nas f
 </div>
 
 ### UC-Redigir documento
-| ![US_Conta](../../images/modelagem/casosDeUso/diagramas/UC-redigirDocumento.png)                                                   |
+| ![US_Conta](../images/modelagem/casosDeUso/diagramas/UC-redigirDocumento.png)                                                   |
 |---------------------------------------------------------------------------------------|
 <div style="text-align: center">
 <p> Figura 3: Diagrama de Casos de Uso referentes a produção de documento (Fonte: Artur Seppa Reiman, 2023).</p>
@@ -165,11 +165,11 @@ A construção dos Diagramas de Casos de Uso desenvolvidos e representados nas f
 
 | UC06 | Informações |
 | ----- | ---------- |
-| Descrição | O usuário é capaz de formatar as páginas do documento |
+| Descrição | O usuário é capaz de formatar as páginas do documento e acessar a ajuda de formatação |
 | Ator | Usuário |
 | Pré-condições | Acesso a aplicação e acesso ao dispositivo de armazenamento |
-| Ação | O usuário impõe a edição de elementos textuais e visuais no documento |
-| Fluxo principal | <ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário acessa o menu de formatação em "Inserir", "Formatar" e "Estilos" <li> O usuário indica as operações de formatação que deseja executar <li> A depender o usuário impõe os elementos textuais e visuais, formatando o texto, anexando aquivos, construindo gráficos e tabelas </ol> |
+| Ação | O usuário impõe a edição de elementos textuais e visuais no documento. Além de ter acesso a ajuda |
+| Fluxo principal | <ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário acessa o menu de formatação em "Inserir", "Formatar" e "Estilos" <li> O usuário indica as operações de formatação que deseja executar <li> A depender o usuário impõe os elementos textuais e visuais, formatando o texto, anexando aquivos, construindo gráficos, tabelas e fórmulas. Além de obter ajuda de formatação </ol> |
 | Fluxo alternativo |  <ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário acessa a barra inicial superior <li> O usuário indica as formatações que deseja realizar, clicando nos icones correspondentes para editar </ol> |
 | Fluxo de exceção | <ol> <li> O usuário acessa o aplicativo e o documento a ser formatado <li> O usuário busca utilizar as ferramentas de alteração de elementos visuais e textuais  <li> O sistema indicar que não foi possível acessar essas ferramentas </ol> |
 | Pós-condições | O usuário formata o documento de acordo com seu interesse |
