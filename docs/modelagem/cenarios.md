@@ -296,8 +296,6 @@ Tabela 9: Uso de Macros Personalizadas no LibreOffice. Fonte: Raphaela, 2023.
 
 <center>
 
-
-
 |*Cenário 10*|
 |--------------|
 |**Titulo**|
@@ -320,15 +318,12 @@ Tabela 9: Uso de Macros Personalizadas no LibreOffice. Fonte: Raphaela, 2023.
 
 Tabela 10: Alternância entre Modo Offline e Online para Acesso e Edição de Documentos. Fonte: Raphaela, 2023.
 
+</center>
+
 ## Bibliografia
 
 
 >SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf). Último acesso em: 24 out. 2023.
-
-
-
-
-
 
 ## Histórico de Versões
 
