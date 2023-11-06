@@ -70,7 +70,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 1:** Épico 1: criação de documentos com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 1:** Épico 1: criação de documentos com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details> 
 <br/>
@@ -102,7 +102,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 2:** Épico 2: estilização do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 2:** Épico 2: estilização do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -136,7 +136,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 3:** Épico 3: escrita do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 3:** Épico 3: escrita do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -171,7 +171,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 4:** Épico 4: ferramentas do sistema com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 4:** Épico 4: ferramentas do sistema com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -205,7 +205,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 5:** Épico 5: Operações e segurança com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 5:** Épico 5: Operações e segurança com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -236,7 +236,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><p style="text-align: center">**Tabela 6:** Épico 6: Segurança e operabilidade com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 6:** Épico 6: Segurança e operabilidade com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -392,7 +392,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
 </tbody>
 </table>
 
-<font><p style="text-align: center">**Tabela 1:** Product Backlog Elaborado com o Product Owner.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+<font><div style="text-align: center"><p>**Tabela 1:** Product Backlog Elaborado com o Product Owner.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </center>
 
@@ -419,6 +419,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
 > SANTOS, Eduardo; Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/>>. Acesso em: 06 de nov. 2023.
 ## Histórico de Versão
 
-| Versão | Data       | Descrição             | Edilberto Almeida Cantuaria(es)                                                                               | Revisor(es)   |
+| Versão | Data       | Descrição             | Autor(es)                                                                               | Revisor(es)   |
 | ------ | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- | ------------- |
 | `1.0`  | 06/11/2023 | Criação do documento. | [Edilberto Cantuaria ](https://github.com/edilbertocantuaria), [Ana Letícia ](https://github.com/analeticiaa) | Artur Seppa, Raphaela |
+ `1.1`  | 06/11/2023 | Atualização das referências das tabelas. | [Artur Seppa Reiman ](https://github.com/artur-seppa) | Artur Seppa, Raphaela |
