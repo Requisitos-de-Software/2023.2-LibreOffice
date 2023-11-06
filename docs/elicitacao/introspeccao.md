@@ -134,8 +134,8 @@ Possuir ferramentas/opções:
 
 
 
-<font><p style="text-align: center">**Tabela 2:** Requisitos elicitados. Fonte: [Edilberto Almeida Cantuaria](https://github.com/edilbertocantuaria) .</p></font>
-</div>
+<font><p style="text-align: center">**Tabela 2:** Requisitos elicitados. Fonte: Edilberto Almeida Cantuaria.</p></font>
+
 
 </center>
 
