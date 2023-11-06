@@ -414,18 +414,18 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
 ## Bibliografia
 
 
-> CARNEIRO, Caio Vitor. Especificação Suplementar. Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/especificao-suplementar/>>. Acesso em: 09 maio 2023.
+> CARNEIRO, Caio Vitor. Especificação Suplementar. Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/especificao-suplementar/>>. Acesso em: 06 de nov. 2023.
 
-> FERREIRA, Rafaela. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md>>. Acesso em: 22 de outubro de 2023
+> FERREIRA, Rafaela. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md>>. Acesso em: 06 de nov. 2023
 
 
-> MATIAS, Davi. Especificação Suplementar. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/>>. Acesso em: 22 de outubro de 2023.
+> MATIAS, Davi. Especificação Suplementar. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/>>. Acesso em: 06 de nov. 2023.
 
-> PERILLO, Matheus. Especificação Suplementar. Repositório do Grupo TikTok da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/especificao-suplementar.md>>. Acesso em: 22 de outubro de 2023.
+> PERILLO, Matheus. Especificação Suplementar. Repositório do Grupo TikTok da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/especificao-suplementar.md>>. Acesso em: 06 de nov. 2023.
 
-> SALES, Wildemberg; Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<hhttps://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/modelagem/especificao-suplementar.md/>>. Acesso em: 22 de outubro de 2023.
+> SALES, Wildemberg; Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<hhttps://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/modelagem/especificao-suplementar.md/>>. Acesso em: 06 de nov. 2023.
 
-> SANTOS, Eduardo; Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/>>. Acesso em: 22 de outubro de 2023.
+> SANTOS, Eduardo; Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/>>. Acesso em: 06 de nov. 2023.
 ## Histórico de Versão
 
 | Versão | Data       | Descrição             | Edilberto Almeida Cantuaria(es)                                                                               | Revisor(es)   |
