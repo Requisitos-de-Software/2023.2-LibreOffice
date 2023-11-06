@@ -65,6 +65,52 @@ até chegar aos softgoals no nível mais alto do SIG. Os tipos de rótulos são 
 
 </center>
 
+Descrição: 
+
+<p></p>
+
+- Satisfeito: Reflete que um requisito não funcional contribui de maneira positiva para a realização de outro requisito, resultando em satisfação.
+- Fracamente satisfeito: ndica uma relação de impacto positiva, mas menos forte do que a notação satisfeito.
+- Negado: Demonstrando que um requisito não funcional afeta adversamente outro requisito, anulando ou contradizendo sua concretização.
+- Fracamente negado: Similar à notação negado, mas com uma relação de negação mais fraca.
+- Conflitante: Indica uma relação de conflito entre requisitos não funcionais. Isso implica que os requisitos possuem características tanto positivas quanto negativas.
+- Indeterminado: Refere-se a uma relação incerta ou desconhecida entre requisitos não funcionais. Isso ocorre quando há informações insuficientes para determinar o impacto de um requisito em outro.
+
+## NFR
+
+### NFR-01 - Portabilidade
+
+A figura 4 representa o SIG de portabilidade.
+
+![Dragrama do NFR de portabilidade](../../images/modelagem/nfr/portabilidadesem.png)
+
+<font size="3"><p style="text-align: center">Figura 4: SIG de portabilidade (Fonte:Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva, 2023)</p></font>
+
+#### Propagação de impacto
+
+A Figura 5 apresenta a propagação de impacto do NFR de Portabilidade.
+
+![Propagação do NFR de confiabilidade](../../images/modelagem/nfr/portabilidadeimp.png)
+
+#### Cartão de especificação
+
+| Classificação         | Compatibilidade do aplicativo em diferentes sistemas operacionais e dispositivos / Portabilidade | 
+| ----------------------|-------------------------------|
+| Descrição             | O aplicativo deve ser compatível tanto com dispositivos mobile (Android ou IOS), desktops (Linux,Windowse MacOS) e com sistemas web |
+| Justificativa         | Torna o aplicativo muito mais acessível e versátil.|
+| Origem do requisito   | BS27 e INT21. Fonte: [Moscow](https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/priorizacao/moscow/) |
+| Critério de aceitação | Nenhum |
+| Prioridade            | Alta  |
+| Conflito              | Nenhum |
+
+<font size="3"><p style="text-align: center">Tabela 1: Cartão de especificação (Fonte: Rafael Xavier, 2023)</p></font>
+
+
+
+
+
+
+
 
 ## Histórico de versão
 
