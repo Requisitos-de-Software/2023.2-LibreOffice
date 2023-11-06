@@ -1,0 +1,433 @@
+# Backlog
+
+## Introdução
+
+"O Product Backlog é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner" Milene Serrano e Maurício Serrano (2017) [1]. Aprofundando a explicação, o backlog do produto permite organizar os itens de acordo com sua prioridade. As prioridades e outras gerências do  backlog é realizado pelo *Product Owner* (PO), visando garantir que o produto final atenda às necessidades do cliente. Os itens listados em um backlog podem ser requisitos, funcionalidades, correções de bugs ou melhorias e podem ser modificados ao longo do projeto. Além disso, o backlog é um importante artefato para o sucesso de um produto pois permite:
+
+* Comunicação e alinhamento: O backlog do produto ajuda a equipe de desenvolvimento e o cliente a se comunicar e alinhar suas expectativas.
+* Planejamento e execução: O backlog do produto fornece uma base para o planejamento e a execução do desenvolvimento do produto.
+* Flexibilidade: O backlog do produto pode ser alterado à medida que as necessidades do cliente ou do mercado mudam
+
+
+
+## Metodologia 
+
+Durante a entrevista com o Product Owner (PO), os desenvolvedores e entrevistadores registraram as histórias de usuário conforme o PO as descrevia. Após isso, estabeleceram critérios de aceitação e o PO classificou as histórias em três níveis de prioridade: Alta, Média ou Baixa, utilizando o método Three Level Scale. Em seguida, categorizaram as histórias em temas, épicos e features. A Tabela 1 (seção Resultados obtidos) fornece o backlog do produto, com detalhes de cada história de usuário disponíveis no artefato correspondente. O restante deste documento explica mais detalhadamente o processo de definição de temas, épicos e features, juntamente com o significado de cada termo.
+
+### 2.1 - Entrevista com o PO
+O vídeo [1] é a gravação da entrevista com o PO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZxL0vVdUFY" frameborder="0" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da entrevista com o PO Antônio Ferreira de Castro (Fonte: Artur Seppa Reiman, 2023).</p>
+</div>
+
+
+
+## Resultados Obtidos
+### Temas
+
+Analisando a gravação com o PO, foi possível organizar inicialmente em dois grandes temas.
+
+- **Documentos**: Engloba as funcionalidades relacionadas aos documentos do aplicativo como criação, visuzlização, edição e exclusão.
+- **Sistema**: Trata sobre as funcionalidades do sistema em si, envolvendo aspectos técnicos e de suporte.
+
+### Épicos
+
+Após a definição dos temas, eles são subdivididos em épicos para tornar as atividades do projeto mais concretas. Para esse projeto, os épicos foram escritos no formato de histórias de usuário e possuem um nível de abstração ainda menor, chamado de *Features*.
+
+### Features
+
+Após a definição de um épico, são geradas *features*, que representam descrições de alto nível das funcionalidades do produto. As *features* são mais conceituais do que as histórias de usuário, pois elas delimitam o que o produto deve realizar, em vez de detalhar como isso deve ser feito.
+
+### Histórias de Usuário
+
+As histórias de usuário refinam ainda mais as features e são abordadas em maior detalhe nas **Tabelas 1 a 6**. Elas consistem em descrições concisas e abstratas de funcionalidades desejadas do ponto de vista do cliente. Geralmente, seguem o formato "Eu, como ___, desejo ___ para ___."
+
+### Épicos
+
+<details>
+   <summary>E01 - Criação de documentos</summary>
+   <div><p>Esse épico apresenta as funcionalidades que permite aos usuários criar documentos com configurações específicas (como tipo de folha), com base em modelos pré-definidos (como currículo) ou, simplesmente, um arquivo em branco. A história de usuário a seguir o generaliza:
+
+ ```"Como usuário típico, eu desejo funcionalidades que me permitam criar documentos com base nas configurações que eu preciso"```</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Criação de documentos</td>
+        <td>EP01</td>
+        <td>
+        <ul>
+            <li>US01: Eu, como usuário, desejo criar um novo documento utilizando modelos pré-definidos, como currículos, folhetos ou calendários ou até mesmo um documento em branco para economizar tempo e facilitar a formatação do meu conteúdo.</li>
+            <li>US02: Eu, como usuário, desejo personalizar as margens do meu documento para atender às minhas necessidades específicas de layout e formato.</li>
+            <li>US03: Eu, como usuário, desejo ter a capacidade de selecionar o tamanho de papel do meu documento, como A4, A3, Carta, entre outros, ao criar um novo arquivo, para que eu possa escolher o formato que melhor atende às minhas necessidades de escrita e impressão.</li>
+            <li>US04: Eu, como usuário, desejo personalizar o cabeçalho e rodapé do meu documento para  adicionar informações como números de página, datas e outros elementos personalizados que eu julgar necessário</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 1:** Épico 1: criação de documentos com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details> 
+<br/>
+
+
+<details>
+   <summary>E02 - Estilização do documentos</summary>
+   <div><p>Esse épico apresenta as funcionalidades que permite aos usuários estilizarem o documento de acordo com os seus gostos ou necessidades. A história de usuário a seguir o generaliza:
+
+```"Como usuário típico, eu desejo modificar o documento de acordo com as minhas preferências"```</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Estilização do documentos</td>
+        <td>EP02</td>
+        <td>
+        <ul>
+            <li>US05: Eu, como usuário, desejo ter a capacidade de alterar a fonte do texto no meu documento, escolhendo entre uma variedade de opções de fonte para melhorar a aparência do meu conteúdo.</li>
+            <li>US06: Eu, como usuário, desejo poder ajustar o tamanho da fonte, aumentando ou diminuindo o tamanho do texto para enfatizar partes específicas do meu documento.</li>
+            <li>US07: Eu, como usuário, desejo poder aplicar cores ao texto no meu documento, para destacar informações importantes e melhorar a apresentação visual do meu conteúdo.</li>
+            <li>US08: Eu, como usuário, desejo utilizar formatação de texto, como negrito, itálico, sublinhado, tachado, entre outros, para dar ênfase e estilo ao meu texto de acordo com as necessidades do meu projeto.</li>
+            <li>US09: Eu, como usuário, desejo poder alinhar o texto no meu documento, incluindo opções de alinhamento à esquerda, à direita, centralizado e justificado, para garantir que o layout do texto se ajuste às minhas preferências e requisitos de design.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 2:** Épico 2: estilização do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details><br/>
+
+
+<details>
+   <summary>E03 - Escrita do documento</summary>
+   <div><p>Esse épico apresenta as funcionalidades para uma boa redação do documento de acordo com os seus gostos ou necessidades. A história de usuário a seguir o generaliza:
+
+```"Como usuário típico, eu desejo escrever o documento de acordo com as minhas preferências ou necessidades"```</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Escrita do documento</td>
+        <td>EP03</td>
+        <td>
+        <ul>
+            <li>US10: Eu, como usuário, desejo poder inserir imagens de diversas extensões, como .jpeg, .png, .webp, .svg, etc., no meu documento, para melhorar o conteúdo do texto com elementos visuais.</li>
+            <li>US11: Eu, como usuário, desejo a capacidade de inserir listas ordenadas ou não, para estruturar meu texto de maneira clara e organizada.</li>
+            <li>US12: Eu, como usuário, desejo inserir tabelas em meu documento, criando e formatando tabelas para apresentar informações de maneira tabular e organizada.</li>
+            <li>US13: Eu, como usuário, desejo poder inserir gráficos no meu documento, incorporando representações visuais de dados, como gráficos de barras, pizza, ou linhas, para ilustrar conceitos e informações.</li>
+            <li>US14: Eu, como usuário, desejo a capacidade de inserir formas, como setas, retângulos, circunferências, elipses, etc., no meu documento, possibilitando a criação de diagramas e ilustrações personalizadas para complementar o texto.</li>
+            <li>US15: Eu, como usuário, desejo contar com uma funcionalidade de autocomplete, que sugira palavras ou frases à medida que digito, para acelerar o processo de escrita e evitar erros de digitação.</li>
+            <li>US16: Eu, como usuário, desejo que o LibreOffice Writer verifique automaticamente os erros ortográficos no meu texto, destacando palavras mal escritas ou com erros e fornecendo correções sugeridas.</li>
+            <li>US17: Eu, como usuário, desejo receber sugestões para melhorar a escrita do meu texto, incluindo dicas de gramática, estilo e clareza, para aprimorar a qualidade do meu conteúdo.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 3:** Épico 3: escrita do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details><br/>
+
+<details>
+   <summary>E04 - Ferramentas do sistema</summary>
+   <div><p>Esse épico apresenta as funcionalidades que auxiliam os usuários a realizarem tarefas dentro do sistema através de ferramentas que permite que usuário consigam utilizar o sistema de forma eficaz. A história de usuário a seguir o generaliza:
+
+```"Como usuário, eu desejo recursos que me permitam realizar com velocidade tarefas no LibreOffice Writter"```
+`</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Ferramentas do sistema</td>
+        <td>EP04</td>
+        <td>
+        <ul>
+            <li>US18: Eu, como usuário, desejo a capacidade de salvar o documento em meu disco local, armazenando meus trabalhos de forma segura e acessível.</li>
+            <li>US19: Eu, como usuário, desejo poder salvar o documento em diversas extensões, como .pdf, .doc, .docx, .odt, .txt, etc., para facilitar o compartilhamento e a compatibilidade com outros softwares.</li>
+            <li>US20: Eu, como usuário, desejo ser capaz de editar textos com extensões de softwares concorrentes, como documentos originalmente criados no Word ou Docs, garantindo a interoperabilidade e a edição sem problemas.</li>
+            <li>US21: Eu, como usuário, desejo ter ferramentas de pesquisa avançadas que me permitam escolher se a pesquisa deve diferenciar letras maiúsculas e minúsculas, acentos e pesquisar a palavra completa ou parte dela, para encontrar informações com precisão.</li>
+            <li>US22: Eu, como usuário, desejo integração com inteligência artificial para realizar pesquisas avançadas, como pesquisa semântica, sugestões contextuais e busca de informações relacionadas ao conteúdo do meu documento.</li>
+            <li>US23: Eu, como usuário, desejo a capacidade de usar plugins que se conectem à internet, estendendo as funcionalidades do LibreOffice Writer com extensões que atendam às minhas necessidades específicas.</li>
+            <li>US24: Eu, como usuário, desejo que o LibreOffice Writer ofereça ferramentas de acessibilidade, como um leitor de tela e a capacidade de escolher temas que ajudem pessoas com daltonismo a utilizar o software de forma eficaz.</li>
+            <li>US25: Eu, como usuário, desejo suporte múltiplos idiomas, com foco nos principais idiomas, como Inglês (US), Português (BR) e Espanhol (América Latina), para atender a uma base de usuários global e diversificada.</li>
+            <li>US26: Eu, como usuário, desejo que, ao clicar com o botão direito do mouse em qualquer ferramenta do sistema no LibreOffice Writer, seja exibida uma explicação sucinta daquela ferramenta ou recurso, proporcionando-me informações contextuais e ajudando a entender como usar a funcionalidade de maneira eficaz.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 4:** Épico 4: ferramentas do sistema com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details><br/>
+
+<details>
+   <summary>E05 - Integração com a nuvem e configurações de compartilhamentos</summary>
+   <div><p>Este épico apresenta funcionalidades que garantem aos usuários a capacidade de compartilhar documentos, juntamente com regras de negócio e integração na nuvem, para evitar erros e atividades indesejadas. A seguinte história do usuário exemplifica isso:
+   A história de usuário a seguir o generaliza:
+
+```"Como usuário, desejo ter recursos que me permitam salvar documentos na nuvem e controlar como eles são compartilhados."```
+`</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Integração com a nuvem e configurações de compartilhamentos</td>
+        <td>EP05</td>
+        <td>
+        <ul>
+            <li>US27: Eu, como usuário, desejo a capacidade de salvar o documento diretamente em um serviço de nuvem, como o Google Drive, para armazenar meus documentos de forma segura e acessível de qualquer lugar.</li>
+            <li>US28: Eu, como usuário, desejo compartilhar o documento por meio de um link, e-mail ou aplicativos de mensagens como o Whatsapp e Telegram, compartilhando meu trabalho de maneira rápida e conveniente com outras pessoas.</li>
+            <li>US29: Eu, como usuário, gostaria de ter um sistema de backup contínuo que automaticamente salva versões anteriores do meu documento, para fornecer uma camada extra de segurança contra perda de dados.</li>
+            <li>US30: Eu, como usuário, desejo compartilhar o documento com terceiros e ter a capacidade de editar configurações de administrador e colaborador, controlando as permissões de edição e acesso de diferentes usuários.</li>
+            <li>US31: Eu, como usuário, desejo que os colaboradores não possam apagar ou exportar o texto sem autorização do administrador, para garantir a integridade do documento compartilhado.</li>
+            <li>US32: Eu, como usuário, desejo que o administrador tenha a capacidade de aceitar ou rejeitar as alterações feitas por um colaborador no texto principal, para manter o controle sobre o conteúdo final do documento.</li>
+            <li>US33: Eu, como usuário, gostaria de ver versões anteriores do documento, semelhante ao Git no GitHub, permitindo-me acessar e restaurar versões anteriores do meu trabalho, se necessário, para rastrear alterações e evolução ao longo do tempo.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 5:** Épico 5: Operações e segurança com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details><br/>
+
+<details>
+   <summary>E06 - Segurança e Operabilidade</summary>
+   <div><p>Este épico apresenta requisitos operacionais e requisitos de segurança que garantem aos usuários uma maior variedade de acesso e uso da plataforma de forma segura. A história de usuário a seguir o generaliza:
+
+```"Como usuário, desejo acessar a plataforma em determinado sistema operacional de forma segura."```
+`</p> </div>
+   <table>
+    <tr>
+        <th>Épico</th>
+        <th>ID</th>
+        <th>Descrição</th>
+    </tr>
+    <tr>
+        <td>Segurança e Operabilidade</td>
+        <td>EP06</td>
+        <td>
+        <ul>
+            <li>US34: Eu, como usuário, desejo poder definir o nível de confidencialidade do meu documento, escolhendo entre público ou privado, para garantir a segurança das informações contidas no texto.</li>
+            <li>US35: Eu, como usuário, desejo proteger o acesso ao documento com uma senha, proporcionando uma camada adicional de segurança, especialmente para documentos com níveis de confidencialidade mais elevados.</li>
+            <li>US36: Eu, como usuário, desejo que a plataforma do LibreOffice Writer seja acessível em diversos sistemas operacionais, como Windows, sistemas baseados no modelo Unix/Linux e MacOS, garantindo que eu possa utilizar o software em qualquer ambiente de trabalho.</li>
+            <li>US37: Eu, como usuário, desejo poder acessar o LibreOffice Writer em uma plataforma web, criando, editando e colaborando em documentos diretamente no navegador, tornando-o acessível de qualquer lugar.</li>
+            <li>US38: Eu, como usuário, espero que o acesso à plataforma web seja responsivo, adaptando-se a diferentes tamanhos de tela e dispositivos, para uma experiência de uso confortável em smartphones, tablets e computadores de mesa.</li>
+        </ul>
+        </td>
+    </tr>
+    </table>
+
+<font><p style="text-align: center">**Tabela 6:** Épico 6: Segurança e operabilidade com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</details><br/>
+
+## Product Backlog
+
+<center>
+
+<table>
+<thead>
+  <tr>
+    <th>Épico</th>
+    <th>Feature</th>
+    <th>História de usuário</th>
+    <th>Priorização</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="4">Épico 1 - Gerenciamento de textos</td>
+    <td rowspan="2">Feature 1 - Local e Data</td>
+    <td><a href="../historia-de-usuario#us01"> US01 </a> - Classificar eventos por local</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us04"> US04 </a> - Classificar eventos por data</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 2 - Modalidade</td>
+    <td><a href="../historia-de-usuario#us02"> US02 </a> - Classificar eventos por modalidade</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us07"> US07 </a> - Venda de ingressos de diferentes categorias</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Épico 2 - Organização de textos</td>
+    <td rowspan="2">Feature 3 - Notificações</td>
+    <td><a href="../historia-de-usuario#us22"> US22 </a> - Opção de receber notificações do aplicativo</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us23"> US23 </a> - Exibição de notificações de eventos próximos</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 4 - Configurações</td>
+    <td><a href="../historia-de-usuario#us10"> US10 </a> - Opção de salvar dados de pagamento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us21"> US21 </a> - Recomendação de eventos baseada no gosto do usuário</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td rowspan="6">Épico 3 - Organização de textos</td>
+    <td rowspan="2">Feature 5 - Ferramentas de Acessibilidade</td>
+    <td><a href="../historia-de-usuario#us32"> US32 </a> - Audiodescrição para eventos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us30"> US30 </a> - Acessibilidade visual</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Feature 6 - Atalhos</td>
+    <td><a href="../historia-de-usuario#us31"> US31 </a> - Opção de troca de idioma</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us17"> US17 </a> - Diferentes opções de pagamento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us27"> US27 </a> - Cadastro por redes sociais validado por email</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td>Feature 7 - Ferramentas Complementares</td>
+    <td><a href="../historia-de-usuario#us16"> US16 </a> - Opção de transferência de ingresso</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td rowspan="10">Épico 4 - Acessibilidade</td>
+    <td rowspan="5">Feature 8 - Integridade de Dados</td>
+    <td><a href="../historia-de-usuario#us11"> US11 </a> - Privacidade dos dados de pagamento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us09"> US09 </a> - Exigência de dados necessários para cadastro e pagamento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us26"> US26 </a> - Autenticação de dois fatores</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us28"> US28 </a> - Senha segura durante o cadastro</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us24"> US24 </a> - Termos de privacidade explícitos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Feature 9 - Prevenção de Erros</td>
+    <td><a href="../historia-de-usuario#us03"> US03 </a> - Apresentar valor total dos ingressos selecionados</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us08"> US08 </a> - Classificação dos tipos de assentos</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us14"> US14 </a> - Lista de confirmação de pagamento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us18"> US18 </a> - Envio de ingressos por e-mail</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us15"> US15 </a> - Sem limite de compra de ingresso</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="8">Épico 5 - Padronização</td>
+    <td rowspan="6">Feature 10 - Interface</td>
+    <td><a href="../historia-de-usuario#us05"> US05 </a> - Histórico de visualização de eventos</td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us06"> US06 </a> - Contagem regressiva para realização de eventos</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us12"> US12 </a> - Lista de eventos disponíveis</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us13"> US13 </a> - Página de descrição de eventos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us29"> US29 </a> - Informações sobre inclusão na descrição dos eventos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us19"> US19 </a> - Aba de visualização de ingressos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Feature 11 - Ferramentas Necessárias</td>
+    <td><a href="../historia-de-usuario#us25"> US25 </a>- Criação de conta e login com e-mail</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us20"> US20 </a> - Opção de cancelamento de compra</td>
+    <td>Alta</td>
+  </tr>
+</tbody>
+</table>
+
+<font><p style="text-align: center">**Tabela 1:** Product Backlog Elaborado com o Product Owner.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></font>
+
+</center>
+
+
+## Referências Bibliográficas
+
+> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 15): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 46 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 06 de nov. 2023.
+>
+
+## Bibliografia
+
+
+> CARNEIRO, Caio Vitor. Especificação Suplementar. Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/modelagem/especificao-suplementar/>>. Acesso em: 09 maio 2023.
+
+> FERREIRA, Rafaela. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/modelagem/especificacao-suplementar.md>>. Acesso em: 22 de outubro de 2023
+
+
+> MATIAS, Davi. Especificação Suplementar. Repositório do Grupo Lichess da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/>>. Acesso em: 22 de outubro de 2023.
+
+> PERILLO, Matheus. Especificação Suplementar. Repositório do Grupo TikTok da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://github.com/Requisitos-de-Software/2022.1-TikTok/blob/main/docs/modelagem/especificao-suplementar.md>>. Acesso em: 22 de outubro de 2023.
+
+> SALES, Wildemberg; Repositório do Grupo Grasshopper da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<hhttps://github.com/Requisitos-de-Software/2022.2-Grasshopper/blob/main/docs/modelagem/especificao-suplementar.md/>>. Acesso em: 22 de outubro de 2023.
+
+> SANTOS, Eduardo; Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/>>. Acesso em: 22 de outubro de 2023.
+## Histórico de Versão
+
+| Versão | Data       | Descrição             | Edilberto Almeida Cantuaria(es)                                                                               | Revisor(es)   |
+| ------ | ---------- | --------------------- | ------------------------------------------------------------------------------------------------------------- | ------------- |
+| `1.0`  | 06/11/2023 | Criação do documento. | [Edilberto Cantuaria ](https://github.com/edilbertocantuaria), [Ana Letícia ](https://github.com/analeticiaa) | Artur Seppa, Raphaela |
