@@ -257,180 +257,136 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   <tr>
     <td rowspan="4">Épico 1 - Criação de documentos</td>
     <td rowspan="2">Feature 1 - Modelos Pré-Definidos</td>
-    <td><a href="../historia-de-usuario#us01"> US01 </a> - Classificar eventos por local</td>
+    <td><a href="../historia-de-usuario#us01"> US01 </a> - Criar um novo documento utilizando modelos pré-definidos, como currículos, folhetos ou calendários </td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us04"> US04 </a> - Classificar eventos por data</td>
+    <td><a href="../historia-de-usuario#us04"> US03 </a> - Personalização do documento</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="2">Feature 2 - Personalização de Cabeçalho e Rodapé</td>
-    <td><a href="../historia-de-usuario#us02"> US02 </a> - Classificar eventos por modalidade</td>
-    <td></td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us07"> US07 </a> - Venda de ingressos de diferentes categorias</td>
+    <td><a href="../historia-de-usuario#us07"> US04 </a> - Personalização do documento</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="4">Épico 2 - Estilização do documentos</td>
     <td rowspan="2">Feature 3 - Paletas de Cores Personalizadas</td>
-    <td><a href="../historia-de-usuario#us22"> US22 </a> - Opção de receber notificações do aplicativo</td>
+    <td><a href="../historia-de-usuario#us22"> US07 </a> - Aplicar cores ao documento</td>
     <td>Baixa</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us23"> US23 </a> - Exibição de notificações de eventos próximos</td>
-    <td>Baixa</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 4 - Estilos de Parágrafo e Caracteres Avançados</td>
-    <td><a href="../historia-de-usuario#us10"> US10 </a> - Opção de salvar dados de pagamento</td>
+    <td><a href="../historia-de-usuario#us10"> US08 </a> - Opção de formatação de texto</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us21"> US21 </a> - Recomendação de eventos baseada no gosto do usuário</td>
+    <td><a href="../historia-de-usuario#us21"> US09 </a> - Alinhamento do texto</td>
     <td>Média</td>
   </tr>
   <tr>
-    <td rowspan="6">Épico 3 - Escrita do documento</td>
-    <td rowspan="2">Feature 5 - Inserção de Tabelas e Gráficos</td>
-    <td><a href="../historia-de-usuario#us32"> US32 </a> - Audiodescrição para eventos</td>
+    <td rowspan="7">Épico 3 - Escrita do documento</td>
+    <td rowspan="4">Feature 5 - Inserção de imagens, tabelas, gráficos e formas</td>
+    <td><a href="../historia-de-usuario#us32"> US10 </a> - Inserir imagens</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us30"> US30 </a> - Acessibilidade visual</td>
+    <td><a href="../historia-de-usuario#us30"> US12 </a> - Inserir e formatar tabelas</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us30"> US13 </a> - Inserir e formatar gráficos</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us30"> US14 </a> - Inserir formas</td>
     <td>Alta</td>
   </tr>
   <tr>
     <td rowspan="3">Feature 6 - Auto-completar e corretor automático</td>
-    <td><a href="../historia-de-usuario#us31"> US31 </a> - Opção de troca de idioma</td>
+    <td><a href="../historia-de-usuario#us31"> US15 </a> - Opção de auto-complete</td>
     <td>Média</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us17"> US17 </a> - Diferentes opções de pagamento</td>
+    <td><a href="../historia-de-usuario#us30"> US16 </a> - Verificador de erros ortográficos</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us27"> US27 </a> - Cadastro por redes sociais validado por email</td>
+    <td><a href="../historia-de-usuario#us30"> US17 </a> - Sugestões de melhoria da escrita do texto</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="5">Épico 4 -  Ferramentas do sistema</td>
+    <td rowspan="3">Feature 8 -  Conexão e compatibilidade com outros sistemas e softwares</td>
+    <td><a href="../historia-de-usuario#us11"> US19 </a> - Salvar documentos com extensões diversas</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us09"> US20 </a> - Editar textos vindos de outros softwares</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us26"> US23 </a> - Plugins que se conectem a internet</td>
     <td>Média</td>
   </tr>
   <tr>
-    <td>Feature 7 - Ferramentas de Colaboração</td>
-    <td><a href="../historia-de-usuario#us16"> US16 </a> - Opção de transferência de ingresso</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td rowspan="10">Épico 4 -  Ferramentas do sistema</td>
-    <td rowspan="5">Feature 8 -  Comandos de Teclado Personalizados</td>
-    <td><a href="../historia-de-usuario#us11"> US11 </a> - Privacidade dos dados de pagamento</td>
+    <td rowspan="2">Feature 9 - Acessibilidade</td>
+    <td><a href="../historia-de-usuario#us03"> US24 </a> - Ferramentas de acessibilidade para, por exemplo, baixa visão, daltonismo e surdez</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us09"> US09 </a> - Exigência de dados necessários para cadastro e pagamento</td>
-    <td>Alta</td>
+    <td><a href="../historia-de-usuario#us08"> US26 </a> - Suporte para múltiplos idiomas</td>
+    <td>Baixa</td>
   </tr>
+
   <tr>
-    <td><a href="../historia-de-usuario#us26"> US26 </a> - Autenticação de dois fatores</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us28"> US28 </a> - Senha segura durante o cadastro</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us24"> US24 </a> - Termos de privacidade explícitos</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Feature 9 - Barra de Ferramentas Personalizável</td>
-    <td><a href="../historia-de-usuario#us03"> US03 </a> - Apresentar valor total dos ingressos selecionados</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us08"> US08 </a> - Classificação dos tipos de assentos</td>
+    <td rowspan="5">Épico 5 - Integração com a Nuvem e Configurações de Compartilhamento</td>
+    <td rowspan="3">Feature 10 -  Opções de salvar o documento</td>
+    <td><a href="../historia-de-usuario#us05"> US29 </a> - Sistema de backup</td>
     <td>Baixa</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us14"> US14 </a> - Lista de confirmação de pagamento</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us18"> US18 </a> - Envio de ingressos por e-mail</td>
+    <td><a href="../historia-de-usuario#us06"> US27 </a> - Salvar o documento na nuvem</td>
     <td>Média</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us15"> US15 </a> - Sem limite de compra de ingresso</td>
+    <td><a href="../historia-de-usuario#us12"> US33 </a> - Acessar e restaurar versões anteriores</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td rowspan="8">Épico 5 - Integração com a Nuvem e Configurações de Compartilhamento</td>
-    <td rowspan="6">Feature 10 -  Integração de Nuvem</td>
-    <td><a href="../historia-de-usuario#us05"> US05 </a> - Histórico de visualização de eventos</td>
+    <td rowspan="2">Feature 11 -  Compartilhamentos</td>
+    <td><a href="../historia-de-usuario#us25"> US30 </a>- Compartilhar um documento com terceiros e ter acesso as modificações</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us20"> US34 </a> - Limitar as modificações feitas por terceiros</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Épico 6 - Segurança e Operabilidade</td>
+    <td rowspan="2">Feature 8 -  Autenticação Segura</td>
+    <td><a href="../historia-de-usuario#us11"> US34 </a> - Definir o nível de confidencialidade do documento</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us09"> US35 </a> - Proteger o acesso com senha</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Feature 9 - Compatibilidade</td>
+    <td><a href="../historia-de-usuario#us03"> US36 </a> - Compatibilidade com diversos sistemas operacionais</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td><a href="../historia-de-usuario#us08"> US37 </a> - Possibilidade de uso em plataforma web</td>
     <td>Baixa</td>
   </tr>
   <tr>
-    <td><a href="../historia-de-usuario#us06"> US06 </a> - Contagem regressiva para realização de eventos</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us12"> US12 </a> - Lista de eventos disponíveis</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us13"> US13 </a> - Página de descrição de eventos</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us29"> US29 </a> - Informações sobre inclusão na descrição dos eventos</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us19"> US19 </a> - Aba de visualização de ingressos</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Feature 11 -  Rastreamento de Alterações e Histórico</td>
-    <td><a href="../historia-de-usuario#us25"> US25 </a>- Criação de conta e login com e-mail</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us20"> US20 </a> - Opção de cancelamento de compra</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="10">Épico 6 - Segurança e Operabilidade</td>
-    <td rowspan="5">Feature 8 -  Autenticação Segura</td>
-    <td><a href="../historia-de-usuario#us11"> US11 </a> - Privacidade dos dados de pagamento</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us09"> US09 </a> - Exigência de dados necessários para cadastro e pagamento</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us26"> US26 </a> - Autenticação de dois fatores</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us28"> US28 </a> - Senha segura durante o cadastro</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us24"> US24 </a> - Termos de privacidade explícitos</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Feature 9 - Compatibilidade com Diferentes Sistemas Operacionais</td>
-    <td><a href="../historia-de-usuario#us03"> US03 </a> - Apresentar valor total dos ingressos selecionados</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us08"> US08 </a> - Classificação dos tipos de assentos</td>
-    <td>Baixa</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us14"> US14 </a> - Lista de confirmação de pagamento</td>
+    <td><a href="../historia-de-usuario#us14"> US38 </a> - Responsividade na plataforma de edição web</td>
     <td>Alta</td>
   </tr>
   <tr>
