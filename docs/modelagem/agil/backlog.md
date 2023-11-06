@@ -258,18 +258,18 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     <td rowspan="4">Épico 1 - Criação de documentos</td>
     <td rowspan="2">Feature 1 - Modelos Pré-Definidos</td>
     <td><a href="../historia-de-usuario#us01"> US01 </a> - Criar um novo documento utilizando modelos pré-definidos, como currículos, folhetos ou calendários </td>
-    <td></td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us04"> US03 </a> - Personalização do documento</td>
-    <td></td>
+    <td>Média</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 2 - Personalização de Cabeçalho e Rodapé</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us07"> US04 </a> - Personalização do documento</td>
-    <td></td>
+    <td>Média</td>
   </tr>
   <tr>
     <td rowspan="4">Épico 2 - Estilização do documentos</td>
@@ -286,7 +286,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us21"> US09 </a> - Alinhamento do texto</td>
-    <td>Média</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td rowspan="7">Épico 3 - Escrita do documento</td>
@@ -296,15 +296,15 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us30"> US12 </a> - Inserir e formatar tabelas</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us30"> US13 </a> - Inserir e formatar gráficos</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us30"> US14 </a> - Inserir formas</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td rowspan="3">Feature 6 - Auto-completar e corretor automático</td>
@@ -313,11 +313,11 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us30"> US16 </a> - Verificador de erros ortográficos</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us30"> US17 </a> - Sugestões de melhoria da escrita do texto</td>
-    <td>Alta</td>
+    <td>Baixa</td>
   </tr>
   <tr>
     <td rowspan="5">Épico 4 -  Ferramentas do sistema</td>
@@ -331,7 +331,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us26"> US23 </a> - Plugins que se conectem a internet</td>
-    <td>Média</td>
+    <td>Baixa</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 9 - Acessibilidade</td>
@@ -347,7 +347,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     <td rowspan="5">Épico 5 - Integração com a Nuvem e Configurações de Compartilhamento</td>
     <td rowspan="3">Feature 10 -  Opções de salvar o documento</td>
     <td><a href="../historia-de-usuario#us05"> US29 </a> - Sistema de backup</td>
-    <td>Baixa</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us06"> US27 </a> - Salvar o documento na nuvem</td>
@@ -355,7 +355,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us12"> US33 </a> - Acessar e restaurar versões anteriores</td>
-    <td>Alta</td>
+    <td>Baixa</td>
   </tr>
   <tr>
     <td rowspan="2">Feature 11 -  Compartilhamentos</td>
@@ -364,13 +364,13 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us20"> US34 </a> - Limitar as modificações feitas por terceiros</td>
-    <td>Alta</td>
+    <td>Média</td>
   </tr>
   <tr>
     <td rowspan="7">Épico 6 - Segurança e Operabilidade</td>
     <td rowspan="2">Feature 8 -  Autenticação Segura</td>
     <td><a href="../historia-de-usuario#us11"> US34 </a> - Definir o nível de confidencialidade do documento</td>
-    <td>Alta</td>
+    <td>Baixa</td>
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us09"> US35 </a> - Proteger o acesso com senha</td>
@@ -387,15 +387,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
   </tr>
   <tr>
     <td><a href="../historia-de-usuario#us14"> US38 </a> - Responsividade na plataforma de edição web</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us18"> US18 </a> - Envio de ingressos por e-mail</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td><a href="../historia-de-usuario#us15"> US15 </a> - Sem limite de compra de ingresso</td>
-    <td>Alta</td>
+    <td>Baixa</td>
   </tr>
 </tbody>
 </table>
