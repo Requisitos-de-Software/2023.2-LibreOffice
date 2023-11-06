@@ -88,11 +88,15 @@ A figura 4 representa o SIG de portabilidade.
 
 #### Propagação de impacto
 
-A Figura 5 apresenta a propagação de impacto do NFR de Portabilidade.
+A figura 5 apresenta a propagação de impacto do NFR de Portabilidade.
 
-![Propagação do NFR de confiabilidade](../../images/modelagem/nfr/portabilidadeimp.png)
+![Propagação do NFR de confiabilidade](../../images/modelagem/nfr/portabilidadeimpac.png)
+
+<font size="3"><p style="text-align: center">Figura 5: SIG de portabilidade com propagação de impactos (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
 
 #### Cartão de especificação
+
+A tabela 1 apresenta o cartão de especificação do desempenho.
 
 | Classificação         | Compatibilidade do aplicativo em diferentes sistemas operacionais e dispositivos / Portabilidade | 
 | ----------------------|-------------------------------|
@@ -103,7 +107,40 @@ A Figura 5 apresenta a propagação de impacto do NFR de Portabilidade.
 | Prioridade            | Alta  |
 | Conflito              | Nenhum |
 
-<font size="3"><p style="text-align: center">Tabela 1: Cartão de especificação (Fonte: Rafael Xavier, 2023)</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cartão de especificação (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
+### NFR-02 - Desempenho
+
+A figura 6 representa o SIG de desempenho.
+
+![Dragrama do NFR de portabilidade](../../images/modelagem/nfr/desempenhosem.png)
+
+<font size="3"><p style="text-align: center">Figura 6: SIG de desempenho (Fonte:Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva, 2023)</p></font>
+
+A figura 7 apresenta a propagação de impacto do NFR de desempenho.
+
+![Propagação do NFR de confiabilidade](../../images/modelagem/nfr/desempenhoimp.png)
+
+<font size="3"><p style="text-align: center">Figura 7: SIG de desempenho com propagação de impactos (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
+#### Cartão de especificação
+
+A tabela 2 apresenta o cartão de especificação do desempenho.
+
+| Classificação         | Desempenho | 
+| ----------------------|-------------------------------|
+| Descrição             | O aplicativo deve ser eficiente em termos de consumo de recursos do sistema, como CPU e memória, para garantir um desempenho responsivo mesmo em sistemas menos poderosos ou em situações de documentos muito grandes |
+| Justificativa         | O usuário precisa que o sistema responda corretamente para que qualquer tarefa do usuário que esteja sendo feita ão seja afetada negativamente por travamentos ou coisas parecidas.|
+| Origem do requisito   | INT24 e BS25. Fonte: [Moscow](https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/priorizacao/moscow/) |
+| Critério de aceitação | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho. |
+| Prioridade            | Alta  |
+| Conflito              | Nenhum |
+
+<font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
+
+
+
 
 
 
