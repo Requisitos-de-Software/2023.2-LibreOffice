@@ -14,7 +14,7 @@
 
 Durante a entrevista com o Product Owner (PO), os desenvolvedores e entrevistadores registraram as histórias de usuário conforme o PO as descrevia. Após isso, estabeleceram critérios de aceitação e o PO classificou as histórias em três níveis de prioridade: Alta, Média ou Baixa, utilizando o método Three Level Scale. Em seguida, categorizaram as histórias em temas, épicos e features. A Tabela 1 (seção Resultados obtidos) fornece o backlog do produto, com detalhes de cada história de usuário disponíveis no artefato correspondente. O restante deste documento explica mais detalhadamente o processo de definição de temas, épicos e features, juntamente com o significado de cada termo.
 
-### 2.1 - Entrevista com o PO
+### Entrevista com o PO
 O vídeo [1] é a gravação da entrevista com o PO
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZxL0vVdUFY" frameborder="0" allowfullscreen></iframe>
 <div style="text-align: center">
@@ -41,7 +41,7 @@ Após a definição de um épico, são geradas *features*, que representam descr
 
 ### Histórias de Usuário
 
-As histórias de usuário refinam ainda mais as features e são abordadas em maior detalhe nas **Tabelas 1 a 6**. Elas consistem em descrições concisas e abstratas de funcionalidades desejadas do ponto de vista do cliente. Geralmente, seguem o formato "Eu, como ___, desejo ___ para ___."
+As histórias de usuário refinam ainda mais as features e são abordadas em maior detalhe nas **Tabelas 1 a 6**. Elas consistem em descrições concisas e abstratas de funcionalidades desejadas do ponto de vista do cliente. Geralmente, seguem o formato "Eu, como usuário, desejo _______ para ____."
 
 ### Épicos
 
@@ -70,7 +70,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 1:** Épico 1: criação de documentos com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 1: Épico 1: criação de documentos com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details> 
 <br/>
@@ -102,7 +102,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 2:** Épico 2: estilização do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 2: Épico 2: estilização do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -136,7 +136,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 3:** Épico 3: escrita do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 3: Épico 3: escrita do documento com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -171,7 +171,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 4:** Épico 4: ferramentas do sistema com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 4: Épico 4: ferramentas do sistema com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -205,7 +205,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 5:** Épico 5: Operações e segurança com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 5: Épico 5: Operações e segurança com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
@@ -236,7 +236,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
     </tr>
     </table>
 
-<font><div style="text-align: center"><p>**Tabela 6:** Épico 6: Segurança e operabilidade com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>Tabela 6: Épico 6: Segurança e operabilidade com a história de usuário.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </details><br/>
 
