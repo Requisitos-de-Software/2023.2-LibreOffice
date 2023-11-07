@@ -169,12 +169,25 @@ A tabela 3 apresenta o cartão de especificação de usabilidade.
 | ----------------------|-------------------------------|
 | Descrição             | O aplicativo deve ser acessível para pessoas com deficiência seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas. A interface do sistema deve ser personalizável de acordo com as preferências do usuário  |
 | Justificativa         | O usuário precisa que o sistema seja acessível e personalizável para garantir uma melhor usabilidade|
-| Origem do requisito   | INT23 e INT28. Fonte: [Introspecção](../../elicitacao/introspeccao.md) |
+| Origem do requisito   | INT23 e INT28. Fonte: [Moscow](https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/priorizacao/moscow/) |
 | Critério de aceitação | O sistema deve garantir que o usuário consiga utilizar da maneira mais intuitiva e acessível possível. |
 | Prioridade            | Alta  |
 | Conflito              | Nenhum |
 
 <font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
+## Requisitos elicitados
+
+A tabela lista os Requisitos Não-Funcionais elicitados com o NFR Framework.
+
+| ID         | Descrição | 
+| ----------------------|-------------------------------|
+|  NFRO1   |     Deve haver suporte a atalhos de teclado e comandos de voz para facilitar a navegação e a operação do sistema      |
+|     NFR02     | O software deve ser compatível com dispositivos de entrada alternativos, como teclados especiais ou dispositivos apontadores. |
+|  NFR03  | O aplicativo deve ser otimizado para processar eficientemente imagens e gráficos incorporados nos documentos, minimizando o impacto no desempenho do sistema. |
+| NFR04 | O sistema deve implementar estratégias inteligentes de gerenciamento de memória para evitar vazamentos de memória e garantir uma alocação eficiente. |
+|  NFR05     | A interface do usuário do LibreOffice Writer deve ser adaptativa, ajustando-se de forma adequada ao tamanho da tela e às capacidades de entrada do dispositivo em uso. |
+|      NFR06      | O Sistema deve oferecer suporte para sincronização de documentos na nuvem, permitindo que os usuários acessem seus documentos de forma consistente em diferentes dispositivos, independentemente da plataforma ou sistema operacional |
 
 
 ## Bibliografia
