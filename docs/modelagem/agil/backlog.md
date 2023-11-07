@@ -392,7 +392,7 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
 </tbody>
 </table>
 
-<font><div style="text-align: center"><p>**Tabela 1:** Product Backlog Elaborado com o Product Owner.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
+<font><div style="text-align: center"><p>**Tabela 7:** Product Backlog Elaborado com o Product Owner.<br/> Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira.</p></div></font>
 
 </center>
 
