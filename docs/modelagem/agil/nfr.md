@@ -21,7 +21,7 @@ Os "softgoals" são utilizados para descrever Requisitos Não-Funcionais e podem
 <center>
 
 ![Tipos softgoals](../../images/modelagem/nfr/tiposSoftgoals.png) 
-<p> Figura 1: – Tipos de Softgoals (Fonte: CHUNG et al., 2000).</p>
+<p> Figura 1: – Tipos de Softgoals (Fonte: CHUNG et al., 2000)¹.</p>
 
 </center>
 
@@ -36,7 +36,7 @@ específicos;
 <center>
 
 ![Tipos de decomposições](../../images/modelagem/nfr/refinamento.png) 
-<p> Figura 2: – Tipos de decomposições (Fonte: CHUNG et al., 2000).</p>
+<p> Figura 2: – Tipos de decomposições (Fonte: CHUNG et al., 2000)¹.</p>
 
 </center>
 
@@ -56,7 +56,7 @@ A análise dos softgoals de nível mais baixo na hierarquia em um SIG se refere 
 sobre aceitar ou negar alternativas no projeto e essas decisões geram um conjunto inicial de
 rótulos onde o procedimento de avaliação utiliza esses rótulos para determinar o impacto
 das decisões nos softgoals que estão em um nível mais alto na hierarquia, isso é realizado
-até chegar aos softgoals no nível mais alto do SIG. Os tipos de rótulos são apresentados na figura 3.
+até chegar aos softgoals no nível mais alto do SIG². Os tipos de rótulos são apresentados na figura 3.
 
 <center>
 
@@ -70,11 +70,15 @@ Descrição:
 <p></p>
 
 - Satisfeito: Reflete que um requisito não funcional contribui de maneira positiva para a realização de outro requisito, resultando em satisfação.
-- Fracamente satisfeito: ndica uma relação de impacto positiva, mas menos forte do que a notação satisfeito.
+- Fracamente satisfeito: indica uma relação de impacto positiva, mas menos forte do que a notação satisfeito.
 - Negado: Demonstrando que um requisito não funcional afeta adversamente outro requisito, anulando ou contradizendo sua concretização.
 - Fracamente negado: Similar à notação negado, mas com uma relação de negação mais fraca.
 - Conflitante: Indica uma relação de conflito entre requisitos não funcionais. Isso implica que os requisitos possuem características tanto positivas quanto negativas.
 - Indeterminado: Refere-se a uma relação incerta ou desconhecida entre requisitos não funcionais. Isso ocorre quando há informações insuficientes para determinar o impacto de um requisito em outro.
+
+## Metodologia
+
+Inicialmente, foram considerados os requisitos não funcionais previamente elicitados. Após uma análise aprofundada do NFR Framework, procedemos com uma introspecção para o desenvolvimento dos SIGs. As ferramentas utilizadas foram Paint e LucidChart.
 
 ## NFR
 
@@ -117,6 +121,8 @@ A figura 6 representa o SIG de desempenho.
 
 <font size="3"><p style="text-align: center">Figura 6: SIG de desempenho (Fonte:Adaptado de Figura 21 – Requisito de Confiabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva, 2023)</p></font>
 
+#### Propagação de impacto
+
 A figura 7 apresenta a propagação de impacto do NFR de desempenho.
 
 ![Propagação do NFR de confiabilidade](../../images/modelagem/nfr/desempenhoimp.png)
@@ -139,14 +145,51 @@ A tabela 2 apresenta o cartão de especificação do desempenho.
 <font size="3"><p style="text-align: center">Tabela 2: Cartão de especificação (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
 
 
+### NFR-03 - Usabilidade
+
+A figura 7 representa o SIG de usabilidade.
+
+![Dragrama do NFR de usabilidade](../../images/modelagem/nfr/usabilidadeSig.png)
+
+<font size="3"><p style="text-align: center">Figura 7: SIG de desempenho (Fonte:Adaptado de Figura 61 – Requisito Usabilidade - Refinamentos e Correlações por Reinaldo Antônio da Silva, 2023)</p></font>
+
+#### Propagação de impacto
+
+A figura 8 apresenta a propagação de impacto do NFR de usabilidade.
+
+![Propagação do NFR de usabilidade](../../images/modelagem/nfr/usabilidadeImp.png)
+
+<font size="3"><p style="text-align: center">Figura 8: SIG de desempenho com propagação de impactos (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
+#### Cartão de especificação
+
+A tabela 3 apresenta o cartão de especificação de usabilidade.
+
+| Classificação         | Usabilidade | 
+| ----------------------|-------------------------------|
+| Descrição             | O aplicativo deve ser acessível para pessoas com deficiência seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas. A interface do sistema deve ser personalizável de acordo com as preferências do usuário  |
+| Justificativa         | O usuário precisa que o sistema seja acessível e personalizável para garantir uma melhor usabilidade|
+| Origem do requisito   | INT23 e INT28. Fonte: [Introspecção](../../elicitacao/introspeccao.md) |
+| Critério de aceitação | O sistema deve garantir que o usuário consiga utilizar da maneira mais intuitiva e acessível possível. |
+| Prioridade            | Alta  |
+| Conflito              | Nenhum |
+
+<font size="3"><p style="text-align: center">Tabela 3: Cartão de especificação (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
 
 
+## Bibliografia
 
+>Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr//>. Acesso em: 05/11/2023.
 
+>Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/>. Acesso em: 05/11/2023.
 
+>SERRANO, Milene. Requisitos – Aula 17. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: 05/11/2023.
 
+## Referência Bibliográfica
 
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 05/11/2023.
 
+> <a id="REF1" href="#anchor_1">2.</a> CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
 
 
 ## Histórico de versão
