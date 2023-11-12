@@ -111,13 +111,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque maximus orci pl
 
 ## Resultados
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Equação 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
-<img src="../../../images/formulaCalculoExigencias.png"  alt="legenda da fórmula da figura 1"/>
+
+$$ 
+\frac{100}{Qtde}(EC+ EI+EE)
+$$
 <div style="text-align: center">
-
-<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
+<p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). </p>
 </div>
+
+
+
 
 | Acrônimo | Descrição                     |
 | --------- | ------------------------------- |
@@ -167,3 +172,4 @@ Para mais detalhamentos como números de exigências completas, incompletas e er
 |    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
 | :--------: | :-----: | :------------------------: | :-------: | :---------: |
 | 09/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Rafael    |
+| 12/11/2023 |   1.1   |   Correção da Fórmula   |   Edilberto Cantuaria   |    Artur Seppa    |
