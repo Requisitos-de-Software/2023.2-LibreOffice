@@ -115,7 +115,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 
 $$ 
-\frac{100}{Qtde}(EC+ EI+EE)
+\frac{100}{Qtde}\cdot(EC+ NA + 0.5\cdot EI - EE)
 $$
 <div style="text-align: center">
 <p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). </p>
@@ -130,6 +130,7 @@ $$
 | EC        | Exigências Completas           |
 | EI        | Exigências Incompletas         |
 | EE        | Exigências Erradas             |
+| NA        | Exigências Não Aplicáveis           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Ana Luíza, 2023). </p>
@@ -172,4 +173,5 @@ Para mais detalhamentos como números de exigências completas, incompletas e er
 |    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
 | :--------: | :-----: | :------------------------: | :-------: | :---------: |
 | 09/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Rafael    |
-| 12/11/2023 |   1.1   |   Correção da Fórmula   |   Edilberto Cantuaria   |    Artur Seppa    |
+| 12/11/2023 |   1.1   |   Correção da Fórmula   |   Edilberto Cantuaria   |    Rafael    |
+| 12/11/2023 |   1.2   |   Correção da Fórmula   |   Edilberto Cantuaria   |    Rafael    |
