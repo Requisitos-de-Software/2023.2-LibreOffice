@@ -21,13 +21,13 @@ Neste documento, será realizada a verificação do artefato "Casos de Uso" dese
 |  ID   |                                 Questão                                  | Inspeção | Observações |
 | :---: | :----------------------------------------------------------------------: | :------: | ----------- |
 |   1   |                 As legendas estão no padrão do projeto?                  |    🟢     |             |
-|   2   |                  Possui links para os outros artefatos?                  |    🟢     |             |
+|   2   |                  Possui links para os outros artefatos?                  |    🔴     |      Os links estão mandando para o github quando deveriam mandar para a página do artefato no git pages       |
 |   3   |                    Existe uma introdução no artefato?                    |    🟢     |             |
 |   4   |               Existe tabela de versionamento padronizado?                |    🟢     |             |
 |   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |             |
-|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢     |             |
+|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡     |      A tabela 1 pode ser melhor chamada no texto       |
 |   7   |                         O artefato possui autor?                         |    🟢     |             |
-|   8   |                        O artefato possui revisor?                        |    🟢     |             |
+|   8   |                        O artefato possui revisor?                        |    🟡     |       A última versão não possui revisor      |
 
 </center>
 
@@ -59,13 +59,40 @@ Neste documento, será realizada a verificação do artefato "Casos de Uso" dese
 
 ## Comentários
 
-O artefato está completo e coeso de acordo com a metodologia abordada.
+O artefato está completo e coeso de acordo com a metodologia abordada, necessita de alguns ajustes e falta generalização nos casos de uso.
 
+## Resultados
+
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação 1:
+
+$$
+\frac{100}{Qtde}\cdot(EC+ NA + 0.5\cdot EI - EE)
+$$
+
+
+<div >
+<p>Equação 1: Fórmula de avaliação (Fonte: Edilberto Cantuária, 2023). Para mais detalhes, visite a nossa <a href="../metodologia.md">metodologia</a>.</p>
+</div>
+
+Através dos checklists realizados podemos observar que:
+
+- 12/19 exigências são atendidas;
+- 2/19 exigências estão incompletas;
+- 1/19 exigências estão erradas ou não foram realizadas.
+- 4/19 não se aplica.
+
+onde 19 é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 84.2%.
+
+## Bibliografia
+
+> REINEHR, Sheila. Engenharia de Requisitos. Porto Alegre: SAGAH, p. 232-235, 2020.
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição       |      Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------: | :---------: |
-| 12/11/2023 |  1.0   | Criação do documento |      Ana Luíza e Rafael Xavier      |   
+| 12/11/2023 |  1.0   | Criação do documento |      Ana Luíza e Rafael Xavier      |  Artur |
 
 
