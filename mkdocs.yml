@@ -58,5 +58,6 @@ nav:
     - Verificação:
       - Grupo 1:
           - Metodologia: verificacao/grupo1/metodologia.md
-
-
+          - Brainstorm: verificacao/grupo1/brainstorm.md 
+          - Cronogramas: verificacao/grupo1/cronogramas.md
+          - Teste: verificacao/grupo1/teste.md
