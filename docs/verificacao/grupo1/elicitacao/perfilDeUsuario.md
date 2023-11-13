@@ -8,7 +8,7 @@ O presente documento apresentará a verificação do artefato [Perfil de Usuári
 
 | Versão |    Data    |         Descrição          |       Autor(es)     |     Revisor(es)   |
 | :----: | :--------: | :------------------------: | :-----------------: | :----------: |
-| `1.3`  | 30/09/2023 | Retirando o questionario e grupo de foco | Gabriel Zaranza | Gabriel Rosa |
+| `1.3`  | 30/09/2023 | Retirando o questionário e grupo de foco | Gabriel Zaranza | Gabriel Rosa |
 
 
 <div style="text-align: center">
@@ -84,11 +84,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Bibliografia
 
-> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuario. Auto publicação, 2021.
+> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. Auto publicação, 2021.
 
 ## Histórico de versão
 
 |    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
 | :--------: | :-----: | :------------------------: | :-------: | :---------: |
-| 12/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Rafael    |
+| 12/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Edilberto    |
 
