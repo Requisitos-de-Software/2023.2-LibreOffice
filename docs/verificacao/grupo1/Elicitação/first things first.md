@@ -1,4 +1,4 @@
-# Verificação de Personas
+# Verificação First Things First
 
 ## Introdução
 Neste documento, será realizada a verificação do artefato de [First Things First](https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-priorizacao/first-thing-first/) desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
@@ -7,7 +7,7 @@ Neste documento, será realizada a verificação do artefato de [First Things Fi
 
 | Versão |    Data    |         Descrição          |                      Autor(es)                      |                                              Revisor(es)                                               |
 | :----: | :--------: | :------------------------: | :-------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| `1.1`  | 01/10/2023 | Adiçao do link da gravação | [Zenilda Vieira ](https://github.com/zenildavieira) | [Gabriel Rosa](https://github.com/gabrielrosa09) e  [Izabella Alves](https://github.com/izabellaalves) |
+| `1.1`  | 01/10/2023 | Adiçao do link da gravação | Zenilda Vieira | Gabriel Rosa e  Izabella Alves |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -68,16 +68,21 @@ Os requisitos são referenciados por ID e, pelo o que aparenta, foram obtidos at
 
 ### ID 15 - A fórmula para o cálculo do valor está correta?  
 
-Seria agradável utilizar `LaTeX` para escrever as equações, dando um ar mais profissional. Para utilizar, basta seguir o seguinte modelo:
+Seria agradável utilizar `LaTeX` para escrever as equações, dando um ar mais profissional. Para utilizar, basta seguir o seguinte exemplo:
 ```
+//quebra de linha obrigatória 
+
 $$
-\int_{a}^{b} x^2 \,dx
+\int_{a}^{b} x^2 dx
 $$
+
+//quebra de linha obrigatória 
 ```
 
 O resultado final será:
+
 $$
-\int_{a}^{b} x^2\,  dx
+\int_{a}^{b} x^2 dx
 $$
 
 ### Sugestão
@@ -91,7 +96,7 @@ $$
 \frac{100}{Qtde}\cdot(EC+ NA + 0.5\cdot EI - EE)
 $$
 <div style="text-align: center">
-<p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). Para mais detalhes, visite a nossa metodologia(../metodologia.md)  </p>
+<p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). Para mais detalhes, visite a nossa [metodologia](../metodologia.md)  </p>
 </div>
 
 
