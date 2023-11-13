@@ -1,8 +1,8 @@
-# Verificação do cronograma de atividades do grupo 1
+# Verificação do cronograma de atividades
 
 ## Introdução
 
-O presente documento apresentará a verificação dos artefatos "Cronograma planejado" e "Cronograma executado", desenvolvido pelo grupo 1, que está baseando seu projeto no aplicativo Economia DF. A técnica de inspeção será aplicada para verificar esses artefatos, de acordo com a metodologia estabelecida, na tabela 1, encontram-se os metadados dos artefatos, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação dos artefatos "Cronograma planejado" e "Cronograma executado", desenvolvido pelo grupo 1, que está baseando seu projeto no aplicativo Economia DF. A técnica de inspeção será aplicada para verificar esses artefatos de acordo com a metodologia estabelecida. Na tabela 1, encontram-se os metadados dos artefatos, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 ## Metadados
 
@@ -61,4 +61,4 @@ Os artefatos estão completos, com a única ressalva de que um dos links da bibl
 
 |    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
 | :--------: | :-----: | :------------------------: | :-------: | :---------: |
-| 09/11/2023 |   1.0   |   Criação do documento   |   Rafael Xavier  |    ???   |
+| 12/11/2023 |   1.0   |   Criação do documento   |   Rafael Xavier  |    Edilberto   |
