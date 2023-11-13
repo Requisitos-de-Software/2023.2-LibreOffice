@@ -8,12 +8,6 @@ Neste documento, será realizada a verificação do artefato de [ferramentas](ht
 
 | Versão |    Data    |                    Descrição                     |                                Autor(es)                                 |                    Revisor(es)                     |
 | :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
-| `1.0`  | 13/09/2023 |        Criação da página de ferramentas.         | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Zenilda Vieira](https://github.com/zenildavieira) |
-| `1.1`  | 13/09/2023 |         Adição da tabela de ferramentas.         | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Izabella Alves](https://github.com/izabellaalves) |
-| `1.2`  | 13/09/2023 |     Criação das Referências bibliográficas.      | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |  [Gabriel Rosa](https://github.com/gabrielrosa09)  |
-| `1.3`  | 13/09/2023 |         Adição do Histórico de versões.          | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |   [Lucas Ribeiro](https://github.com/lucassouzs)   |
-| `1.4`  | 29/09/2023 |           Adição de novas Ferramentas.           | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |   [Lucas Ribeiro](https://github.com/lucassouzs)   |
-| `1.5`  | 10/10/2023 |               Revisão Ferramentas.               | [Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira) |   - (revisão não precisa de revisor)   |
 | `1.6`  | 17/10/2023 | Documento revisado com as orientações do monitor |             [Gabriel Rosa](https://github.com/gabrielrosa09)             | [Izabella Alves](https://github.com/izabellaalves) |                      |
 
 <div style="text-align: center">
@@ -61,31 +55,39 @@ Neste documento, será realizada a verificação do artefato de [ferramentas](ht
 
 ### ID 8 - Existe tabela de versionamento padronizado?
 
-Como observado, a versão 1.5 da tabela de versionamento não possui um revisor identificado, sendo sempre necessário para cada alteração no artefato um revisor responsável.
+Como observado, a versão 1.5 da tabela de versionamento não possui um revisor identificado, sendo necessário para cada alteração no artefato um revisor responsável.
 
 ## Resultados
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
 
-((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+$$ 
+\frac{100}{Qtde}\cdot(EC+ NA + 0.5\cdot EI - EE)
+$$
+
+<div style="text-align: center">
+<p>Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). Para mais detalhes, visite a nossa <a href="../metodologia.md">metodologia</a>.</p>
+
+</div>
 
 Através dos checklists realizados podemos observar que:
 
 - 10/13 exigências são atendidas;
 - 3/13 exigências estão incompletas;
 - 0/13 exigências estão erradas ou não foram realizadas.
-- 0/143 não se aplica.
+- 0/13 não se aplica.
 
 onde 13 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 84.46%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 88.46%.
 
 ## Bibliografia
 
-WHEELER, Alina. Design de identidade de marca. Porto Alegre: Bookman, 2013.
+> WHEELER, Alina. Design de identidade de marca. Porto Alegre: Bookman, 2013.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                           | Autor(es)      |
-| ------ | ---------- | ----------------------------------- | -------------- |
-| 1.0    | 09/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman |
+| Versão | Data       | Descrição                           | Autor      | Revisor |
+| ------ | ---------- | ----------------------------------- | -------------- |-------------- |
+| 1.0    | 09/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman | Rafael Xavier
+| 1.1    | 13/11/2023 | Atualização do cálculo de avaliação | Artur Seppa Reiman | Rafael Xavier
