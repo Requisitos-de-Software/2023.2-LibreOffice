@@ -58,5 +58,7 @@ nav:
     - Verificação:
       - Grupo 1:
           - Metodologia: verificacao/grupo1/metodologia.md
+          - Planejamento:
+            - Lista de Aplicativos: verificacao/grupo1/planejamento/listaDeAplicativos.md
 
 
