@@ -95,7 +95,7 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 |    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
 | :--------: | :-----: | :------------------------: | :-------: | :---------: |
-| 12/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Rafael    |
+| 12/11/2023 |   1.0   |   Criação do documento   |   Ana Luíza   |    Ana Letícia    |
 
 
 
