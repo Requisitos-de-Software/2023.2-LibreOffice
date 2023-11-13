@@ -96,7 +96,8 @@ $$
 \frac{100}{Qtde}\cdot(EC+ NA + 0.5\cdot EI - EE)
 $$
 <div style="text-align: center">
-<p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). Para mais detalhes, visite a nossa [metodologia](../metodologia.md)  </p>
+<p>Equação 1: Fórmula de avaliação (Fonte: Ana Luíza, 2023). Para mais detalhes, visite a nossa <a href="../metodologia.md">metodologia</a>.</p>
+
 </div>
 
 
