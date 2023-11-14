@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Neste documento, será realizada a verificação do artefato de [especificação suplementar](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/especificacao-suplementar/) desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
+Neste documento, será realizada a verificação do artefato da especificação suplementar desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
 
 <center>
 
-|Versão|Data|Descrição|Autor|Revisor|
-|:----:|----|---------|-----|:-------:|
-|`1.9`|05/11/2023|Correção histórico de versões|[Lucas de Oliveira](https://github.com/LucasOliveiraDiasMarquesFerreira)|-|
+|Versão|Autor|Revisor|
+|:----:|----|---------|
+|`1.9`|Lucas de Oliveira|-|
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman, 2023). </p>
