@@ -60,10 +60,11 @@ nav:
           - Metodologia: verificacao/grupo1/metodologia.md
           - Pré-Rastreabilidade: 
             - Rich Picture: verificacao/grupo1/pre-rastreabilidade/rich-picture.md
+          - Priorização: 
+            - In or Out: verificacao/grupo1/priorizacao/in-or-out.md
+          - Modelagem:
+            - Casos de Uso: verificacao/grupo1/modelagem/casodeuso.md
           - Agil:
             - Backlog: verificacao/grupo1/agil/backlog.md
           - Planejamento:
             - Lista de Aplicativos: verificacao/grupo1/planejamento/listaDeAplicativos.md
-
-
-
