@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Neste documento, será realizada a verificação do artefato de [ferramentas](https://requisitos-de-software.github.io/2023.2-Economia-DF/planejamento%20do%20projeto/ferramentas/) desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
+Neste documento, será realizada a verificação do artefato de ferramentas desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
 
 <center>
 
-| Versão |    Data    |                    Descrição                     |                                Autor(es)                                 |                    Revisor(es)                     |
-| :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
-| `1.6`  | 17/10/2023 | Documento revisado com as orientações do monitor |             [Gabriel Rosa](https://github.com/gabrielrosa09)             | [Izabella Alves](https://github.com/izabellaalves) |                      |
+| Versão |       Autor(es)              |        Revisor(es)           |
+| :----: | :--------: | :-----------------------------: | 
+| `1.6`  |    Gabriel Rosa      | Izabella Alves |                      
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman, 2023). </p>
