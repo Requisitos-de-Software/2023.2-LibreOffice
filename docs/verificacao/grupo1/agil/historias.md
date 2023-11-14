@@ -61,6 +61,18 @@ São listadas no início do documento todas as técnicas usadas para elicitar e 
 
 ## Resultados
 
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação descrita na Metodologia.
+
+Através dos checklists realizados podemos observar que:
+
+- 15/14 exigências são atendidas;
+- 0/14 exigências estão incompletas;
+- 1/14 exigências estão erradas ou não foram realizadas.
+- 0/14 não se aplica.
+
+onde 14  é a quantidade de exigências.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93.3%.
 
 ## Bibliografia
 
@@ -72,6 +84,6 @@ Caroli, P. Histórias do usuário e a construção de produtos de sucesso. Dispo
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                           | Autor(es)         |
-| ------ | ---------- | ----------------------------------- | ----------------- |
-| 1.0    | 13/11/2023 | Criação do documento de verificação | Ana Letícia e Rafael |
+| Versão | Data       | Descrição                           | Autor(es)         |   Revisor(es)
+| ------ | ---------- | ----------------------------------- | ----------------- | ----------------
+| 1.0    | 13/11/2023 | Criação do documento de verificação | Ana Letícia e Rafael | Ana Luiza
