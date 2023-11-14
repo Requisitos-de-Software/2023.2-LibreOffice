@@ -31,6 +31,7 @@ nav:
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
+      - Apresentação 5.1: apresentacoes/apresentacao5.1.md
     - Planejamento: 
       - Aplicativo Escolhido: planejamento/appEscolhido.md
       - Ferramentas: planejamento/ferramentas.md
@@ -64,6 +65,10 @@ nav:
             - Lista de Aplicativos: verificacao/grupo1/planejamento/listaDeAplicativos.md
           - Pré-Rastreabilidade: 
             - Rich Picture: verificacao/grupo1/pre-rastreabilidade/rich-picture.md
+          - Elicitação:
+            - Brainstorming: verificacao/grupo1/elicitacao/brainstorm.md
+            - Perfil de Usuário: verificacao/grupo1/elicitacao/perfilDeUsuario.md
+            - Personas: verificacao/grupo1/elicitacao/personas.md
           - Priorização: 
             - First Things First: verificacao/grupo1/priorizacao/firstThingsFirst.md
             - In or Out: verificacao/grupo1/priorizacao/in-or-out.md

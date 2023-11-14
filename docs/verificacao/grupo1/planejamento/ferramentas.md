@@ -8,7 +8,7 @@ Neste documento, será realizada a verificação do artefato de [ferramentas](ht
 
 | Versão |    Data    |                    Descrição                     |                                Autor(es)                                 |                    Revisor(es)                     |
 | :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
-| `1.6`  | 17/10/2023 | Documento revisado com as orientações do monitor |             [Gabriel Rosa](https://github.com/gabrielrosa09)             | [Izabella Alves](https://github.com/izabellaalves) |                      |
+| `1.6`  | 17/10/2023 | Documento revisado com as orientações do monitor |             Gabriel Rosa             | Izabella Alves |                      |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman, 2023). </p>
