@@ -7,7 +7,7 @@ Neste documento, será realizada a verificação do artefato de [Léxicos](https
 
 | Versão |    Data    |         Descrição          |                      Autor(es)                      |            Revisor(es)             |
 | :----: | :--------: | :------------------------: | :-------------------------------------------------: | :--------------------------------: |
-| `1.9`  | 22/10/2023 | Revisão geral do documento | [Zenilda Vieira ](https://github.com/zenildavieira) | - (revisão não precisa de revisor) |
+| `1.9`  | 22/10/2023 | Revisão geral do documento | Zenilda Vieira | - (revisão não precisa de revisor) |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -39,7 +39,7 @@ Neste documento, será realizada a verificação do artefato de [Léxicos](https
 
 |  ID   |                                                  Questão                                                   | Inspeção |     Observação      |
 | :---: | :--------------------------------------------------------------------------------------------------------: | :------: | :-----------------: |
-|   9   |                                    O nome dos léxicos estão presentes?                                     |    🟢     | Ver nos comentários |
+|   9   |                                    O nome dos léxicos estão presentes?                                     |    🟢     | |
 |  10   |                                         Os léxicos possuem noções?                                         |    🟢     |                     |
 |  11   |                                        Os léxicos possuem impactos?                                        |    🟢     |                     |
 |  12   |          Os léxicos incluem relações e associações entre os termos? (como sinônimos, antônimos).           |    🟢     |                     |
@@ -95,11 +95,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 > [Projeto VLC 2023.1](https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_3/lexicos). Acesso em: 12 de novembro de 2023
 
 > SALES, ANDRÉ B. [Plano de ensino da disciplina de Requisitos de Software](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf). Universidade de Brasília. 2023-2. Acesso em: 12 de novembro de 2023
-> 
+ 
 > SERRANO, Milene. Requisitos - Aula 10. Local: UnB-FGA, Gama, DF. Apresentação de Power Point. 35. Disponível em: https://aprender3.unb.br/pluginfile.php/2692795/mod_resource/content/1/Aula%2010.pdf. Acesso em: 12 de novembro de 2023
 
 ## Histórico de versão
 
 |    Data    | Versão |      Descrição       |      Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------: | :---------: |
-| 12/11/2023 |  1.0   | Criação do documento | Edilberto Cantuaria |    Artur    |
+| 12/11/2023 |  1.0   | Criação do documento | Edilberto Cantuaria |    Artur Seppa Reiman    |
