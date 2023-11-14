@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do In or Out, desenvolvidos pela equipe 3, VCL. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
+O presente documento apresentará a verificação do In or Out, desenvolvidos pela equipe 1. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido, na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas.
 
 <center>
 
@@ -13,7 +13,7 @@ O presente documento apresentará a verificação do In or Out, desenvolvidos pe
 </center>
 
 <div style="text-align: center">
-<p> Tabela 1: Metadados do artefato (Fonte: Lucas e Henrique, 2023). </p>
+<p> Tabela 1: Metadados do artefato (Fonte: Ana Letícia, 2023). </p>
 </div>
 
 | ID  |                                 Questão                                  | Inspeção | Observações |
@@ -47,13 +47,11 @@ O presente documento apresentará a verificação do In or Out, desenvolvidos pe
 
 ### Identificadores dos requisitos
 
-Todos os requisitos deveriam estar identificados pelos respectivos IDs.
+13- Todos os requisitos deveriam estar identificados pelos respectivos IDs.
 
 ## Resultados
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão:
-
-((100/QntExigencias) _ Acertos) + (((100/QntExigencias) _ Incompletos)/2)
+Para saber a porcentagem de aproveitamento do artefato, será utilizada a expressão descrita na metodologia.
 
 Através dos checklists realizados podemos observar que:
 
@@ -65,7 +63,7 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Bibliografia
 
-- Software Requirements 3.ed. - Setting Requirement Priorities
+-[1] WIEGERS, Karl; BEATTY, Joy. (2013). Software Requirements 3.ed. - Setting Requirement Priorities. Microsoft Press. ISBN:  978-0-7356-7966-5.
 
 ## Histórico de versão
 
