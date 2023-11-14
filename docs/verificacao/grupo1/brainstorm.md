@@ -78,18 +78,19 @@ Através dos checklists realizados podemos observar que:
 
 onde 18 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 92.3%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 94.4%.
 
 
 
 ## Bibliografia
 
-> [1] https://github.com/Requisitos-de-Software/2023.1-Simplenote
->
-> [2] RETraining UFSC. Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 13 de novembro de 2023.
+> https://github.com/Requisitos-de-Software/2023.1-Simplenote
+
+> RETraining UFSC. Técnicas de Elicitação de Requisitos - Brainstorming. Disponível em: https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-brainstorming. Acesso em: 13 de novembro de 2023.
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição             | Autor(es) | Revisor(es)        |
-| ------ | ---------- | --------------------- | --------- | ------------------ |
-| `1.0`  | 12/11/2023 | Criação do documento. | Rafael Xavier      |       Edilberto              |
+| Versão | Data       | Descrição                                             | Autor              | Revisor |
+| ------ | ---------- | ----------------------------------------------------- | ------------------ | ------- |
+| 1.0    | 12/11/2023 | Criação do documento. | Rafael Xavier  |Artur Seppa Reiman |
+| 1.1    | 13/11/2023 | Alteração do cálculo  | Rafael Xavier  |Artur Seppa Reiman |

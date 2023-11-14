@@ -73,15 +73,16 @@ Através dos checklists realizados podemos observar que:
 
 onde 13 é a quantidade de exigências.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 92.3%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 96.15%.
 
 
 ## Bibliografia
 
-[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
 
-|    Data    | Versão |        Descrição        | Autor(es) | Revisor(es) |
-| :--------: | :-----: | :------------------------: | :-------: | :---------: |
-| 12/11/2023 |   1.0   |   Criação do documento   |   Rafael Xavier  |    Edilberto   |
+| Versão | Data       | Descrição                                             | Autor              | Revisor |
+| ------ | ---------- | ----------------------------------------------------- | ------------------ | ------- |
+| 1.0    | 12/11/2023 | Criação do documento. | Rafael Xavier  |Artur Seppa Reiman |
+| 1.1    | 13/11/2023 | Alteração do cálculo  | Rafael Xavier  |Artur Seppa Reiman |
