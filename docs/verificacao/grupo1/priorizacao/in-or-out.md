@@ -47,7 +47,8 @@ O presente documento apresentará a verificação do In or Out, desenvolvidos pe
 
 ### Identificadores dos requisitos
 
-13- Todos os requisitos deveriam estar identificados pelos respectivos IDs.
+ID 13 - Os requisitos priorizados estão identificados por IDs?
+O artefato não possui identificadores para seus respectivos IDs.
 
 ## Resultados
 
