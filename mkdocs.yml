@@ -60,5 +60,10 @@ nav:
           - Metodologia: verificacao/grupo1/metodologia.md
           - Pré-Rastreabilidade: 
             - Rich Picture: verificacao/grupo1/pre-rastreabilidade/rich-picture.md
+          - Agil:
+            - Backlog: verificacao/grupo1/agil/backlog.md
+          - Planejamento:
+            - Lista de Aplicativos: verificacao/grupo1/planejamento/listaDeAplicativos.md
+
 
 
