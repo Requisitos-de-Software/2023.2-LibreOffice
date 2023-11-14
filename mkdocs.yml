@@ -58,6 +58,8 @@ nav:
     - Verificação:
       - Grupo 1:
           - Metodologia: verificacao/grupo1/metodologia.md
+          - Pré-Rastreabilidade: 
+            - Rich Picture: verificacao/grupo1/pre-rastreabilidade/rich-picture.md
           - Priorização: 
             - In or Out: verificacao/grupo1/priorizacao/in-or-out.md
           - Modelagem:
