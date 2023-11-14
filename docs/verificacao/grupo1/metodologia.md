@@ -73,7 +73,7 @@ A seguir, na tabela 3, temos as perguntas que serão feitas em todos os artefato
 |   2   |                  Possui links para os outros artefatos?                  |    🟡     | Breve comentário                 |
 |   3   |                    Existe uma introdução no artefato?                    |    🔴     | Será justificado nos comentários |
 |   4   |               Existe tabela de versionamento padronizado?                |    🟢     |                                  |
-|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |                                  |
+|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |                                  |
 |   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢     |                                  |
 |   7   |                         O artefato possui autor?                         |    🟢     |                                  |
 |   8   |                        O artefato possui revisor?                        |    🟢     |                                  |
@@ -120,7 +120,6 @@ $$
 <div style="text-align: center">
 <p> Equação 1: Fórmula de avaliação (Fonte: Ana Luíza e Edilberto Cantuaria, 2023). </p>
 </div>
-
 
 
 
@@ -171,7 +170,6 @@ Para mais detalhamentos como números de exigências completas, incompletas e er
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de versão
-
 |    Data    | Versão |      Descrição       |      Autor(es)      | Revisor(es) |
 | :--------: | :----: | :------------------: | :-----------------: | :---------: |
 | 09/11/2023 |  1.0   | Criação do documento |      Ana Luíza      |   Rafael    |
