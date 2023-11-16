@@ -138,10 +138,23 @@ Na Tabela 7, apresenta-se o cronograma planejado para as atividades da quarta en
 
 <font size="3"><p style="text-align: center">Tabela 7: Modelagem de Requisitos 2 (Fonte: Rafael Xavier, 2023)</p></font>
 
+### Executado
+Na Tabela 8, apresenta-se o cronograma executado para as atividades da quarta entrega.
+
+| Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Modelagem de Requisitos - Ágil: NFR Framework      | Início: 30/10<br>Fim: 06/11   	| Rafael e Ana Luíza	| Início: 01/11 Fim: 02/11 	|      Ana Letícia e Edilberto     	|
+|   Modelagem de Requisitos - Ágil: Backlogs       	| Início: 01/11<br>Fim: 05/11    	| Ana Letícia e Edilberto	| Início: 03/11 Fim: 04/11 	|       Artur e Raphaela    	|
+|   Modelagem de Requisitos - Ágil: Histórias de Usuário   | Início: 03/11<br>Fim: 06/11    | Artur e Raphaela  | Início: 05/11 Fim: 06/11 	|   Rafael e Ana Luíza  	|
+|   Gravação da Apresentação e Entrega    | Início: 06/11<br>Fim: 06/11  |   Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael	| Início: 05/11 Fim: 06/11 	|    Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael  	|
+|   Correção pós apresentação	| Início: 08/11<br>Fim: 10/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 10/11<br>Fim: 11/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
+
+<font size="3"><p style="text-align: center">Tabela 8: Modelagem de Requisitos 2 (Fonte: Rafael Xavier, 2023)</p></font>
+
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação 1
 
 ### Planejado
-Na Tabela 8, apresenta-se o cronograma planejado para as atividades da entrega 5.1.
+Na Tabela 9, apresenta-se o cronograma planejado para as atividades da entrega 5.1.
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -150,14 +163,25 @@ Na Tabela 8, apresenta-se o cronograma planejado para as atividades da entrega 5
 |   Gravação da Apresentação e Entrega    | Início: 12/11<br>Fim: 12/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	| Início: 13/11 Fim: 13/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 |   Correção pós apresentação	| Início: 14/11<br>Fim: 15/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela  	| Início: 15/11<br>Fim: 16/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela   |
 
-<font size="3"><p style="text-align: center">Tabela 8: Análise de Requisitos 1 (Fonte: Rafael Xavier, 2023)</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Análise de Requisitos 1 (Fonte: Rafael Xavier, 2023)</p></font>
 
+### Executado
+Na Tabela 10, apresenta-se o cronograma executado para as atividades da entrega 5.1.
+
+| Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
+|----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
+|   Verificação por inspeção de todos os artefatos   | Início: 07/11<br>Fim: 13/11    	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael 	| Início: 09/11 Fim: 10/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael 	|
+|   Validação: Prototipação e Comprovação Informal   	| Início: 07/11<br>Fim: 13/11    	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael 	| Início: 11/11 Fim: 12/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael  	|
+|   Gravação da Apresentação e Entrega    | Início: 13/11<br>Fim: 13/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael  	| Início: 13/11 Fim: 13/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael |
+|   Correção pós apresentação	| Início: 14/11<br>Fim: 15/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael  	| Início: 15/11<br>Fim: 16/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto e Rafael   |
+
+<font size="3"><p style="text-align: center">Tabela 10: Análise de Requisitos 1 (Fonte: Rafael Xavier, 2023)</p></font>
 
 ## Entrega 5.2 - Análise de Requisitos 2
 
 ### Planejado
 
-Na Tabela 9, apresenta-se o cronograma planejado para as atividades da entrega 5.2.
+Na Tabela 11, apresenta-se o cronograma planejado para as atividades da entrega 5.2.
 
 | Atividade   | Período de desenvolvimento 	| Responsável(is)   | Revisão                  	| Revisor(es)        	|
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
@@ -166,7 +190,7 @@ Na Tabela 9, apresenta-se o cronograma planejado para as atividades da entrega 5
 |   Gravação da Apresentação e Entrega     | Início: 29/11<br>Fim: 29/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 30/11 Fim: 30/11 	|     Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela   	|
 |   Correção pós apresentação	| Início: 01/12<br>Fim: 03/12 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela	| Início: 03/12<br>Fim: 04/12 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 
-<font size="3"><p style="text-align: center">Tabela 9: Análise de Requisitos 2 (Fonte: Rafael Xavier, 2023)</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Análise de Requisitos 2 (Fonte: Rafael Xavier, 2023)</p></font>
 
 ## Entrega 6 - Pós-rastreabilidade
 
@@ -209,5 +233,6 @@ Na Tabela 11, apresenta-se o cronograma planejado para as atividades da última 
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
  1.0 | 19/09/2023 | Primeira versão do cronograma | Rafael | Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela
- 2.0 | 02/10/2023 | Cronograma devidamente detalhado em todas as entregas | Rafael Xavier | Artur
- 3.0 | 25/10/2023 | Parte executada das entregas 2 e 3 | Rafael Xavier | Ana Luíza
+ 1.1 | 02/10/2023 | Cronograma devidamente detalhado em todas as entregas | Rafael Xavier | Artur
+ 1.2 | 25/10/2023 | Parte executada das entregas 2 e 3 | Rafael Xavier | Ana Luíza
+ 1.3 | 16/11/2023 | Parte executada das entregas 4 e 5.1 | Ana Luíza | Rafael Xavier
