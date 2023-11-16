@@ -178,6 +178,7 @@ Na Tabela 10, apresenta-se o cronograma planejado para as atividades da sexta en
 |----------------------------------------------------------------------	|----------------------------	|-----------------------------------	|-------------------------	|------------------	|
 |   Pós-rastreabilidade: Backward-form  | Início: 13/11<br>Fim: 15/11 |  Ana Letícia, Ana Luíza e Artur	| Início: 15/11 Fim: 16/11 	|  Edilberto, Rafael e Raphaela	|
 |   Pós-rastreabilidade: Forward-form    	| Início: 16/11<br>Fim: 18/11  	| Edilberto, Rafael e Raphaela| Início: 18/11 Fim: 19/11 	| Ana Letícia, Ana Luíza e Artur |
+|   Pós-rastreabilidade: Matriz de rastreabilidade    	| Início: 16/11<br>Fim: 18/11  	| Ana Letícia e Raphaela| Início: 18/11 Fim: 19/11 	| Ana Luíza e Edilberto |
 |   Gravação da Apresentação e Entrega 	| Início: 19/11<br>Fim: 19/11    	|   Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 20/11 Fim: 20/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 |   Correção pós apresentação	| Início: 22/11<br>Fim: 23/11 	|  Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	| Início: 23/11<br>Fim: 24/11 	| Ana Letícia, Ana Luíza, Artur, Edilberto, Rafael e Raphaela 	|
 

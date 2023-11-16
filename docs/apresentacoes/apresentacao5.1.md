@@ -1,6 +1,6 @@
 # Introdução
 
-Nessa página está localizado o primeiro video de apresentação do projeto referente a Etapa 1 - Planejamento do projeto.
+Nessa página está localizado o primeiro video de apresentação do projeto referente a Etapa 5.1 - Análise de Requisitos: Verificação e Validação I.
 
 ## Video da Apresentação
 
