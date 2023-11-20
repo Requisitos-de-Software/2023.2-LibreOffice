@@ -482,28 +482,6 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 <p> Tabela 20: Requisito Funcional 17. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
 
-<details>
-  <summary>RF18 - Deve haver documentação abrangente disponível para os usuários, além de suporte técnico eficaz, incluindo fóruns, tutoriais e recursos de ajuda. </summary>
-  <table>
-    <thead>
-      <tr>
-        <th>Tópico</th>
-        <th>Referência</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Origem</td>
-        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT25</a>, <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l14-usuario>L14</a>.
-        </td>
-      </tr>
-      <tr>
-        <td>Elo</td>
-        <td>EF17</td>
-  </table>
-<p> Tabela 21: Requisito Funcional 18. (Fonte: Artur Seppa Reiman, 2023). </p>
-</details>
-
 <!-------------------------------------------------------------------- Requisitos ARTUR --------------------------------------------------------------------------------->
 
 ### Requisitos Não Funcionais
@@ -687,6 +665,28 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
   <div>
     <p> Tabela 30: Requisito Não Funcional 07. (Fonte: Ana Luíza, 2023). </p>
   </div>
+</details>
+
+<details>
+  <summary>RNF08 -  Deve ser assegurado a existência de uma infraestrutura de suporte aos usuários, contendo uma documentação abrangente, suporte técnico e recursos adicionais, tais como fóruns, tutoriais e mecanismos de ajuda. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT25</a>, <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l14-usuario>L14</a>.
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>EF17</td>
+  </table>
+<p> Tabela 21: Requisito Não Funcional 08. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
 
 ## Elos Funcionais
