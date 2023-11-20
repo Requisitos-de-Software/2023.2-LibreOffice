@@ -226,8 +226,6 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 <td>Tabela 10: RF07 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
-<!-------------------------------------------------------------------- Requisitos Ana Luíza --------------------------------------------------------------------------------->
-
 <details>
   <summary>RF08 - O usuário deve poder editar documentos de texto. </summary>
   <table>
@@ -250,8 +248,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>EF08</td>
   </table>
   <div>
     <p> Tabela 11: Requisito Funcional 08. (Fonte: Ana Luíza, 2023). </p>
@@ -280,8 +277,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>EF09</td>
   </table>
   <div>
     <p> Tabela 12: Requisito Funcional 09. (Fonte: Ana Luíza, 2023). </p>
@@ -307,8 +303,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>EF10</td>
   </table>
   <div>
     <p> Tabela 13: Requisito Funcional 10. (Fonte: Ana Luíza, 2023). </p>
@@ -336,8 +331,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>EF11</td>
   </table>
   <div>
     <p> Tabela 14: Requisito Funcional 11. (Fonte: Ana Luíza, 2023). </p>
@@ -391,8 +385,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>EF12</td>
   </table>
   <div>
     <p> Tabela 16: Requisito Funcional 13. (Fonte: Ana Luíza, 2023). </p>
@@ -521,8 +514,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>ENF05</td>
   </table>
   <div>
     <p> Tabela 28: Requisito Não Funcional 05. (Fonte: Ana Luíza, 2023). </p>
@@ -576,13 +568,112 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>
-        </td>
+        <td>ENF06</td>
   </table>
   <div>
     <p> Tabela 30: Requisito Não Funcional 07. (Fonte: Ana Luíza, 2023). </p>
   </div>
 </details>
+
+## Elos Funcionais
+
+### EF08
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS02
+    - Caso de uso: UC02
+    - Léxico: L06
+    - Épico: E04
+    - História de usuário: US20
+- **Elo**:
+    - **Representação:** 
+        - UC02 representa BS02
+        - L06 representa BS02
+    - **Alocado:**
+        - A US20 está alocada no E04 
+
+### EF09
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS05
+    - Épico: E02
+    - História de usuário: US05
+    - Introspecção: INT06
+    - Cenários: C02
+- **Elo**:
+    - **Representação:** 
+        - C02 representa BS05 e INT06
+    - **Alocado:**
+        - A US05 está alocada no E02
+
+### EF10
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS06
+    - Léxico: L07
+- **Elo**:
+    - **Representação:** 
+        - L07 representa BS06
+
+### EF11
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS10
+    - Léxico: L10
+    - Introspecção: INT28
+    - Cenários: C09
+- **Elo**:
+    - **Representação:** 
+        - L10 representa BS10 e INT28
+        - C09 representa BS10 e INT28
+
+### EF12
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Léxico: L04
+    - Épico: E02
+    - História de usuário: US08
+    - Introspecção: INT02
+- **Elo**:
+    - **Representação:** 
+        - L04 representa INT02
+    - **Alocado:**
+        - A US08 está alocada no E02
+
+## Elos Não Funcionais
+
+### ENF05
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS24
+    - Épico: E05
+    - História de usuário: US27
+    - Cenários: C10
+- **Elo**:
+    - **Representação:** 
+        - C10 representa BS24
+    - **Alocado:**
+        - A US27 está alocada no E05
+
+### ENF06
+
+- **Categoria:** Desenvolvimento
+- **Elementos rastreáveis:**
+    - Brainstorming: BS26
+    - Épico: E04
+    - História de usuário: US24
+    - Introspecção: INT23
+- **Elo**:
+    - **Representação:** 
+        - US24 representa BS26 e INT23
+    - **Alocado:**
+        - A US24 está alocada no E04
 
 
 ## Histórico de Versão
