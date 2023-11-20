@@ -695,128 +695,126 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS02
-  - Caso de uso: UC02
-  - Léxico: L06
-  - Épico: E04
-  - História de usuário: US20
+    - Brainstorming: BS02
+    - Caso de uso: UC02
+    - Léxico: L06
+    - Épico: E04
+    - História de usuário: US20
 - **Elo**:
-  - **Representação:**
-    - UC02 representa BS02
-    - L06 representa BS02
-  - **Alocado:**
-    - A US20 está alocada no E04
+    - **Representação:**
+        - UC02 representa BS02
+        - L06 representa BS02
+    - **Alocado:**
+        - A US20 está alocada no E04
 
 ### EF09
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS05
-  - Épico: E02
-  - História de usuário: US05
-  - Introspecção: INT06
-  - Cenários: C02
+    - Brainstorming: BS05
+    - Épico: E02
+    - História de usuário: US05
+    - Introspecção: INT06
+    - Cenários: C02
 - **Elo**:
-  - **Representação:**
-    - C02 representa BS05 e INT06
-  - **Alocado:**
-    - A US05 está alocada no E02
+    - **Representação:**
+        - C02 representa BS05 e INT06
+    - **Alocado:**
+        - A US05 está alocada no E02
 
 ### EF10
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS06
-  - Léxico: L07
+    - Brainstorming: BS06
+    - Léxico: L07
 - **Elo**:
-  - **Representação:**
-    - L07 representa BS06
+    - **Representação:**
+        - L07 representa BS06
 
 ### EF11
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS10
-  - Léxico: L10
-  - Introspecção: INT28
-  - Cenários: C09
+    - Brainstorming: BS10
+    - Léxico: L10
+    - Introspecção: INT28
+    - Cenários: C09
 - **Elo**:
-  - **Representação:**
-    - L10 representa BS10 e INT28
-    - C09 representa BS10 e INT28
+    - **Representação:**
+        - L10 representa BS10 e INT28
+        - C09 representa BS10 e INT28
 
 ### EF12
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Léxico: L04
-  - Épico: E02
-  - História de usuário: US08
-  - Introspecção: INT02
+    - Léxico: L04
+    - Épico: E02
+    - História de usuário: US08
+    - Introspecção: INT02
 - **Elo**:
-  - **Representação:**
-    - L04 representa INT02
-  - **Alocado:**
-    - A US08 está alocada no E02
+    - **Representação:**
+        - L04 representa INT02
+    - **Alocado:**
+        - A US08 está alocada no E02
 
 ### EF13
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Épico: E03
-  - História de usuário: US11
-  - Introspecção: INT05
+    - Épico: E03
+    - História de usuário: US11
+    - Introspecção: INT05
 - **Elo**:
-  - **Alocado:**
-    - A US11 está alocada no E03
+    - **Alocado:**
+        - A US11 está alocada no E03
 
 ### EF14
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Épico: E02
-  - História de usuário: US09
-  - Introspecção: INT06
+    - Épico: E02
+    - História de usuário: US09
+    - Introspecção: INT06
 - **Elo**:
-
-  - **Alocado:**
-
-    - A US09 está alocada no E02
+    - **Alocado:**
+        - A US09 está alocada no E02
 
 ### EF15
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Léxico: L03, L09, L13
-  - Épico: E03
-  - História de usuário: US10, US12, US13, US14
-  - Introspecção: INT08
+    - Léxico: L03, L09, L13
+    - Épico: E03
+    - História de usuário: US10, US12, US13, US14
+    - Introspecção: INT08
 - **Elo**:
-  - **Representação:**
-    - L03, L09 e L13 representam INT08
-  - **Alocado:**
-    - A US10, US12, US13 e US14 estão alocadas no E03
+    - **Representação:**
+        - L03, L09 e L13 representam INT08
+    - **Alocado:**
+        - A US10, US12, US13 e US14 estão alocadas no E03
 
 ### EF16
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Épico: E03
-  - História de usuário: US15, US16, US17
-  - Introspecção: INT10 e INT11
+    - Épico: E03
+    - História de usuário: US15, US16, US17
+    - Introspecção: INT10 e INT11
 - **Elo**:
-  - **Alocado:**
-    - A US15, US16 e US17 estão alocadas no E03
+    - **Alocado:**
+        - A US15, US16 e US17 estão alocadas no E03
 
 ### EF17
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Léxico: L14
-  - Introspecção: INT25
+    - Léxico: L14
+    - Introspecção: INT25
 - **Elo**:
-   - **Representação:**
-    - L14 representa INT25
+    - **Representação:**
+        - L14 representa INT25
 
 ## Elos Não Funcionais
 
@@ -824,29 +822,29 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS24
-  - Épico: E05
-  - História de usuário: US27
-  - Cenários: C10
+    - Brainstorming: BS24
+    - Épico: E05
+    - História de usuário: US27
+    - Cenários: C10
 - **Elo**:
-  - **Representação:**
-    - C10 representa BS24
-  - **Alocado:**
-    - A US27 está alocada no E05
+    - **Representação:**
+        - C10 representa BS24
+    - **Alocado:**
+        - A US27 está alocada no E05
 
 ### ENF06
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
-  - Brainstorming: BS26
-  - Épico: E04
-  - História de usuário: US24
-  - Introspecção: INT23
+    - Brainstorming: BS26
+    - Épico: E04
+    - História de usuário: US24
+    - Introspecção: INT23
 - **Elo**:
-  - **Representação:**
-    - US24 representa BS26 e INT23
-  - **Alocado:**
-    - A US24 está alocada no E04
+    - **Representação:**
+        - US24 representa BS26 e INT23
+    - **Alocado:**
+        - A US24 está alocada no E04
 
 ## Histórico de Versão
 
