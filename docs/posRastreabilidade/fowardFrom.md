@@ -45,9 +45,45 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 
 |        RF01(INT02)   | O software deve fornecer ferramentas/opções para formatar o texto, como alterar o estilo e o tamanho da fonte. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |   2 - Estilização do documentos  |
+|       Feature       |   4 - Estilos de Parágrafo e Caracteres Avançados |
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
+|   Demonstração    |  --- |
+
+<a id="RF01">**RF01**</a>
+
+|        RF02(INT03)   | Deve ser possível aplicar estilos de formatação de fonte, como negrito, itálico, sublinhado, tachado, sobrescrito e subscrito. |
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |  2 - Estilização do documento  |
+|       Feature       |  4 - Estilos de Parágrafo e Caracteres Avançados |
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
+|   Demonstração    |  --- |
+
+<a id="RF01">**RF01**</a>
+
+|        RF03(INT04)   | O usuário deve ter a opção de alinhar o texto: centralizar, justificar, alinhar à direita ou alinhar à esquerda. |
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |  2 - Estilização do documento  |
+|       Feature       | 4 - Estilos de Parágrafo e Caracteres Avançados |
+| História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
+|   Demonstração    |  --- |
+
+<a id="RF01">**RF01**</a>
+
+|       RF04(INT05)   | O software deve permitir a criação de tópicos ordenados (numeração, letras), não ordenados (marcadores) e seus subtópicos. |
+| :-----------------: | :--------------------------------------------------------------------------------: |
+|        Épico        |  2 - Estilização do documento  |
+|       Feature       |  4 - Estilos de Parágrafo e Caracteres Avançados |
+| História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
+|   Demonstração    |  --- |
+
+<a id="RF01">**RF01**</a>
+
+|        RF05(INT06)   | Deve ser possível aumentar ou diminuir o recúo, bem como regular o espaçamento entre linhas e o espaço entre parágrafos. |
+| :-----------------: | :--------------------------------------------------------------------------------: |
 |        Épico        |  Alterar  |
 |       Feature       |  Alterar fonte, cor, tamanho |
-| História de Usuário | [EP02](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
+| História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
 
@@ -65,3 +101,4 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
  1.0 | 20/11/2023 | Criação do documento | Rafael | a definir
+ 1.1 | 20/11/2023 | Acréscimo de especificações | Raphaela Guimaraes | a definir
