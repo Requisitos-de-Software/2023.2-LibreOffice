@@ -63,6 +63,259 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
   <p> Tabela 1: Sigla de cada etapa (Fonte: Ana Luíza, 2023).</p>
 </div>
 
+### Requisitos Funcionais
+
+<details>
+  <summary>RF01 - Salvar o arquivo em pelo menos quatro extensões</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT14</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+<details>
+  <summary>RF02 - Inserir quebras de página </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT15</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+  <details>
+  <summary>RF03 - Inserir símbolos especiais e equações matemáticas no texto </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT16</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+  <details>
+  <summary>RF04 - O software deve oferecer suporte a múltiplos idiomas, permitindo a edição de documentos em diferentes línguas </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT17</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+  <details>
+  <summary>RF05 - O software deve permitir o controle de revisões </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT18</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+  <details>
+  <summary>RF06 - Deve ser possível colaborar em documentos em tempo real com outros usuários, permitindo a edição simultânea de um documento compartilhado </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT19</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+  <details>
+  <summary>RF07 - O software deve ser capaz de recuperar automaticamente documentos em caso de falha, como uma queda de energia ou travamento do aplicativo. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT20</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+### Requisitos Não Funcionais
+
+<details>
+  <summary>RNF01 - O software deve ser portável</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT21</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+<details>
+  <summary>RNF02 - O software deve garantir a segurança dos documentos do usuário com senha e criptografia.
+</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT22</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+<details>
+  <summary>RNF03 - O software deve ser eficiente em termos de consumo de recursos do sistema, como CPU e memória, para garantir um desempenho responsivo mesmo em sistemas menos poderosos.
+</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT24</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
+
+<details>
+  <summary>RNF04 - O aplicativo deve ser compatível com sistemas mobile.
+</summary>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td><a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>BS27</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+</details>
 ## Histórico de Versão
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
