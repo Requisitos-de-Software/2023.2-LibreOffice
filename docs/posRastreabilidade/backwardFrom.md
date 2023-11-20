@@ -40,7 +40,7 @@ Usaremos o Meta-modelo de Toranzo, aplicado à rastreabilidade de requisitos, qu
 
 ## Legenda
 
-Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual contém todos os simbolos necessários para o bom entendimento dos tópicos abaixo:
+Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual contém todos os simbolos necessários para o bom entendimento dos tópicos abaixo:
 
 <center>
 
@@ -60,14 +60,13 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 </center>
 
 <div style="text-align: center">
-  <p> Tabela 1: Sigla de cada etapa (Fonte: Ana Luíza, 2023).</p>
+  <p> Tabela 3: Sigla de cada etapa (Fonte: Ana Luíza, 2023).</p>
 </div>
 
 ### Requisitos Funcionais
 
 <details>
   <summary>RF01 - Salvar o arquivo em pelo menos quatro extensões</summary>
-
   <table>
     <thead>
       <tr>
@@ -320,4 +319,4 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
-| 1.0     | 20/11/20233 | Criação do documento | Ana Luíza, Ana Letícia e Artur | Rafael |
+| 1.0     | 20/11/20233 | Criação do documento | Ana Luíza, Ana Letícia e Artur | Edilberto, Rafael e Raphaela |
