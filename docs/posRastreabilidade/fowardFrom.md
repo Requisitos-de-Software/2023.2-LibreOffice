@@ -50,7 +50,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
-<a id="RF01">**RF01**</a>
+<a id="RF02">**RF02**</a>
 
 |        RF02(INT03)   | Deve ser possível aplicar estilos de formatação de fonte, como negrito, itálico, sublinhado, tachado, sobrescrito e subscrito. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -59,7 +59,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
-<a id="RF01">**RF01**</a>
+<a id="RF03">**RF03**</a>
 
 |        RF03(INT04)   | O usuário deve ter a opção de alinhar o texto: centralizar, justificar, alinhar à direita ou alinhar à esquerda. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -68,7 +68,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
-<a id="RF01">**RF01**</a>
+<a id="RF04">**RF04**</a>
 
 |       RF04(INT05)   | O software deve permitir a criação de tópicos ordenados (numeração, letras), não ordenados (marcadores) e seus subtópicos. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
@@ -77,7 +77,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
-<a id="RF01">**RF01**</a>
+<a id="RF05">**RF05**</a>
 
 |        RF05(INT06)   | Deve ser possível aumentar ou diminuir o recúo, bem como regular o espaçamento entre linhas e o espaço entre parágrafos. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
