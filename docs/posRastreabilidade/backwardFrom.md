@@ -203,7 +203,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 <td>Tabela 9: RF06 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
-  <details>
+<details>
   <summary>RF07 - O software deve ser capaz de recuperar automaticamente documentos em caso de falha, como uma queda de energia ou travamento do aplicativo. </summary>
   <table>
     <thead>
@@ -224,6 +224,179 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         </td>
   </table>
 <td>Tabela 10: RF07 (Fonte: Ana Letícia, 2023).</td>
+</details>
+
+<!-------------------------------------------------------------------- Requisitos Ana Luíza --------------------------------------------------------------------------------->
+
+<details>
+  <summary>RF08 - O usuário deve poder editar documentos de texto. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/#requisitos-elicitados>BS02</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/casosDeUso/#caso-de-uso-2-editar-documento>UC02</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l06-editar-documentos-de-texto>L06</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/#epicos_1>E04</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/#epicos_1>US20</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 11: Requisito Funcional 08. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RF09 - O usuário deve poder criar estilos para parágrafos, caracteres individuais, quadros e páginas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/#requisitos-elicitados>BS05</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT06</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>E02</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>US05</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/cenarios/#cenario-2>C02</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 12: Requisito Funcional 09. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RF10 - O usuário deve poder criar índices e sumários em documentos de texto. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/#requisitos-elicitados>BS06</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l07-criar-indices-e-sumarios>L07</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 13: Requisito Funcional 10. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RF11 - O usuário deve poder personalizar a interface do programa, incluindo ícones e menus. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming>BS10</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT28</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/cenarios/#cenario-9>C09</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l10-personalizar-a-interface-do-aplicativo>L10</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 14: Requisito Funcional 11. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RF12 - O usuário deve poder utilizar uma função de voz para ouvir o texto lido em voz alta, especialmente útil para usuários com deficiência visual. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming>BS22</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 15: Requisito Funcional 12. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RF13 - O software deve fornecer ferramentas/opções para formatar o texto, como alterar o estilo e o tamanho da fonte. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT02</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/#l04-estilo-de-texto>L04</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>E02</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>US08</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 16: Requisito Funcional 13. (Fonte: Ana Luíza, 2023). </p>
+  </div>
 </details>
 
 ### Requisitos Não Funcionais
@@ -326,6 +499,92 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
   </table>
 <td>Tabela 14: RNF04 (Fonte: Ana Letícia, 2023).</td>
 </details>
+
+<details>
+  <summary>RNF05 - O aplicativo deve ser capaz de se integrar de forma eficaz com serviços de armazenamento em nuvem para facilitar o compartilhamento e o acesso a documentos. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming>BS24</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/cenarios/#cenario-10>C10</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>E05</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>US27</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 28: Requisito Não Funcional 05. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RNF06 - O LibreOffice Writer deve funcionar de forma eficiente, mesmo em documentos longos e complexos. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/#requisitos-elicitados>BS25</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 29: Requisito Não Funcional 06. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+<details>
+  <summary>RNF07 - Deve ser acessível para pessoas com deficiência, seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas. </summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Tópico</th>
+        <th>Referência</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Origem</td>
+        <td>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/tecnicas/brainstorming/#requisitos-elicitados>BS26</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/introspeccao>INT23</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>E04</a>
+          <a href=https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog>US24</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Elo</td>
+        <td>
+        </td>
+  </table>
+  <div>
+    <p> Tabela 30: Requisito Não Funcional 07. (Fonte: Ana Luíza, 2023). </p>
+  </div>
+</details>
+
+
 ## Histórico de Versão
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
