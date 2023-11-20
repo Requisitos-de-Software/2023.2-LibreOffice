@@ -60,7 +60,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
 </center>
 
 <div style="text-align: center">
-  <p> Tabela 1: Sigla de cada etapa (Fonte: Ana Luíza, 2023).</p>
+  <p> Tabela 3: Sigla de cada etapa (Fonte: Ana Luíza, 2023).</p>
 </div>
 
 ### Requisitos Funcionais
@@ -86,6 +86,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+  <td>Tabela 4: RF01. (Fonte: Ana Letícia, 2023)</td>
 </details>
 
 <details>
@@ -108,6 +109,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 5: RF02 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
   <details>
@@ -130,6 +132,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 6: RF03 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
   <details>
@@ -152,6 +155,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 7: RF04 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
   <details>
@@ -174,6 +178,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 8: RF05 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
   <details>
@@ -196,6 +201,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 9: RF06 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
   <details>
@@ -218,6 +224,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 10: RF07 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 ### Requisitos Não Funcionais
@@ -243,6 +250,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 11: RNF01 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -267,6 +275,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 12: RNF02 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -291,6 +300,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 13: RNF03 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -315,6 +325,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 1 na qual co
         <td>
         </td>
   </table>
+<td>Tabela 14: RNF04 (Fonte: Ana Letícia, 2023).</td>
 </details>
 ## Histórico de Versão
 
