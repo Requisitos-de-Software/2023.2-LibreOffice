@@ -60,7 +60,7 @@ nav:
         - Histórias de Usuário: modelagem/agil/historiasDeUsuario.md
     - Pós-Rastreabilidade:
       - Backward-from: posRastreabilidade/backwardFrom.md
-      - Foward-from: posRastreabilidade/fowardFrom.md
+      - Forward-from: posRastreabilidade/fowardFrom.md
       - Matriz de Rastreabilidade: posRastreabilidade/matrizRastreabilidade.md
     - Verificação:
       - Grupo 1:
