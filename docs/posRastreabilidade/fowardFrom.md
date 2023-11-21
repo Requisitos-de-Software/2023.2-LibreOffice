@@ -66,7 +66,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 |        Épico        |  2 - Estilização do documento  |
 |       Feature       | 4 - Estilos de Parágrafo e Caracteres Avançados |
 | História de Usuário | [US08](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
-|   Demonstração    |[Vídeo](https://drive.google.com/file/d/1Umv_IUOkzqeleZCbAqhe9BxtI7B7wnRk/view?usp=drive_link) |
+|   Demonstração    | [Vídeo](https://drive.google.com/file/d/1Umv_IUOkzqeleZCbAqhe9BxtI7B7wnRk/view?usp=drive_link)  |
 
 <a id="RF04">**RF04**</a>
 
@@ -75,7 +75,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 |        Épico        |  2 - Estilização do documento  |
 |       Feature       |  4 - Estilos de Parágrafo e Caracteres Avançados |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
-|   Demonstração    |  [Vídeo]([https://drive.google.com/file/d/1Umv_IUOkzqeleZCbAqhe9BxtI7B7wnRk/view?usp=drive_link](https://drive.google.com/file/d/1YbJs9v0D6ZdoWwBuBZH-MfF_Rdx2rU5q/view?usp=drive_link)) |
+|   Demonstração    |      [Vídeo](https://drive.google.com/file/d/1YbJs9v0D6ZdoWwBuBZH-MfF_Rdx2rU5q/view?usp=drive_link)    |
 
 <a id="RF05">**RF05**</a>
 
@@ -84,7 +84,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 |        Épico        |  2 - Estilização do documento  |
 |       Feature       |  4 - Estilos de Parágrafo e Caracteres Avançados |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
-|   Demonstração    |  [Vídeo]([https://drive.google.com/file/d/1Umv_IUOkzqeleZCbAqhe9BxtI7B7wnRk/view?usp=drive_link](https://drive.google.com/file/d/1bM77ddliOZDPBCFSsm0Bgbx5dwKrqqFa/view?usp=drive_link)) |
+|   Demonstração    |  [Vídeo](https://drive.google.com/file/d/1bM77ddliOZDPBCFSsm0Bgbx5dwKrqqFa/view?usp=drive_link) |
 
 <a id="RF06">**RF06**</a>
 
@@ -159,7 +159,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 |        Épico        |  [E04 - Ferramentas do sistema](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |       Feature       |  [FT09 -  Acessibilidade](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 | História de Usuário | [US26](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
-|   Demonstração    |  [---]() |
+|   Demonstração    |  [Suporte da comunidade](https://pt-br.libreoffice.org/ajuda/suporte-da-comunidade/) |
 
 
 <a id="RF13">**RF13**</a>
@@ -169,7 +169,7 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 |        Épico        |  [E04 - Ferramentas do sistema](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |       Feature       |  [FT09 -  Acessibilidade](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 | História de Usuário | --- |
-|   Demonstração    |  [---]() |
+|   Demonstração    |  [video](https://drive.google.com/file/d/1UTsCuKRZf53PuGYqkIHKgEb9OfKCocAj/view?usp=drive_link)  |
 
 
 
