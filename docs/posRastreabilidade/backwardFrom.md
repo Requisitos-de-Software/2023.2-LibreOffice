@@ -248,7 +248,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF08</td>
+        <td>EF01</td>
   </table>
   <div>
     <p> Tabela 11: Requisito Funcional 08. (Fonte: Ana Luíza, 2023). </p>
@@ -277,7 +277,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF09</td>
+        <td>EF02</td>
   </table>
   <div>
     <p> Tabela 12: Requisito Funcional 09. (Fonte: Ana Luíza, 2023). </p>
@@ -303,7 +303,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF10</td>
+        <td>EF03</td>
   </table>
   <div>
     <p> Tabela 13: Requisito Funcional 10. (Fonte: Ana Luíza, 2023). </p>
@@ -331,7 +331,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF11</td>
+        <td>EF04</td>
   </table>
   <div>
     <p> Tabela 14: Requisito Funcional 11. (Fonte: Ana Luíza, 2023). </p>
@@ -385,14 +385,12 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF12</td>
+        <td>EF05</td>
   </table>
   <div>
     <p> Tabela 16: Requisito Funcional 13. (Fonte: Ana Luíza, 2023). </p>
   </div>
 </details>
-
-<!-------------------------------------------------------------------- Requisitos ARTUR --------------------------------------------------------------------------------->
 
 <details>
   <summary>RF14 - O software deve permitir a criação de tópicos ordenados, não ordenados e seus subtópicos no texto.</summary>
@@ -411,7 +409,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF13</td>
+        <td>EF06</td>
   </table>
 <p> Tabela 17: Requisito Funcional 14. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
@@ -433,7 +431,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF14</td>
+        <td>EF07</td>
   </table>
 <p> Tabela 18: Requisito Funcional 15. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
@@ -455,7 +453,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF15</td>
+        <td>EF08</td>
   </table>
 <p> Tabela 19: Requisito Funcional 16. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
@@ -477,12 +475,10 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF16</td>
+        <td>EF09</td>
   </table>
 <p> Tabela 20: Requisito Funcional 17. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
-
-<!-------------------------------------------------------------------- Requisitos ARTUR --------------------------------------------------------------------------------->
 
 ### Requisitos Não Funcionais
 
@@ -507,7 +503,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         <td>
         </td>
   </table>
-<td>Tabela 11: RNF01 (Fonte: Ana Letícia, 2023).</td>
+<td>Tabela 21: RNF01 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -532,7 +528,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         <td>
         </td>
   </table>
-<td>Tabela 12: RNF02 (Fonte: Ana Letícia, 2023).</td>
+<td>Tabela 22: RNF02 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -557,7 +553,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         <td>
         </td>
   </table>
-<td>Tabela 13: RNF03 (Fonte: Ana Letícia, 2023).</td>
+<td>Tabela 23: RNF03 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -582,7 +578,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         <td>
         </td>
   </table>
-<td>Tabela 14: RNF04 (Fonte: Ana Letícia, 2023).</td>
+<td>Tabela 24: RNF04 (Fonte: Ana Letícia, 2023).</td>
 </details>
 
 <details>
@@ -606,10 +602,10 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>ENF05</td>
+        <td>ENF01</td>
   </table>
   <div>
-    <p> Tabela 28: Requisito Não Funcional 05. (Fonte: Ana Luíza, 2023). </p>
+    <p> Tabela 25: Requisito Não Funcional 05. (Fonte: Ana Luíza, 2023). </p>
   </div>
 </details>
 
@@ -635,7 +631,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         </td>
   </table>
   <div>
-    <p> Tabela 29: Requisito Não Funcional 06. (Fonte: Ana Luíza, 2023). </p>
+    <p> Tabela 26: Requisito Não Funcional 06. (Fonte: Ana Luíza, 2023). </p>
   </div>
 </details>
 
@@ -660,10 +656,10 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>ENF06</td>
+        <td>ENF02</td>
   </table>
   <div>
-    <p> Tabela 30: Requisito Não Funcional 07. (Fonte: Ana Luíza, 2023). </p>
+    <p> Tabela 27: Requisito Não Funcional 07. (Fonte: Ana Luíza, 2023). </p>
   </div>
 </details>
 
@@ -684,14 +680,14 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
       </tr>
       <tr>
         <td>Elo</td>
-        <td>EF17</td>
+        <td>EF10</td>
   </table>
-<p> Tabela 21: Requisito Não Funcional 08. (Fonte: Artur Seppa Reiman, 2023). </p>
+<p> Tabela 28: Requisito Não Funcional 08. (Fonte: Artur Seppa Reiman, 2023). </p>
 </details>
 
 ## Elos Funcionais
 
-### EF08
+### EF01
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -707,7 +703,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US20 está alocada no E04
 
-### EF09
+### EF02
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -722,7 +718,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US05 está alocada no E02
 
-### EF10
+### EF03
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -732,7 +728,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Representação:**
         - L07 representa BS06
 
-### EF11
+### EF04
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -745,7 +741,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
         - L10 representa BS10 e INT28
         - C09 representa BS10 e INT28
 
-### EF12
+### EF05
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -759,7 +755,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US08 está alocada no E02
 
-### EF13
+### EF06
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -770,7 +766,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US11 está alocada no E03
 
-### EF14
+### EF07
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -781,7 +777,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US09 está alocada no E02
 
-### EF15
+### EF08
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -795,7 +791,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US10, US12, US13 e US14 estão alocadas no E03
 
-### EF16
+### EF09
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -806,7 +802,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US15, US16 e US17 estão alocadas no E03
 
-### EF17
+### EF10
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -818,7 +814,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
 
 ## Elos Não Funcionais
 
-### ENF05
+### ENF01
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
@@ -832,7 +828,7 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US27 está alocada no E05
 
-### ENF06
+### ENF02
 
 - **Categoria:** Desenvolvimento
 - **Elementos rastreáveis:**
