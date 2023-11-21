@@ -842,6 +842,12 @@ Para realizar o mapeamento dos requisitos, será utilizado a tabela 3 na qual co
     - **Alocado:**
         - A US24 está alocada no E04
 
+## Bibliografia
+
+> SAYÃO, Miriam; STAA, A. von; LEITE, J. C. S. P. Qualidade em Requisitos. Monografia em Ciência da Computação, DI/PUC-Rio, Rio de Janeiro, 2003.
+
+> SERRANO, Milene. Requisitos – Aula 24. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf. Acesso em: 20/11/2023.
+
 ## Histórico de Versão
 
 | Versão | Data        | Descrição            | Autor                          | Revisor                      |
