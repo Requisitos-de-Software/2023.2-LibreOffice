@@ -187,4 +187,4 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 Versão  |   Data    | Descrição | Autor(es) | Revisor(es)
 --------- | ------- | ------ | ---------- | ----------
  1.0 | 20/11/2023 | Criação do documento | Rafael | Edilberto e Rapahela
- 1.1 | 20/22/2023 | Adição das especificações | Edilberto, Rafael , Raphaela | 
+ 1.1 | 20/22/2023 | Adição das especificações | Edilberto, Rafael , Raphaela | Ana Luíza
