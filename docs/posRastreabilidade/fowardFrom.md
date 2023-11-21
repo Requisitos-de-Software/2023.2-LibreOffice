@@ -81,8 +81,8 @@ Faremos a rastreabilidade dos requisitos priorizados como "Must" na nossa tabela
 
 |        RF05(INT06)   | Deve ser possível aumentar ou diminuir o recúo, bem como regular o espaçamento entre linhas e o espaço entre parágrafos. |
 | :-----------------: | :--------------------------------------------------------------------------------: |
-|        Épico        |  Alterar  |
-|       Feature       |  Alterar fonte, cor, tamanho |
+|        Épico        |  2 - Estilização do documento  |
+|       Feature       |  4 - Estilos de Parágrafo e Caracteres Avançados |
 | História de Usuário | [US09](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/) |
 |   Demonstração    |  --- |
 
