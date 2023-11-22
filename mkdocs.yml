@@ -20,6 +20,22 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+plugins:
+  - search
+  - charts
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
+
 nav:
     - Home: index.md
     - Atas:
@@ -63,6 +79,29 @@ nav:
       - Forward-from: posRastreabilidade/fowardFrom.md
       - Matriz de Rastreabilidade: posRastreabilidade/matrizRastreabilidade.md
     - Verificação:
+      - Grupo:
+          - Metodologia: verificacao/grupo/metodologia.md
+          - Planejamento:
+            - Cronograma: verificacao/grupo/planejamento/cronogramas.md
+            - Ferramentas: verificacao/grupo/planejamento/ferramentas.md
+            - Lista de Aplicativos: verificacao/grupo/planejamento/listaDeAplicativos.md
+          - Pré-Rastreabilidade: 
+            - Rich Picture: verificacao/grupo/pre-rastreabilidade/rich-picture.md
+          - Elicitação:
+            - Brainstorming: verificacao/grupo/elicitacao/brainstorm.md
+            - Perfil de Usuário: verificacao/grupo/elicitacao/perfilDeUsuario.md
+            - Personas: verificacao/grupo/elicitacao/personas.md
+          - Priorização: 
+            - First Things First: verificacao/grupo/priorizacao/firstThingsFirst.md
+            - In or Out: verificacao/grupo/priorizacao/in-or-out.md
+            - 100$: verificacao/grupo/priorizacao/100$.md
+          - Modelagem:
+            - Casos de Uso: verificacao/grupo/modelagem/casodeuso.md
+            - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
+            - Léxicos: verificacao/grupo/modelagem/Lexicos.md
+          - Ágil:
+            - Backlog: verificacao/grupo/agil/backlog.md
+            - Histórias de Usuário: verificacao/grupo/agil/historias.md
       - Grupo 1:
           - Metodologia: verificacao/grupo1/metodologia.md
           - Planejamento:
