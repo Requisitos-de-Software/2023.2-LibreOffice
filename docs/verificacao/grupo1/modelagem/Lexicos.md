@@ -1,4 +1,4 @@
-# Verificação de Personas
+# Verificação dos Léxicos
 
 ## Introdução
 Neste documento, será realizada a verificação do artefato de [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/) desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.

@@ -22,8 +22,8 @@ O objetivo básico das inspenções é verificar se o modelo de requisitos está
 | Artefato                  | Avaliador(es)          |
 | ------------------------- | ---------------------- |
 | Cronogramas               | Ana Letícia            |
-| Aplicativo Selecionado    | Ana Luíza              |
-| Ferramentas               | Rafael                 |
+| Aplicativo Selecionado    | Rafael                 |
+| Ferramentas               | Ana Luíza              |
 | Rich Picture              | Ana Luíza              |
 | Perfil de usuário         | Ana Letícia            |
 | Questionário              | Raphaela e Edilberto   |
@@ -38,6 +38,9 @@ O objetivo básico das inspenções é verificar se o modelo de requisitos está
 | Histórias de usuário      | Rafael                 |
 | Backlog                   | Ana Luíza e Rafael     |
 | NRF Framework             | Ana Letícia e Artur    |
+| Foward-From               | Ana Letícia, Ana Luíza e Artur |
+| Backward-From             | Edilberto, Rafael e Raphael |
+| Matriz de Rastreabilidade | Ana Luíza              |
 
 <div style="text-align: center">
 <p> Tabela 1: Tabela do cronograma de avaliação (Fonte: Ana Luíza, 2023). </p>
