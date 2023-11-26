@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O presente documento apresentará a verificação do artefato [Backlog](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas e no Gráfico 1, o quanto das exigências foram atendidas.
+O presente documento apresentará a verificação do artefato [Backlog](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontram os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas e no Gráfico 1, o quanto das exigências foram atendidas.
 
 <center>
 
@@ -60,7 +60,7 @@ O presente documento apresentará a verificação do artefato [Backlog](https://
 | ID Correção | Tarefa         |
 | ------------- | -------------- |
 | IDC1          | Corrigir as legendas de acordo com o padrão do projeto  |
-| IDC2          | Corrigir, ou returar o link para as histórias de usuário  |
+| IDC2          | Corrigir, ou retirar o link para as histórias de usuário  |
 | IDC3          | Retirar todo e qualquer link de github de membros do grupo |
 | IDC4          | Corrigir o histórico de versão de acordo com o padrão do projeto, especificamente a parte da versão que tem um fundo cinza, não compatível com o padrão do projeto |
 | IDC5          | Corrigir a chamada da tabela 7 na metodologia, que está referênciada como tabela 1 |
@@ -144,6 +144,8 @@ Portanto, com base na formula apresentada, pode-se dizer que o aproveitamento de
 ### Ajustes
 
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4.
+
+<center>
 
 | ID Correção | Ajuste                       |
 | ------------- | ---------------------------- |
