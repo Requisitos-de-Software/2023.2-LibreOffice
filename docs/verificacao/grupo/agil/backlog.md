@@ -16,6 +16,21 @@ O presente documento apresentará a verificação do artefato [Backlog](https://
 
 </center>
 
+## Cronograma e planejamento
+
+Para efetuar a inspeção e verificação do documento os integrantes Ana Luíza e Rafael realizaram uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 21:50 do dia 26 de novembro de 2023, como pode ser visto no vídeo 1.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSTVB2Motyg?si=vUzHpMYfoiw0DnYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da verificação do Backlog. (Fonte: Ana Luíza e Rafael, 2023). </p>
+</div>
+</center>
+
+## Verificação
+
 <center>
 
 | ID |                                 Questão                                 | Inspeção |
