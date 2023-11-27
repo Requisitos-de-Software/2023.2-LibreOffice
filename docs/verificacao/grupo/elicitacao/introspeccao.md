@@ -115,6 +115,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
+<<<<<<< HEAD
 - 9/15 exigências são atendidas;
 - 3/15 exigências estão incompletas;
 - 0/15 exigências estão erradas ou não foram realizadas;
