@@ -4,6 +4,22 @@
 
 O presente documento apresentará a verificação do [Rich Picture](https://requisitos-de-software.github.io/2023.2-LibreOffice/planejamento/appEscolhido/#rich-picture) desenvolvido pela equipe. É necessário esclarecer que o RIch Picture se encontra dentro do artefato Aplicativo Escolhido, mas neste documento será avaliado somente o Rich picture separadamente, que foi feito pela Ana Letícia e pela Raphaela. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados do artefato em que se encontra o Rich Picture, na tabela 2 se encontram as questões a serem avaliadas e no Gráfico 1, o quanto das exigências foram atendidas.
 
+## Cronograma e participantes
+
+Para efetuar a inspeção e verificação do documento a integrante Ana Luíza realizou uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 21:15 do dia 26 de novembro de 2023, como pode ser visto no vídeo 1.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OKCcG8lyJCA?si=1zilH2iEBPhEDt4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da verificação do Rich Picture. (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+</center>
+
+## Verificação
+
 <center>
 
 | Versão | Data | Descrição |  Autor(es) | Revisor(es) | 
