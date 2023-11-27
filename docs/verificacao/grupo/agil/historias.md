@@ -4,6 +4,22 @@
 
 Neste documento, será realizada a verificação do artefato "Histórias de Usuário" desenvolvido  nosso grupo, que baseia o projeto no aplicativo do LibreOffice Writer. Sendo realizada a técnica de inspeção como forma de avaliação do artefato, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontram os metadados do arquivo desenvolvido, enquanto nas tabelas 2 e 3 podem ser vistas as questões a serem avaliadas.
 
+### Cronograma e Participantes
+
+Para efetuar a inspeção e verificação do documento o integrante Rafael Xavier Canabrava também realizou uma gravação dessa atividade para ter uma melhor visão da inspeção efetuada do documento. A gravação foi feita no OBS Studio no dia 27/11/2023, às 11h.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKx34k8eWb4?si=S6oHP_ZlOvgxpyK-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Gravação 1: Inspeção do documento. (Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+</center>
+
+### Inspeção
+
 <center>
 
 | Versão | Autor  |    Revisor         |
