@@ -115,15 +115,40 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 12/15 exigências são atendidas;
+<<<<<<< HEAD
+- 9/15 exigências são atendidas;
 - 3/15 exigências estão incompletas;
-- 0/15 exigências estão erradas ou não foram realizadas.
+- 0/15 exigências estão erradas ou não foram realizadas;
+- 3/15 exigências não se aplicam;
 
 onde 15 é a quantidade de exigências.
 
-<div style="text-align: center">
-<img src="../../../images/verificacao/ac_instrospeccao.png" alt="Descrição da imagem" style="max-width: 100%; height: auto;">
-</div>
+```vegalite
+{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 9},
+      {"legenda": "Incompleto", "value": 3},
+      {"legenda": "N\A", "value": 3}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "N\A"],
+        "range": ["green", "yellow", "red"]
+      }
+    }
+  }
+}
+```
 
 <div style="text-align: center">
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Artur Seppa Reiman, 2023). </p>
