@@ -20,16 +20,16 @@ Este documento apresentará a verificação do artefato [Aplicativo Escolhido](h
 
 <center>
 
-|  ID   |                                 Questão                                  | Inspeção | Observações |
-| :---: | :----------------------------------------------------------------------: | :------: | ----------- |
-|   1   |                 As legendas estão no padrão do projeto?                  |    🟢     |             |
-|   2   |                  Possui links para os outros artefatos?                  |    N/A     |            |
-|   3   |                    Existe uma introdução no artefato?                    |    🟢     |             |
-|   4   |               Existe tabela de versionamento padronizado?                |    🟢     |             |
-|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |             |
-|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |              |
-|   7   |                         O artefato possui autor?                         |    🟢     |             |
-|   8   |                        O artefato possui revisor?                        |    🟢     |          |
+|  ID   |                                 Questão                                  | Inspeção |
+| :---: | :----------------------------------------------------------------------: | :------: |
+|   1   |                 As legendas estão no padrão do projeto?                  |    🟢     |    
+|   2   |                  Possui links para os outros artefatos?                  |    N/A     |            
+|   3   |                    Existe uma introdução no artefato?                    |    🟢     |             
+|   4   |               Existe tabela de versionamento padronizado?                |    🟢     |             
+|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |             
+|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢    |             
+|   7   |                         O artefato possui autor?                         |    🟢     |             
+|   8   |                        O artefato possui revisor?                        |    🟢     |          
 
 </center>
 
@@ -41,13 +41,13 @@ Este documento apresentará a verificação do artefato [Aplicativo Escolhido](h
 
 <center>
 
-|  ID   |                                 Questão                                  | Inspeção | Observações |
-| :---: | :----------------------------------------------------------------------: | :------: | ----------- |
-|   9   |              O aplicativo não foi trabalhado no semestre anterior?       |    🟢    |             |
-|   10 |                O APP é do governo ou comunidade?                |   🟢    |                |
-|   11   |         É levado em consideração o acesso aos usuários?                 |    🟢     |           |
-|   12   |               São descritos os motivos de escolha do App?                |    🟢     |             |
-|   13   |               Há especificações sobre o Termo de Uso do app selecionado?        | 🟢     |             |
+|  ID   |                                 Questão                                  | Inspeção | 
+| :---: | :----------------------------------------------------------------------: | :------: | 
+|   9   |              O aplicativo não foi trabalhado no semestre anterior?       |    🟢    |             
+|   10 |                O APP é do governo ou comunidade?                |   🟢    |                
+|   11   |         É levado em consideração o acesso aos usuários?                 |    🟢     |   
+|   12   |               São descritos os motivos de escolha do App?                |    🟢     |             
+|   13   |               Há especificações sobre o Termo de Uso do app selecionado?        | 🟢     |             
 
 </center>
 
@@ -78,7 +78,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 <div style="text-align: center">
 <img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
-<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Rafael Xavier, 2023). </p>
 </div>
 
 <center>
