@@ -4,6 +4,22 @@
 
 O presente documento apresentará a verificação do artefato [Ferramentas](https://requisitos-de-software.github.io/2023.2-LibreOffice/planejamento/ferramentas/), desenvolvido pela equipe. A técnica de inspeção será aplicada para verificar esse artefato, de acordo com o planejamento estabelecido. Na tabela 1, se encontra os metadados desse artefato, nas tabelas 2 e 3 se encontram as questões a serem avaliadas e no Gráfico 1, o quanto das exigências foram atendidas.
 
+## Cronograma e participantes
+
+Para efetuar a inspeção e verificação do documento a integrante Ana Luíza juntamente com o autor do artefato, Artur Seppa Reiman, realizou uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 19:15 do dia 27 de novembro de 2023, como pode ser visto no vídeo 1.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mNNOT7cJ4pA?si=z1AO50z9ifuTUl64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Vídeo 1: Gravação da verificação das ferramentas. (Fonte: Ana Luíza e Artur, 2023). </p>
+</div>
+
+</center>
+
+## Verificação
+
 <center>
 
 | Versão | Data | Descrição |  Autor(es) | Revisor(es) | 
