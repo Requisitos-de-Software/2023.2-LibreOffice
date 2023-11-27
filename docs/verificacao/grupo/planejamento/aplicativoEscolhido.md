@@ -153,7 +153,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 | IDC4          | X foi especificaod melhor... |
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza e Rafael, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Rafael Xavier, 2023). </p>
 </div>
 
 </center>
