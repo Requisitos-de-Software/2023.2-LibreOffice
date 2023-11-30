@@ -43,11 +43,11 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 | 9   | Cada SIG no artefato possui sua respectiva propagação de Impacto?                                                                                                 |   🟢      |         
 | 10   | Os softgoals são refinados até alcançarem um nível de especificação claramente definido?                                                                                                  | 🟢  | 
 | 11   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser verificados?                                                                                                                              |    🟡     |                         
-| 12  | Os cartões de especificação são constituido pelos elementos: identificador, classificação, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico? |         |                         
-| 13  | Os Softgoals NFR estão adequadamente representados de acordo com suas definições?                                                                                        |         |                       
-| 14  | Os Softgoals de Operacionalização estão adequadamente representados de acordo com suas definições?                                                                |         |                       
-| 15  | Os Softgoals de Afirmação estão adequadamente representados de acordo com suas definições?                                                                                       |  |
-| 16  | Os requisitos não-funcionais apresentados nos cartões foram priorizados a partir de algum método?                                                                                                           |         |                         
+| 12  | Os cartões de especificação são constituido pelos elementos: identificador, classificação, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico? |    🟡     |                         
+| 13  | Os Softgoals NFR estão adequadamente representados de acordo com suas definições?                                                                                        |     🟢    |                       
+| 14  | Os Softgoals de Operacionalização estão adequadamente representados de acordo com suas definições?                                                                |    🟢     |                       
+| 15  | Os Softgoals de Afirmação estão adequadamente representados de acordo com suas definições?                                                                                       | 🟢 |
+| 16  | Os requisitos não-funcionais apresentados nos cartões foram priorizados a partir de algum método?                                                                                                           |   🟢      |                         
 
 
 <div style="text-align: center">
@@ -67,6 +67,7 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 | IDC2          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
 | IDC3          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
 | IDC4          | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável.   |
+| IDC5          | Adicionar aos cartões de especificação os elementos: identificador, classificação, dependências e histórico  |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -101,8 +102,8 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 0/16 exigências são atendidas;
-- 0/16 exigências estão incompletas;
+- 12/16 exigências são atendidas;
+- 4/16 exigências estão incompletas;
 - 0/16 exigências estão erradas ou não foram realizadas.
 
 onde 16 é a quantidade de exigências.
@@ -115,7 +116,7 @@ onde 16 é a quantidade de exigências.
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
 </div>
 
-Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 00.00% correto.
+Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 87.50% correto.
 
 ### Correção
 
