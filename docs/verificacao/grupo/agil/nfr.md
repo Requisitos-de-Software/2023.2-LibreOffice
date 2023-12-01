@@ -2,7 +2,25 @@
 
 ## Introdução
 
-Neste documento, será realizada a verificação do artefato da instrospecção desenvolvido pela equipe. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, nas tabelas 2 e 3 pode ser visto as questões a serem avaliadas, enquanto na tabela 4 pode ser visto os elementos que precisam ser ajustados e no Gráfico 1 pode ser visto o quanto das exigências foram atendidas.
+Neste documento, será realizada a verificação do artefato do NFR framework desenvolvido pela equipe. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido.
+
+### Cronograma e Participantes
+
+Para efetuar a inspeção e verificação do documento os integrantes Artur Seppa Reiman e Ana Leticia realizaram uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 08:12 do dia 01 de dezembro de 2023, como pode ser visto na gravação 1 do artefato.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4pdLdm-vfs8?si=VymcdCn6NocIvRqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Gravação 1: Inspeção do documento. (Fonte: Artur Seppa Reiman Ana Letícia, 2023). </p>
+</div>
+
+</center>
+
+### Inspeção
+
+Para consolidar a inspeção do documento na tabela 1, se encontra os metadados do arquivo desenvolvido, nas tabelas 2 e 3 pode ser visto as questões a serem avaliadas, enquanto na tabela 4 pode ser visto os elementos que precisam ser ajustados e no Gráfico 1 pode ser visto o quanto das exigências foram atendidas.
 
 <center>
 
@@ -45,7 +63,7 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 | 11  | A representação dos Softgoals de Operacionalização estão em conformidade com suas definições?   <a id="REF1" href="#anchor_1">^1^</a>                                                         |    🟢     |                       
 | 12  | A representação dos Softgoals de Afirmação estão em conformidade com suas definições?    <a id="REF1" href="#anchor_1">^1^</a>                                                                               | 🟢 |   
 | 13   | A decomposição de softgoals NFR elaborada no projeto, foi corretamente utilizada para subdividir os macros objetivos em partes menores e mais específicas ? Podendo ser utilizado os 4 tipos de decomposições (Decomposição de Softgoal NFR, Decomposição de Softgoal NFR, Decomposição de Softgoal NFR e Priorização) no documento do projeto. <a id="REF1" href="#anchor_1">^1^</a>                                                                                                 | 🟢  | 
-| 14   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser verificados? <a id="REF2" href="#anchor_1">^2^</a>                                                                                                                             |    🟡     |                                                 
+| 14   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser testáveis? <a id="REF2" href="#anchor_1">^2^</a>                                                                                                                             |    🟡     |                                                 
 | 15  | A aplicação dos tipos de contribuição demonstram como a satisfação ou não de um softgoal descendente contribui para a satisfação do softgoal ascendente ? Os possíveis tipos de contribuição (AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME) foram aplicados no projeto ?  <a id="REF1" href="#anchor_1">^1^</a>                                                                                     |     🟢    |                       
 | 16  | Dado o procedimento de avaliação de softgoals para indicar a satisfação deles. Foi indicado corretamente rótulos (satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado) para as interdependência do SIG no sistema ? <a id="REF1" href="#anchor_1">^1^</a>                                                              |    🟢     |                                            
 
@@ -63,9 +81,8 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 | ID Correção | Tarefa         |
 | ------------- | -------------- |
 | IDC1          | Ajustar o link de redirecionamento do repositório da disciplina do Simplenote na bibliografia do documento.     |
-| IDC2          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
-| IDC3          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
-| IDC4          | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável.   |
+| IDC2          | Incluir a legenda e a introdução da última tabela de requisitos elicitados que se encontra no final do documento.  |
+| IDC3          | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável.   |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -114,7 +131,7 @@ onde 16 é a quantidade de exigências.
   "data": {
     "values": [
       {"legenda": "Completo", "value": 13},
-      {"legenda": "Incompleto", "value": 2}
+      {"legenda": "Incompleto", "value": 3}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -168,6 +185,6 @@ requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_option
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                             | Autor              | Revisor       |
+| Versão | Data       | Descrição                                             | Autor(es)              | Revisor(es)       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
-| 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman e Ana Letícia | Edilberto Cantuaria |
+| 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman e Ana Letícia | Ana Luíza e Rafael Cantuaria |
