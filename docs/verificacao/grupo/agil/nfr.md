@@ -40,15 +40,14 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 
 | ID  | Questão                                                                                                                                                                                                                                                                                                                                                             | Inspeção | 
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| 9   | Cada SIG no artefato possui sua respectiva propagação de Impacto?                                                                                                 |   🟢      |         
-| 10   | Os softgoals são refinados até alcançarem um nível de especificação claramente definido?                                                                                                  | 🟢  | 
-| 11   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser verificados?                                                                                                                              |    🟡     |                         
-| 12  | Os cartões de especificação são constituido pelos elementos: identificador, classificação, descrição, justificativa, origem, critério de ajuste, dependências, prioridade, conflitos e histórico? |    🟡     |                         
-| 13  | Os Softgoals NFR estão adequadamente representados de acordo com suas definições?                                                                                        |     🟢    |                       
-| 14  | Os Softgoals de Operacionalização estão adequadamente representados de acordo com suas definições?                                                                |    🟢     |                       
-| 15  | Os Softgoals de Afirmação estão adequadamente representados de acordo com suas definições?                                                                                       | 🟢 |
-| 16  | Os requisitos não-funcionais apresentados nos cartões foram priorizados a partir de algum método?                                                                                                           |   🟢      |                         
-
+| 9   | O documento elaborado contém todos os tipos de softgoal  (Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação) do framework NFR e eles detém a sua correta representação gráfica (softgoals NFR -> nuvens claras, softgoals de operacionalização -> nuvens com linhas mais grossas, e softgoals de afirmação -> nuvens com linhas tracejadas) no documento ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                              |   🟢      |    
+| 10  | A representação dos Softgoals NFR estão em conformidade com suas definições?   <a id="REF1" href="#anchor_1">^1^</a>                                                                                    |     🟢    |                       
+| 11  | A representação dos Softgoals de Operacionalização estão em conformidade com suas definições?   <a id="REF1" href="#anchor_1">^1^</a>                                                         |    🟢     |                       
+| 12  | A representação dos Softgoals de Afirmação estão em conformidade com suas definições?    <a id="REF1" href="#anchor_1">^1^</a>                                                                               | 🟢 |   
+| 13   | A decomposição de softgoals NFR elaborada no projeto, foi corretamente utilizada para subdividir os macros objetivos em partes menores e mais específicas ? Podendo ser utilizado os 4 tipos de decomposições (Decomposição de Softgoal NFR, Decomposição de Softgoal NFR, Decomposição de Softgoal NFR e Priorização) no documento do projeto. <a id="REF1" href="#anchor_1">^1^</a>                                                                                                 | 🟢  | 
+| 14   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser verificados? <a id="REF2" href="#anchor_1">^2^</a>                                                                                                                             |    🟡     |                                                 
+| 15  | A aplicação dos tipos de contribuição demonstram como a satisfação ou não de um softgoal descendente contribui para a satisfação do softgoal ascendente ? Os possíveis tipos de contribuição (AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME) foram aplicados no projeto ?  <a id="REF1" href="#anchor_1">^1^</a>                                                                                     |     🟢    |                       
+| 16  | Dado o procedimento de avaliação de softgoals para indicar a satisfação deles. Foi indicado corretamente rótulos (satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado) para as interdependência do SIG no sistema ? <a id="REF1" href="#anchor_1">^1^</a>                                                              |    🟢     |                                            
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -67,7 +66,6 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 | IDC2          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
 | IDC3          | Incluir a legenda e a introdução da tabela de requisitos elicitados que se encontra no final do documento.  |
 | IDC4          | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável.   |
-| IDC5          | Adicionar aos cartões de especificação os elementos: identificador, classificação, dependências e histórico  |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -102,21 +100,43 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- 12/16 exigências são atendidas;
-- 4/16 exigências estão incompletas;
+- 13/16 exigências são atendidas;
+- 3/16 exigências estão incompletas;
 - 0/16 exigências estão erradas ou não foram realizadas.
 
 onde 16 é a quantidade de exigências.
 
-<div style="text-align: center">
-<img src="" alt="Gráfico de acompanhamento" style="max-width: 100%; height: auto;">
-</div>
+```vegalite
+{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 13},
+      {"legenda": "Incompleto", "value": 2}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "Errado"],
+        "range": ["green", "yellow", "red"]
+      }
+    }
+  }
+}
+```
 
 <div style="text-align: center">
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
 </div>
 
-Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 87.50% correto.
+Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 81.30% correto.
 
 ### Correção
 
@@ -139,11 +159,12 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 </center>
 
-## Bibliografia
+## Referências Bibliográficas
 
-> MELO, Arthur. Verificação do NFR Framework do Grupo. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega4/nfrframework/. Acesso em: 26 novembro 2023.
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio da. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. 
 
-> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 26/11/2023.
+> <a id="REF2" href="#anchor_1">2.</a> MESQUITA, Renato Cardoso. 3. Engenharia dos
+requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 28 novembro 2023.
 
 ## Histórico de Versão
 
