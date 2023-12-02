@@ -31,7 +31,7 @@ Antes do processo de priorização , foi realizado preparo do material necessár
 
 - Computador desktop para cada participante: Cada participante teve acesso a um computador desktop para proporcionando um ambiente de trabalho individualizado e confortável para a realização das tarefas no aplicativo.
 - Fones de ouvido com microfone: Foram utilizados três conjuntos de fones de ouvido com microfone, permitindo que os participantes pudessem se comunicar facilmente durante a reunião e garantindo uma captação clara e nítida do áudio.
-- Utilização do Teams: A reunião foi conduzida na plataforma Teams, que oferece suporte para a gravação de reuniões. Esse recurso foi fundamental para registrar todas as opiniões do participante.
+- Utilização do Google Meet: A reunião foi conduzida na plataforma Google Meet, que oferece suporte para o compartilhamento de tela e é gratuito.
 
 ## Resultados
 
@@ -88,6 +88,8 @@ Os resultados são apresentador nas tabelas 2 e 3. A tabela dois indica a priori
 <div style="text-align: center">
 <p> Tabela 2: Requisitos Funcionais (Fonte: Ana Luíza, 2023). </p>
 </div>
+
+### Requisitos Não Funcionais
 
 |  Identificador  | Requisito |  Prioridade    |
 | :--------: | :-----: | :---------: |
