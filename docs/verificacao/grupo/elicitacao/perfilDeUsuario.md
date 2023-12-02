@@ -51,7 +51,7 @@ Para a verificação do artefato perfil de usuário será utilizada a técnica d
 | ID10          | Determinar a proporção de usuários em cada perfil     |
 
 <div style="text-align: center">
-<p> Tabela 5: Tabela do que precisa ser ajustado (Fonte: Ana Letícia, 2023). </p>
+<p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Ana Letícia, 2023). </p>
 </div>
 
 
@@ -101,10 +101,29 @@ Portanto, com base no cálculo realizado, pode-se dizer que o aproveitamento des
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Ana Letícia, 2023). </p>
 </div>
 
+### Cronograma
+
+A tabela 5, contém o cronograma para a correção dos problemas identficiados nos artefatos.
+
+<center>
+
+| Data início | Data fim |
+| ------------ | -------- |
+| 02/12        | 04/12    |
+
+<div style="text-align: center">
+<p> Tabela 5: Tabela de cronograma dos ajustes (Fonte: Ana Letícia, 2023). </p>
+</div>
+
+
 ## Bibliografia
 
-- Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+>[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
+
+## Referência Bibliográfica 
+
+>[1] EICKELMANN, Nancy S. et al. An empirical study of modifying the Fagan inspection process and the resulting main effects and interaction effects among defects found, effort required, rate of preparation and inspection, number of team members and product 1st pass quality. In: 27th Annual NASA Goddard/IEEE Software Engineering Workshop, 2002. Proceedings. IEEE, 2002. p. 58-64.
 
 ## Histórico de versão
 
