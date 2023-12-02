@@ -43,7 +43,7 @@ Os resultados são apresentador nas tabelas 2 e 3. A tabela dois indica a priori
 | :--------: | :-----: | :---------: |
 | BS01 |   O usuário deve poder criar documentos de texto.   |   in     | 
 | BS02 |   O usuário deve poder editar documentos de texto.	   |   in     | 
-| BS03 |   O usuário deve poder salvar documentos em vários formatos, incluindo ODF, .doc, e HTML.   |    in    | 
+| BS03 |   O usuário deve poder salvar documentos em vários formatos, incluindo PDF, .doc, e HTML.   |    in    | 
 | BS04 |   O usuário deve ter acesso a recursos como verificador ortográfico, dicionário de sinônimos e autocorreção.   |   in     | 
 | BS05 |   O usuário deve poder criar estilos para parágrafos, caracteres individuais, quadros e páginas.	   |    in    | 
 | BS06 |   O usuário deve poder criar índices e sumários em documentos de texto.	   |    out    | 
@@ -93,7 +93,7 @@ Os resultados são apresentador nas tabelas 2 e 3. A tabela dois indica a priori
 
 |  Identificador  | Requisito |  Prioridade    |
 | :--------: | :-----: | :---------: |
-| BS23 |   	O LibreOffice Writer deve ser compatível com uma variedade de formatos de documento, incluindo ODF, .doc e HTML.	   |    in    | 
+| BS23 |   	O LibreOffice Writer deve ser compatível com uma variedade de formatos de documento, incluindo PDF, .doc e HTML.	   |    in    | 
 | BS24	 |   	O aplicativo deve ser capaz de se integrar de forma eficaz com serviços de armazenamento em nuvem para facilitar o compartilhamento e o acesso a documentos.	   |    in    | 
 | BS25 |   	O LibreOffice Writer deve funcionar de forma eficiente, mesmo em documentos longos e complexos.		   |    in    | 
 | BS26 |   	Deve ser acessível para pessoas com deficiência, seguindo diretrizes de acessibilidade para facilitar o uso por leitores de tela e outras tecnologias assistivas.		   |    in    | 
@@ -112,6 +112,33 @@ Os resultados são apresentador nas tabelas 2 e 3. A tabela dois indica a priori
 <div style="text-align: center">
 <p> Tabela 3: Requisitos Não Funcionais (Fonte: Ana Luíza, 2023). </p>
 </div>
+
+## Vídeo da entrevista
+
+O vídeo 1 apresenta a gravação da entrevista realizada para priorizar os requisitos elicitados, de acordo com o cronograma.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XL9j7vQAzGA?si=3cC94b2GKYfoNc7h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Video 1: Gravação da entrevista. (Fonte: Ana Luíza e Rafael, 2023).
+
+</center>
+## Termo de consentimento
+
+No link a seguir, está disponível o termo de consentimento assinado tanto pelos condutores da reunão quanto pelo usuário, com todas as cláusulas e informações necessárias para garantir a transparência e proteção dos envolvidos durante o processo de priorização. É importante ressaltar a importância desse documento para assegurar o cumprimento de direitos e estabelecer um ambiente de confiança mútua.
+
+[Termo de Consentimento](../../termoDeConsentimento/TermoConsentimentoInOrOut.pdf)
+
+## Bibliografia
+
+>Wiegers, K. E., & Beatty, J. (2013). Software Requirements (3rd ed.). Microsoft Press.
+
+## Histórico de versão
+
+|    Data    | Versão |      Descrição      |       Autor(es)       | Revisor(es) |
+| :--------: | :-----: | :--------------------: | :-------------------: | :---------: |
+| 02/12/2023 |   1.0   | Criação do documento | Ana Luíza e Rafael |   Ana Letícia   |
 
 
 
