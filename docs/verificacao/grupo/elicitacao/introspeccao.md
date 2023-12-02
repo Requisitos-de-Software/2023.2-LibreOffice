@@ -93,7 +93,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -132,7 +132,7 @@ onde 15 é a quantidade de exigências.
     "values": [
       {"legenda": "Completo", "value": 9},
       {"legenda": "Incompleto", "value": 3},
-      {"legenda": "N\A", "value": 3}
+      {"legenda": "Errado", "value": 3}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -142,7 +142,7 @@ onde 15 é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
+        "domain": ["Completo", "Incompleto", "Errado"],
         "range": ["green", "yellow", "red"]
       }
     }
