@@ -195,4 +195,4 @@ requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_option
 
 | Versão | Data       | Descrição                                             | Autor              | Revisor       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
-| 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman e Ana Letícia | Edilberto Cantuaria |
+| 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman | Edilberto Cantuaria |
