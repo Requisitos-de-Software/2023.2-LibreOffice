@@ -24,8 +24,8 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 <center>
 
-| Versão | Autor(es)           | Revisor(es)   |
-| :----: | ------------------- | ------------- |
+| Versão | Autor(es)          | Revisor(es)             |
+| :----: | ------------------ | ----------------------- |
 | `1.0`  | Ana Luíza e Rafael | Ana Letícia e Edilberto |
 
 <div style="text-align: center">
@@ -36,16 +36,16 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 <center>
 
-| ID  |                                 Questão                                  | Inspeção
+| ID  |                                 Questão                                  | Inspeção |
 | :-: | :----------------------------------------------------------------------: | :------: |
 |  1  |                 As legendas estão no padrão do projeto?                  |    🟢    |
-|  2  |                  Possui links para os outros artefatos?                  |   🟡   |                                                       
+|  2  |                  Possui links para os outros artefatos?                  |    🟡    |
 |  3  |                    Existe uma introdução no artefato?                    |    🟢    |
-|  4  |               Existe tabela de versionamento padronizado?                |    🟢    | 
-|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |                  
-|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    |                  
-|  7  |                         O artefato possui autor?                         |    🟢    |                   
-|  8  |                        O artefato possui revisor?                        |    🟢    |                  
+|  4  |               Existe tabela de versionamento padronizado?                |    🟢    |
+|  5  |        Há referências bibliográficas ou referências no artefato?         |    🟢    |
+|  6  | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟡    |
+|  7  |                         O artefato possui autor?                         |    🟢    |
+|  8  |                        O artefato possui revisor?                        |    🟢    |
 
 </center>
 <div style="text-align: center">
@@ -56,16 +56,16 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 <center>
 
-| ID  | Questão                                                                                                                                                                                                                                                                                                                                                             | Inspeção | 
-| :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| 9   | O documento elaborado contém todos os tipos de softgoal  (Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação) do framework NFR e eles detém a sua correta representação gráfica (softgoals NFR -> nuvens claras, softgoals de operacionalização -> nuvens com linhas mais grossas, e softgoals de afirmação -> nuvens com linhas tracejadas) no documento ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                              |   🟢      |    
-| 10  | A representação dos Softgoals NFR estão em conformidade com suas definições?   <a id="REF1" href="#anchor_1">^1^</a>                                                                                    |     🟢    |                       
-| 11  | A representação dos Softgoals de Operacionalização estão em conformidade com suas definições?   <a id="REF1" href="#anchor_1">^1^</a>                                                         |    🟢     |                       
-| 12  | A representação dos Softgoals de Afirmação estão em conformidade com suas definições?    <a id="REF1" href="#anchor_1">^1^</a>                                                                               | 🟢 |   
-| 13   | A decomposição de softgoals NFR elaborada no projeto, foi corretamente utilizada para subdividir os macros objetivos em partes menores e mais específicas ? Podendo ser utilizado os 4 tipos de decomposições (Decomposição de Softgoal NFR, Decomposição de Softgoal NFR, Decomposição de Softgoal NFR e Priorização) no documento do projeto. <a id="REF1" href="#anchor_1">^1^</a>                                                                                                 | 🟢  | 
-| 14   | No documento, os cartões de especificação representam requisitos não-funcionais que podem ser testáveis? <a id="REF2" href="#anchor_1">^2^</a>                                                                                                                             |    🟡     |                                                 
-| 15  | A aplicação dos tipos de contribuição demonstram como a satisfação ou não de um softgoal descendente contribui para a satisfação do softgoal ascendente ? Os possíveis tipos de contribuição (AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME) foram aplicados no projeto ?  <a id="REF1" href="#anchor_1">^1^</a>                                                                                     |     🟢    |                       
-| 16  | Dado o procedimento de avaliação de softgoals para indicar a satisfação deles. Foi indicado corretamente rótulos (satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado) para as interdependência do SIG no sistema ? <a id="REF1" href="#anchor_1">^1^</a>                                                              |    🟢     |                                            
+| ID  |                                                                                                                                                                                                       Questão                                                                                                                                                                                                        | Inspeção |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
+|  9  | O documento elaborado contém todos os tipos de softgoal (Softgoals NFR, Softgoals de Operacionalização e Softgoals de Afirmação) do framework NFR e eles detém a sua correta representação gráfica (softgoals NFR -> nuvens claras, softgoals de operacionalização -> nuvens com linhas mais grossas, e softgoals de afirmação -> nuvens com linhas tracejadas) no documento ? <a id="REF1" href="#anchor_1">^1^</a> |    🟢    |
+| 10  |                                                                                                                                                  A representação dos Softgoals NFR estão em conformidade com suas definições? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                                                  |    🟢    |
+| 11  |                                                                                                                                         A representação dos Softgoals de Operacionalização estão em conformidade com suas definições? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                                          |    🟢    |
+| 12  |                                                                                                                                             A representação dos Softgoals de Afirmação estão em conformidade com suas definições? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                                              |    🟢    |
+| 13  |                A decomposição de softgoals NFR elaborada no projeto, foi corretamente utilizada para subdividir os macros objetivos em partes menores e mais específicas ? Podendo ser utilizado os 4 tipos de decomposições (Decomposição de Softgoal NFR, Decomposição de Softgoal NFR, Decomposição de Softgoal NFR e Priorização) no documento do projeto. <a id="REF2" href="#anchor_1">^2^</a>             |    🟢    |
+| 14  |                                                                                                                                    No documento, os cartões de especificação representam requisitos não-funcionais que podem ser testáveis? <a id="REF3" href="#anchor_1">^3^</a>                                                                                                                                    |    🟡    |
+| 15  |                                              A aplicação dos tipos de contribuição demonstram como a satisfação ou não de um softgoal descendente contribui para a satisfação do softgoal ascendente ? Os possíveis tipos de contribuição (AND, OR, MAKE, BREAK, HELP, HURT, UNKNOWN, EQUALS, SOME) foram aplicados no projeto ? <a id="REF4" href="#anchor_1">^4^</a>                                               |    🟢    |
+| 16  |                                                            Dado o procedimento de avaliação de softgoals para indicar a satisfação deles. Foi indicado corretamente rótulos (satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante, indeterminado) para as interdependência do SIG no sistema ? <a id="REF5" href="#anchor_1">^5^</a>                                                            |    🟢    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -73,16 +73,15 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 </center>
 
-
 <center>
 
 ### Tarefas
 
-| ID Correção | Tarefa         |
-| ------------- | -------------- |
-| IDC1          | Ajustar o link de redirecionamento do repositório da disciplina do Simplenote na bibliografia do documento.     |
-| IDC2          | Incluir a legenda e a introdução da última tabela de requisitos elicitados que se encontra no final do documento.  |
-| IDC3          | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável.   |
+| ID Correção | Tarefa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IDC1        | Ajustar o link de redirecionamento do repositório da disciplina do Simplenote na bibliografia do documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| IDC2        | Incluir a legenda e a introdução da última tabela de requisitos elicitados que se encontra no final do documento.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| IDC3        | Ajustar as limitações específicas do softgoal a fim de tornar o requisito testável. Dentro da especificação de requisito de compatibilidade e portabilidade poderia ser mais especifico a compatibilidade do aplicativo com diferentes versões de dispositivos, assim com diferentes versões e tipos de browsers. Além disso, na especificação de requisito de desempenho a descrição do requisito poderia ser mais acurada, especificando mais a forma da eficiência de consumo de recursos do sistema, indicando de forma breve como pode ser feita para torna-lá testável. |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Artur Seppa Reiman e Ana Letícia, 2023). </p>
@@ -102,10 +101,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 <center>
 
-| Acrônimo  | Descrição                      |
-| --------- | ------------------------------ |
-| QTDE      | Quantidade Total de Exigências |
-| EC        | Exigências Completas           |
+| Acrônimo | Descrição                      |
+| -------- | ------------------------------ |
+| QTDE     | Quantidade Total de Exigências |
+| EC       | Exigências Completas           |
 
 <div style="text-align: center">
 <p> Tabela 5: Legenda da Figura 1 (Fonte: Ana Luíza, 2023). </p>
@@ -164,11 +163,11 @@ Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento d
 Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4.
 
 | ID Correção | Ajuste                       |
-| ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| ----------- | ---------------------------- |
+| IDC1        | Foi ajustado x realizando... |
+| IDC2        | Foi incluido x em ...        |
+| IDC3        | Foi removido x ...           |
+| IDC4        | X foi especificaod melhor... |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
@@ -178,13 +177,48 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio da. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. 
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. Página: 31, Capítulo 2. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
-> <a id="REF2" href="#anchor_1">2.</a> MESQUITA, Renato Cardoso. 3. Engenharia dos
-requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 28 novembro 2023.
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/nfr/tipos_softgoal.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 2: Tipos de Softgoals (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+> <a id="REF2" href="#anchor_1">2.</a> SILVA, Reinaldo Antônio. Página: 32-33, Capítulo 2. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. Sendo uma referência ilustrada na figura 3 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/nfr/tipos_decomposicoes.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 3: Tipos de decomposições (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+> <a id="REF3" href="#anchor_1">3.</a> MESQUITA, Renato Cardoso. Página: 2, Capítulo 3. Engenharia dos requisitos de software. Disponível em: <https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf>. Acesso em: 28 novembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/nfr/requisitos.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 4: Requisitos testáveis (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+> <a id="REF4" href="#anchor_1">4.</a> SILVA, Reinaldo Antônio. Página: 34-35, Capítulo 2. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. Sendo uma referência ilustrada na figura 5 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/nfr/tipos_contribuicoes.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 5: Tipos de contribuições (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+> <a id="REF5" href="#anchor_1">5.</a> SILVA, Reinaldo Antônio. Página: 38, Capítulo 2. Nfr4es: Um catálogo de requisitos nao-funcionais para sistemas embarcados. 2019. Dissertação de Mestrado. Universidade Federal de Pernambuco. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150> Acesso em: 16 novembro 2023. Sendo uma referência ilustrada na figura 6 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/nfr/procedimento_avaliacao.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 6: Procedimento de avaliação (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                             | Autor(es)              | Revisor(es)       |
-| ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
+| Versão | Data       | Descrição                                             | Autor(es)                        | Revisor(es)                  |
+| ------ | ---------- | ----------------------------------------------------- | -------------------------------- | ---------------------------- |
 | 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman e Ana Letícia | Ana Luíza e Rafael Cantuaria |
