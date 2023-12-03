@@ -168,10 +168,28 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 26 novembro 2023. 
+> <a id="REF1" href="#anchor_1">1.</a> FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 26 novembro 2023. Sendo uma referência ilustrada na figura 2 e 3 no documento. 
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/especificacao_suplementar/furps.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 2: Modelo FURPS (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/especificacao_suplementar/furps+.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 3: acrônimo "+" de FURPS+ (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
 
 > <a id="REF2" href="#anchor_1">2.</a> MESQUITA, Renato Cardoso. 3. Engenharia dos
-requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 28 novembro 2023.
+requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 28 novembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../images/verificacao/especificacao_suplementar/engenharia_dos_requisitos_de_software.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 4: requisitos testáveis (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
 
 ## Histórico de Versão
 
