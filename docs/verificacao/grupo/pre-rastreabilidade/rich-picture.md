@@ -22,9 +22,9 @@ Para efetuar a inspeção e verificação do documento a integrante Ana Luíza r
 
 <center>
 
-| Versão | Data | Descrição |  Autor(es) | Revisor(es) | 
-| :----: | :---: | :------: | :--------: | :---------: |
-| 1.0  | 20/09/2023 | Criação do documento | Ana Luíza | Rafael |
+| Versão  |  Autor(es) | Revisor(es) | 
+| :----: | :--------: | :---------: |
+| 1.0    | Ana Luíza | Rafael |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Ana Luíza, 2023). </p>
@@ -38,14 +38,14 @@ O documento não apresentará as questões gerais do artefato, pois aqui está s
 
 |  ID   |                                      Questão                              | Inspeção |
 | :---: | :-----------------------------------------------------------------------: | :------: |
-|   1   |  O Rich Picture possui várias versões atualizadas e aprimoradas ao longo do tempo?   |  🟡 |
-|   2   |  O Rich Picture possui uma legenda com os símbolos usados no diagrama?    |    🔴     |
-|   3   |        O Rich Picture possui operações e armazenamentos bem definidos?    |    🟢     |
-|   4   |                         O desenho possui fronteiras?                      |    🟢     |
-|   5   |                    Os atores estão fora da fronteira?                     |    🟢     | 
-|   6   |       O Rich Picture mostra as principais funcionalidades do sistema?     |    🟢     |
-|   7   |                         O artefato está bem desenhado?                    |    🟢     |
-|   8   | Todos os 5 elementos de um Rich Picture (atores,operações,armazenamento de dados,fluxo de dados e limite do sistema) estão presentes no diagrama? |    🟡     |
+|   1   |  O Rich Picture possui várias versões atualizadas e aprimoradas ao longo do tempo? <a href="#REF1">[1]</a>   |  🟡 |
+|   2   |  O Rich Picture possui uma legenda com os símbolos usados no diagrama? <a href="#REF2">[2]</a>    |    🔴     |
+|   3   |        O Rich Picture possui operações e armazenamentos bem definidos? <a href="#REF3">[3]</a>   |    🟢     |
+|   4   |                         O desenho possui fronteiras? <a href="#REF4">[4]</a>                      |    🟢     |
+|   5   |                    Os atores estão fora da fronteira? <a href="#REF4">[4]</a>                    |    🟢     | 
+|   6   |       O Rich Picture mostra as principais funcionalidades do sistema? <a href="#REF4">[4]</a>    |    🟢     |
+|   7   |                         O artefato está bem desenhado? <a href="#REF5">[5]</a>                   |    🟢     |
+|   8   | Todos os 5 elementos de um Rich Picture (atores,operações,armazenamento de dados,fluxo de dados e limite do sistema) estão presentes no diagrama? <a href="#REF2">[2]</a>|    🟡     |
 
 </center>
 
@@ -153,6 +153,48 @@ Na tabela 5, se encontra os ajustes que o autor do artefato realizou para arruma
 
 </center>
 
+## Referência Bibliográfica
+
+> <p id="REF1">[1] HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work Context." Interactions, p. 22.</p>
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/richPicture/versionamento.jpeg" style="max-width: 100%; height: auto;">
+
+  <p> Figura 2: Versionamento do Rich Picture (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+> <p id="REF2">[2] Introducing Rich Pictures - Rich Picture Drawing Guidelines, p. 4.</p>
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/richPicture/legenda.png" style="max-width: 100%; height: auto;">
+
+  <p> Figura 3: 5 componentes do Rich Picture (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+> <p id="REF3">[3] BENYON, David. Interação humano-computador. Traduçao de Heloısa Coimbra de Souza. 2a. ed. Sao Paulo: Person Prentice Hall, p. 30, 2011.</p>
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/richPicture/armazenamentoDefinido.jpeg" style="max-width: 100%; height: auto;">
+
+  <p> Figura 4: Design operacional (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+> <p id="REF4">[4] Introducing Rich Pictures - Rich Picture Drawing Guidelines, p. 5.</p>
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/richPicture/fronteira.jpeg" style="max-width: 100%; height: auto;">
+
+  <p> Figura 5: Fronteira do sistema (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+> <p id="REF5">[5] HOWARD, Andrew Monk. Steve." The Rich Picture: A Tool for Reasoning About Work Context." Interactions, p. 24.</p>
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/richPicture/simplicidade.jpeg" style="max-width: 100%; height: auto;">
+
+  <p> Figura 6: Simplicidade (Fonte: Ana Luíza, 2023). </p>
+</div>
+
 
 ## Bibliografia
 
@@ -165,4 +207,5 @@ Na tabela 5, se encontra os ajustes que o autor do artefato realizou para arruma
 |    Data    | Versão |      Descrição       | Autor(es) | Revisor(es) |
 | :--------: | :----: | :------------------: | :-------: | :---------: |
 | 26/11/2023 |  1.0   | Criação do documento | Ana Luíza |   Rafael    |
+| 04/12/2023 |  1.1   | Adicionando referências | Ana Luíza |   Ana Letícia e Raphaela    |
 
