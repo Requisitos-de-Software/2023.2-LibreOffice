@@ -6,9 +6,9 @@ O presente documento apresentará a verificação do artefato [Backlog](https://
 
 <center>
 
-| Versão | Data | Descrição |  Autor(es) | Revisor(es) | 
-| :----: | :---: | :------: | :--------: | :---------: |
-| 1.1  | 06/11/2023 | Atualização das referências das tabelas | Artur Seppa Reiman | Artur Seppa, Raphaela |
+| Versão |  Autor(es) | Revisor(es) | 
+| :----: | :--------: | :---------: |
+|   1.1  | Atualização das referências das tabelas | Artur Seppa Reiman | Artur Seppa, Raphaela |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Ana Luíza e Rafael, 2023). </p>
