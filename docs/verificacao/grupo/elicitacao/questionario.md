@@ -201,37 +201,38 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 <center>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_09e10.png">
+
+<img src="../../../../docs/images/verificacao/questionario/questionario_09e10.png">
 <p> Figura 1: Texto base para o item 09 e 10 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_11b.jpeg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_11b.jpeg">
 <p> Figura 2: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_13a.jpeg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_13a.jpeg">
 <p> Figura 3: Texto base para o item 13 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_13b.jpeg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_13b.jpeg">
 <p> Figura 4: Texto base para o item 13 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_14.jpeg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_14.jpeg">
 <p> Figura 5: Texto base para o item 14 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_16.jpeg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_16.jpeg">
 <p> Figura 6: Texto base para o item 16 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_17.png">
+<img src="../../../../docs/images/verificacao/questionario/questionario_17.png">
 <p> Figura 7: Texto base para o item 17 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 </center>
@@ -240,17 +241,17 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 
 <center>
 <div style="text-align: center">
-<img src="../images/questionario/questionario_11.jpg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_11.jpg">
 <p> Figura 8: Texto base para o item 11  do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_12.jpg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_12.jpg">
 <p> Figura 9: Texto base para o item 12 do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../images/questionario/questionario_15.jpg">
+<img src="../../../../docs/images/verificacao/questionario/questionario_15.jpg">
 <p> Figura 10: Texto base para o item 15 do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
