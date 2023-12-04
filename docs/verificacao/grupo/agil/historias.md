@@ -24,7 +24,7 @@ Para efetuar a inspeção e verificação do documento o integrante Rafael Xavie
 
 | Versão | Autor  |    Revisor         |
 | :----: | :--------: | :------------------------: | 
-| `1.0`  | Artur Seppa | Ana Luíza |
+| 1.0  | Artur Seppa | Ana Luíza |
 
 </center>
 
@@ -55,12 +55,12 @@ Para efetuar a inspeção e verificação do documento o integrante Rafael Xavie
 
 |  ID   |                                 Questão                                  | Inspeção | 
 | :---: | :----------------------------------------------------------------------: | :------: | 
-|   9   |       Houve participação do usuário para a criação das histórias?      |    🟢    |             
-|   10   |       Possui rastreabilidade no requisito origem da história de usuário?      |    🔴     |             
-|   11  |    As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?)    |    🔴     |             
-|   12  |   As histórias de usuário estão escritas na perspectiva do usuário final?    |    🔴     |             
-|   13  |        As história de usuário possuem critérios de aceitação?        |    🔴     |             
-|   14  | As histórias de usuário foram validadas com um usuário final? |    🔴     |             
+|   9   |       Houve participação do usuário para a criação das histórias? <a id="REF1" href="#anchor_1">[1]</a>      |    🟢    |             
+|   10   |       Possui rastreabilidade no requisito origem da história de usuário? <a id="REF2" href="#anchor_2">[2]</a>       |    🔴     |             
+|   11  |    As histórias de usuário possuem os 3Ws? (quem? / o quê? / por quê?) <a id="REF3" href="#anchor_3">[3]</a>     |    🔴     |             
+|   12  |   As histórias de usuário estão escritas na perspectiva do usuário final? <a id="REF4" href="#anchor_4">[4]</a>     |    🔴     |             
+|   13  |        As história de usuário possuem critérios de aceitação? <a id="REF5" href="#anchor_5">[5]</a>         |    🔴     |             
+|   14  | As histórias de usuário foram validadas com um usuário final? <a id="REF6" href="#anchor_6">[6]</a>  |    🔴     |             
 
 </center>
 
@@ -173,9 +173,55 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 </center>
 
 
-## Bibliografia
+## Referências Bibliográficas
 
-> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 12/11/2023.
+> <a id="REF1" href="#anchor_1">1.</a> REINEHR, Sheila. Página 162, Especificação de requisitos funcionais utilizando histórias de usuário, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 2 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist1.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 2: Identificação das histórias de usuário (Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF2" href="#anchor_2">2.</a> REINEHR, Sheila. Páginas 267 a 270 , Rastreabilidade bidirecional de requisitos de software, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 3 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist2.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 3: Rastreabilidade (Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF3" href="#anchor_3">3.</a> REINEHR, Sheila. Página 163, Especificação de requisitos funcionais utilizando histórias de usuário, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 4 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist4.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 4: Estrutura de uma história de usuário(Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF4" href="#anchor_4">4.</a> Atlassian. Uma história do usuário é uma explicação informal e geral, usada para ilustrar como um software funcionará. Disponível em: https://www.atlassian.com/br/agile/project-management/user-stories#:~:text=usu%C3%A1rio%20do%20software.-,Uma%20hist%C3%B3ria%20do%20usu%C3%A1rio%20%C3%A9%20uma%20explica%C3%A7%C3%A3o%20informal%20e%20geral,um%20determinado%20valor%20ao%20cliente. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 5 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist3.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 5: Perspectiva de uma história de usuário (Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF5" href="#anchor_5">5.</a> REINEHR, Sheila. Páginas 166 a 168, Especificação de requisitos funcionais utilizando histórias de usuário, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 6 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist5.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 6: Critérios de aceitação (Fonte: Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF6" href="#anchor_6">5.</a> REINEHR, Sheila. Páginas 245 a 251, Validação de requisitos de software, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 7 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/historias/verHist6.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 7: Critérios de aceitação (Fonte: Rafael Xavier, 2023). </p>
+</div>
 
 ## Histórico de versão
 
