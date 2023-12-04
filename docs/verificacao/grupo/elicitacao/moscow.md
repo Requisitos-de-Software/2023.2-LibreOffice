@@ -26,7 +26,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 | Versão | Autor(es)            | Revisor(es)   |
 | :----: | -------------------- | ------------- |
-| `1.0`  | Raphaela Guimararães | Rafael Xavier |
+| 1.0  | Raphaela Guimararães | Rafael Xavier |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -36,16 +36,16 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 <center>
 
-|  ID   |                                 Questão                                  | Inspeção | Observações                                                               |
-| :---: | :----------------------------------------------------------------------: | :------: | ------------------------------------------------------------------------- |
-|   1   |                 As legendas estão no padrão do projeto?                  |    🟢     |                                                                           |
-|   2   |                  Possui links para os outros artefatos?                  |    🟡     | Colocar links que levem para os artefatos da Introspecção e Brainstorming |
-|   3   |                    Existe uma introdução no artefato?                    |    🟢     |                                                                           |
-|   4   |               Existe tabela de versionamento padronizado?                |    🟢     |                                                                           |
-|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |                                                                           |
-|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢     |                                                                           |
-|   7   |                         O artefato possui autor?                         |    🟢     |                                                                           |
-|   8   |                        O artefato possui revisor?                        |    🟢     |                                                                           |
+|  ID   |                                 Questão                                  | Inspeção | 
+| :---: | :----------------------------------------------------------------------: | :------: | 
+|   1   |                 As legendas estão no padrão do projeto?                  |    🟢     |  
+|   2   |                  Possui links para os outros artefatos?                  |    🟡     |  
+|   3   |                    Existe uma introdução no artefato?                    |    🟢     |                                                                           
+|   4   |               Existe tabela de versionamento padronizado?                |    🟢     |                                                                           
+|   5   |        Há referências bibliográficas ou referências no artefato?         |    🟢     |                                                                           
+|   6   | As tabelas e imagens possuem legenda, fonte e são introduzidas no texto? |    🟢     |                                                                           
+|   7   |                         O artefato possui autor?                         |    🟢     |                                                                           
+|   8   |                        O artefato possui revisor?                        |    🟢     |                                                                           
 
 </center>
 <div style="text-align: center">
@@ -58,10 +58,10 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 |  ID   | Questão                                                                                                                                    | Inspeção |
 | :---: | ------------------------------------------------------------------------------------------------------------------------------------------ | :------: |
-|   9   | Os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? [1]|    🟢     |
+|   9   | Os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? <a href="#1"> [1]</a>|    🟢     |
 |  10   | As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?                |    🔴     |
-|  11   | A participação do cliente e/ou persona no processo de priorização? [1]                                                                        |    🔴     |
-|  12  | Os requisitos classificados em *must* e *should* correspondem a 80% de todo o projeto ?     [1]                                               |   🟡    |
+|  11   | A participação do cliente e/ou persona no processo de priorização? <a href="#1"> [1]</a>                                                                        |    🔴     |
+|  12  | Os requisitos classificados em *must* e *should* correspondem a 80% de todo o projeto ?     <a href="#1"> [1]</a>                                               |   🟡    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -75,8 +75,9 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 | ID Correção | Tarefa                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------- |
-| IDC10 e IDC11        | Incluir um documento em que haja a validação de um usuário ou stakeholders. Uma sugestão que pode casar bem com o artefato é este [vídeo](https://www.youtube.com/watch?v=wZxL0vVdUFY), em que o integrante Artur Seppa conversa com um Product Owner e pode agregar muito valor às priorizações. |
-| IDC12        | De fato, muitos requisitos elicitados pela técnica de introspecção e brainstorming estão convergindo para um mesmo ponto, mas seria melhor agrupar os requisitos por categorias. Por exemplo o item `INT14` e o item `BS23` poderiam ficar em uma única linha da tabela e tal prática pode evitar dualidades, evitando que requisitos semelhantes sejam priorizados de formas distintas. Dito isto, percebesse que muito provavelmnente os requisitos *must* e *should* estão dentro dos 80% esperados, mas será proveitoso e mitigará falhas com uma tabela mais organizada e menos redundante|
+| IDC1       | Incluir um documento em que haja a validação de um usuário ou stakeholders. Uma sugestão que pode casar bem com o artefato é este [vídeo](https://www.youtube.com/watch?v=wZxL0vVdUFY), em que o integrante Artur Seppa conversa com um Product Owner e pode agregar muito valor às priorizações. |
+| IDC2       | Colocar links que levem para os artefatos da Introspecção e Brainstorming |
+| IDC3        | De fato, muitos requisitos elicitados pela técnica de introspecção e brainstorming estão convergindo para um mesmo ponto, mas seria melhor agrupar os requisitos por categorias. Por exemplo o item `INT14` e o item `BS23` poderiam ficar em uma única linha da tabela e tal prática pode evitar dualidades, evitando que requisitos semelhantes sejam priorizados de formas distintas. Dito isto, percebesse que muito provavelmnente os requisitos *must* e *should* estão dentro dos 80% esperados, mas será proveitoso e mitigará falhas com uma tabela mais organizada e menos redundante|
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -151,14 +152,25 @@ onde 12 é a quantidade de exigências.
 
 Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 66.67% correto.
 
-### Correção
+## Correção
+
+### Cronograma
+
+A tabela 7, contém o cronograma para a correção dos problemas identficiados nos artefatos.
 
 <center>
 
+| Data início | Data fim |
+| ----------- | -------- |
+| 27/11       | 04/12    |
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+</div>
+
 ### Ajustes
 
-Na tabela 6,
-.
+Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 5
 
 | ID Correção | Ajuste                       |
 | ----------- | ---------------------------- |
@@ -168,15 +180,36 @@ Na tabela 6,
 | IDC4        | X foi especificaod melhor... |
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+<p> Tabela 8: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
 </div>
 
 </center>
 
 ## Referência Bibliográfica
 
-> [1] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016. Páginas 65,66, 384, 386. [Imagens anexadas](#anexos).
- 
+> <p id="1">[1] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.</p>
+>
+> <center>
+
+<div style="text-align: center">
+<img src="../../../../docs/images/verificacao/moscow/moscow1.png">
+<p> Figura 1: Texto base para o item 09 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 384) </p>
+</div>
+
+
+<div style="text-align: center">
+<img src="../../../../docs/images/verificacao/moscow/moscow2.png">
+<p> Figura 2: Texto base para o item 12 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 386) </p>
+</div>
+
+
+<div style="text-align: center">
+<img src="../../../../docs/images/verificacao/geral.png">
+<p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
+</div>
+
+</center>
+
 ## Bibliografia
 
 > FERNANDO, Sidney. Verificação da técnica Moscow do Grupo. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega2/moscow2/. Acesso em: 04 dezembro 2023.
@@ -187,26 +220,3 @@ Na tabela 6,
 | Versão | Data       | Descrição                                             | Autor              | Revisor       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
 | 1.0    | 25/11/2023 | Criação e desenvolvimento do documento de verificação | Edilberto Cantuaria | Raphaela |
-
-
-## Anexos 
-<center>
-
-<div style="text-align: center">
-<img src="../images/moscow/moscow1.png">
-<p> Figura 1: Texto base para o item 09 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 384) </p>
-</div>
-
-
-<div style="text-align: center">
-<img src="../images/moscow/moscow2.png">
-<p> Figura 2: Texto base para o item 12 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 386) </p>
-</div>
-
-
-<div style="text-align: center">
-<img src="../images/geral.png)../images/geral.png">
-<p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
-</div>
-
-</center>
