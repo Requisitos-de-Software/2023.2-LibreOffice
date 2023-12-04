@@ -205,7 +205,7 @@ Na tabela 6,
 
 
 <div style="text-align: center">
-<img src="../images/geral.png">
+<img src="../images/geral.png)../images/geral.png">
 <p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
 </div>
 
