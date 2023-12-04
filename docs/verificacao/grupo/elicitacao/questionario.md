@@ -98,7 +98,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -136,8 +136,7 @@ onde 17 é a quantidade de exigências.
     "values": [
       {"legenda": "Completo", "value": 9},
       {"legenda": "Incompleto", "value": 6},
-      {"legenda": "Erradas ou não realizadas", "value": 1},
-      {"legenda": "N\A", "value": 1}
+      {"legenda": "Errado", "value": 1}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -147,7 +146,7 @@ onde 17 é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
+        "domain": ["Completo", "Incompleto", "Errado"],
         "range": ["green", "yellow", "red"]
       }
     }
@@ -202,37 +201,37 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 
 <div style="text-align: center">
 
-<img src="../../../../docs/images/verificacao/questionario/questionario_09e10.png">
+<img src="../../../../images/verificacao/questionario/questionario_09e10.png">
 <p> Figura 1: Texto base para o item 09 e 10 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_11b.jpeg">
+<img src="../../../../images/verificacao/questionario/questionario_11b.jpeg">
 <p> Figura 2: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_13a.jpeg">
+<img src="../../../../images/verificacao/questionario/questionario_13a.jpeg">
 <p> Figura 3: Texto base para o item 13 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_13b.jpeg">
+<img src="../../../../images/verificacao/questionario/questionario_13b.jpeg">
 <p> Figura 4: Texto base para o item 13 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_14.jpeg">
+<img src="../../../../images/verificacao/questionario/questionario_14.jpeg">
 <p> Figura 5: Texto base para o item 14 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_16.jpeg">
+<img src="../../../../images/verificacao/questionario/questionario_16.jpeg">
 <p> Figura 6: Texto base para o item 16 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_17.png">
+<img src="../../../../images/verificacao/questionario/questionario_17.png">
 <p> Figura 7: Texto base para o item 17 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio) </p>
 </div>
 </center>
@@ -241,17 +240,17 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 
 <center>
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_11.jpg">
+<img src="../../../../images/verificacao/questionario/questionario_11.jpg">
 <p> Figura 8: Texto base para o item 11  do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_12.jpg">
+<img src="../../../../images/verificacao/questionario/questionario_12.jpg">
 <p> Figura 9: Texto base para o item 12 do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/questionario/questionario_15.jpg">
+<img src="../../../../images/verificacao/questionario/questionario_15.jpg">
 <p> Figura 10: Texto base para o item 15 do checklist. (Fonte: RETRAINING. Questionários - Técnicas de Elicitação de Requisitos) </p>
 </div>
 
