@@ -65,6 +65,7 @@ nav:
       - Priorização:
         - $100: elicitacao/100dolares.md
         - Moscow: elicitacao/priorizacao/moscow.md
+        - In or Out: elicitacao/priorizacao/inOrOut.md
     - Modelagem:
       - Casos de Uso: modelagem/casosDeUso.md
       - Especificação Suplementar: modelagem/especificacaoSuplementar.md
