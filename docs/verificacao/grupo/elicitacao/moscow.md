@@ -154,7 +154,7 @@ Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento d
 
 ## Correção
 
-### Cronograma
+<!-- ### Cronograma
 
 A tabela 7, contém o cronograma para a correção dos problemas identficiados nos artefatos.
 
@@ -166,7 +166,7 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 
 <div style="text-align: center">
 <p> Tabela 7: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
-</div>
+</div> -->
 
 ### Ajustes
 
@@ -192,19 +192,19 @@ Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arruma
 > <center>
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/moscow/moscow1.png">
+<img src="../../../../images/verificacao/moscow/moscow1.png">
 <p> Figura 1: Texto base para o item 09 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 384) </p>
 </div>
 
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/moscow/moscow2.png">
+<img src="../../../../images/verificacao/moscow/moscow2.png">
 <p> Figura 2: Texto base para o item 12 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 386) </p>
 </div>
 
 
 <div style="text-align: center">
-<img src="../../../../docs/images/verificacao/geral.png">
+<img src="../../../../images/verificacao/geral.png">
 <p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
 </div>
 
