@@ -1,10 +1,10 @@
 # Matriz Geral
 
-## 1. Introdução
-Esse artefato tem por objetivo associar os resultados obtidos na rastreabilidade [_Forward-from_](posRastreabilidade/fowardFrom.md)
-e na rastreabilidade [_Backward-from_](posRastreabilidade/backwardFrom.md) através de uma matriz geral de rastreabilidade.
+## Introdução
+Esse artefato tem por objetivo associar os resultados obtidos na rastreabilidade [_Forward-from_](/docs/posRastreabilidade/fowardFrom.md)
+e na rastreabilidade [_Backward-from_](/docs/posRastreabilidade/backwardFrom.md) através de uma matriz geral de rastreabilidade.
 
-## 2. Metodologia
+## Metodologia
 A abordagem utilizada envolve a criação de uma tabela com 5 colunas, conforme descritas abaixo, que têm o objetivo de apresentar os dados do requisito de forma estruturada e resumida.
 
 ### Colunas a serem incluídas na tabela de rastreabilidade:
@@ -45,7 +45,7 @@ bom entendimento dos tópicos abaixo:
   <p> Tabela 1: Sigla de cada etapa (Fonte: Ana Letícia, 2023).</p>
 </div>
 
-## 3. Matriz Geral
+## Matriz Geral
 A matriz geral pode ser observada na _Tabela 1_ a seguir.
 
 | ID | Descrição | Origem | Artefatos | Implementação |
@@ -80,12 +80,13 @@ Tabela 1: Matriz-Geral de Rastreabilidade (Fonte: Raphaela Guimarães, 2023).
 
 ## Bibliografia
 
-> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019 </br>
->
-> [2] Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em
-> [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). </br>
-> [3] Leite, Julio .Ratreabilidade de Requisitos.Disponivel em
+> Leite, Julio .Ratreabilidade de Requisitos.Disponivel em
 > [Aprender3](https://aprender3.unb.br/pluginfile.php/2523175/mod_resource/content/3/05_20_sayao.pdf). </br>
+> Pohl, Klaus; Rupp, Chris. Requirements Engineering Fundamentals. Disponivel em
+> [Aprender3](https://aprender3.unb.br/pluginfile.php/2523174/mod_resource/content/2/Rastreabilidade.pdf). </br>
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 24. 2019 </br>
+
+
 
 
 ### Histórico de versão
@@ -93,4 +94,5 @@ Tabela 1: Matriz-Geral de Rastreabilidade (Fonte: Raphaela Guimarães, 2023).
 | Versão | Data       | Descrição                | Autor(es)               | Revisor(es)         |
 | ------ | ---------- | ------------------------ | ----------------------- | ------------------- |
 | `1.0`  | 20/11/2023 | Criação do documento     | Ana Letícia | Raphaela Guimarães |
-| `1.1`  | 04/12/2023 | Adição dos requisitos na matriz geral | Raphaela Guimarães | Ana Letícia |
+| `1.1`  | 04/12/2023 | Adição dos requisitos na matriz geral | Raphaela Guimarães | Ana Luiza |
+| `1.2`  | 04/12/2023 | Correções | Raphaela Guimarães | Ana Luiza |
