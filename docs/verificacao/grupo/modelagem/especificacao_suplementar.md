@@ -40,17 +40,17 @@ Neste documento, será realizada a verificação do artefato da especificação 
 
 | ID  | Questão                                                                                                                                                                                                                                                                                                                                                             | Inspeção | 
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------: |
-| 9   | A fim de auxiliar na especificação suplementar do documento, foi utilizado a metodologia FURPS+ com as categorias de Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e demais requisitos não-funcionais para descrever os aspectos essenciais do software e ajudar na classificação dos requisitos de acordo com suas características ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                          |   🟢      | 
-| 10   | O documento possui um tópico referente as funcionalidades, respeitando o cumprimento dos requisitos elicitados no projeto ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                  | 🟢  |         
-| 11   | Os requisitos de usabilidade estão em conformidade com os padrões comuns reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a prevenção de erros, estética e design, formas de ajuda e documentação, consistência e padrões. <a id="REF1" href="#anchor_1">^1^</a>                                                                                                       | 🟢  | 
-| 12   | No documento, os requisitos apresentados no tópico de Usabilidade são testáveis? <a id="REF2" href="#anchor_1">^2^</a>                                                                                                                              |    🟡     |                         
-| 13  | Seguindo o aspecto da confiabilidade, os requisitos categorizados estão em conformidade com os padrões reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a frequência e gravidade de falha, possibilidade de recuperação, possibilidade de previsão, exatidão e tempo médio entre falhas. <a id="REF1" href="#anchor_1">^1^</a>      |     🟢    |                         
-| 14  | No documento, os requisitos apresentados no tópico de confiabilidade são testáveis?  <a id="REF2" href="#anchor_1">^2^</a>                                                                                          |    🟡     |                       
-| 15  |  No documento, os requisitos de desempenho/performace estão em conformidade com os padrões comuns reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre o tempo de resposta, consumo de memória, utilização da CPU, capacidade de carga e disponibilidade da aplicação. <a id="REF1" href="#anchor_1">^1^</a>                                                                    |    🟢      |                       
-| 16  | No documento, os requisitos apresentados no tópico de desempenho/performace são testáveis? <a id="REF2" href="#anchor_1">^2^</a>                                                                                            |  🟡 |
-| 17  |  No contexto de suportabilidade, os requisitos categorizados estão em conformidade com os padrões reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade. <a id="REF1" href="#anchor_1">^1^</a>                                                                      |    🟢     |                      
-| 18  | No documento, os requisitos apresentados no tópico de suportabilidade são testáveis? <a id="REF2" href="#anchor_1">^2^</a>                                                                                            | 🟢 | 
-| 19  | O documento aborda sobre as funcionalidades adicionais no sistema ? Podendo ser inferido os tópicos sobre os requsitos de design, de implementação, de interface, e de requisitos físicos. <a id="REF1" href="#anchor_1">^1^</a>                                                                                      | 🟢 |     
+| 9   | A fim de auxiliar na especificação suplementar do documento, foi utilizado a metodologia FURPS+ com as categorias de Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade e demais requisitos não-funcionais para descrever os aspectos essenciais do software e ajudar na classificação dos requisitos de acordo com suas características ? [1]                                                                                          |   🟢      | 
+| 10   | O documento possui um tópico referente as funcionalidades, respeitando o cumprimento dos requisitos elicitados no projeto ? [1]                                                                                                  | 🟢  |         
+| 11   | Os requisitos de usabilidade estão em conformidade com os padrões comuns reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a prevenção de erros, estética e design, formas de ajuda e documentação, consistência e padrões. [1]                                                                                                       | 🟢  | 
+| 12   | No documento, os requisitos apresentados no tópico de Usabilidade são testáveis? [2]                                                                                                                              |    🟡     |                         
+| 13  | Seguindo o aspecto da confiabilidade, os requisitos categorizados estão em conformidade com os padrões reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a frequência e gravidade de falha, possibilidade de recuperação, possibilidade de previsão, exatidão e tempo médio entre falhas. [1]      |     🟢    |                         
+| 14  | No documento, os requisitos apresentados no tópico de confiabilidade são testáveis?  [2]                                                                                          |    🟡     |                       
+| 15  |  No documento, os requisitos de desempenho/performace estão em conformidade com os padrões comuns reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre o tempo de resposta, consumo de memória, utilização da CPU, capacidade de carga e disponibilidade da aplicação. [1]                                                                    |    🟢      |                       
+| 16  | No documento, os requisitos apresentados no tópico de desempenho/performace são testáveis? [2]                                                                                            |  🟡 |
+| 17  |  No contexto de suportabilidade, os requisitos categorizados estão em conformidade com os padrões reconhecidos? Podendo ser abordado dentro dos requisitos os tópicos sobre a testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade. [1]                                                                      |    🟢     |                      
+| 18  | No documento, os requisitos apresentados no tópico de suportabilidade são testáveis? [2]                                                                                            | 🟢 | 
+| 19  | O documento aborda sobre as funcionalidades adicionais no sistema ? Podendo ser inferido os tópicos sobre os requsitos de design, de implementação, de interface, e de requisitos físicos. [1]                                                                                      | 🟢 |     
 
 
 <div style="text-align: center">
@@ -85,7 +85,7 @@ Neste documento, será realizada a verificação do artefato da especificação 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -168,27 +168,27 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 26 novembro 2023. Sendo uma referência ilustrada na figura 2 e 3 no documento. 
+> [1] FERRARI, Fabrício. FURPS+. Qualidade BR, 06 de maio de 2023. Disponível em: https://qualidadebr.wordpress.com/2008/07/10/furps/. Acesso em: 26 novembro 2023. Sendo uma referência ilustrada na figura 2 e 3 no documento. 
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/especificacao_suplementar/furps.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/especificacao_suplementar/furps.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 2: Modelo FURPS (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 2: Modelo FURPS (Fonte: FERRARI, Fabrício. Grifos de Artur Seppa Reiman). </p>
 </div>
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/especificacao_suplementar/furps+.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/especificacao_suplementar/furps+.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 3: acrônimo "+" de FURPS+ (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 3: acrônimo "+" de FURPS+ (Fonte: FERRARI, Fabrício. Grifos de Artur Seppa Reiman). </p>
 </div>
 
-> <a id="REF2" href="#anchor_1">2.</a> MESQUITA, Renato Cardoso. 3. Engenharia dos
+> [2] MESQUITA, Renato Cardoso. 3. Engenharia dos
 requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_options/school/cursos/engsoft/aulas/requisitos-conceitos.pdf. Acesso em: 28 novembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/especificacao_suplementar/engenharia_dos_requisitos_de_software.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/especificacao_suplementar/engenharia_dos_requisitos_de_software.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 4: requisitos testáveis (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 4: requisitos testáveis (Fonte: MESQUITA, Renato Cardoso. Grifos de Artur Seppa Reiman). </p>
 </div>
 
 ## Histórico de Versão
