@@ -1,5 +1,6 @@
 # Questionário 
 
+## Introdução
 O questionário foi utilizado principalmente devido sua simplicidade. Ele contém perguntas abertas e fechadas que foram aplicadas durante a fase inicial da elicitação de requisitos. Com ele, pretendemos coletar o máximo de requisitos possíveis de diferentes pessoas que podem estar em lugares distintos. 
 
 
@@ -19,7 +20,7 @@ O questionário foi utilizado principalmente devido sua simplicidade. Ele conté
 - Maior demanda de tempo caso as escolhas das respostas forem ilimitadas.
 
 ## Aplicação do questionário
-O questionário foi aplicado utilizando a plataforma online Google Forms e ficou aberto durante um período de 3 dias.
+O questionário foi aplicado utilizando a plataforma online Google Forms e ficou aberto durante um período de 3 dias, entre os dias 01/10/2023 e 03/10/2023.
 
 A página inicial do questionário indica uma explicação e o termo de uso para participar da pesquisa.
 
@@ -27,80 +28,67 @@ Abaixo podemos ver a relação gráfica das respostas obtidas através das 47 re
 
 ## Informações Demográficas
 
-#### Figura 1: Abertura do Questionário
+
 ![Alt text](./imagensElicitacao/image.png)
+#### Figura 1: Abertura do Questionário. (Fonte: Ana Letícia, 2023)
 
-#### Figura 2
 ![Alt text](./imagensElicitacao/image-1.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 2: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 3
 ![Alt text](./imagensElicitacao/image-2.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 3: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 4
 ![Alt text](./imagensElicitacao/image-3.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 4: Termo de Consentimento e explicação da pesquisa 
 
-#### Figura 5
 ![Alt text](./imagensElicitacao/image-4.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 5: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 6
 ![Alt text](./imagensElicitacao/image-5.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 6: Termo de Consentimento e explicação da pesquisa
 
 ## Informações sobre o uso do sistema
-#### Figura 7
+
 ![Alt text](./imagensElicitacao/image-6.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 7: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 8
 ![Alt text](./imagensElicitacao/image-7.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 8: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 9
 ![Alt text](./imagensElicitacao/image-8.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 9: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 10
 ![Alt text](./imagensElicitacao/image-9.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 10: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 11
 ![Alt text](./imagensElicitacao/image-10.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 11: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 12
 ![Alt text](./imagensElicitacao/image-11.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 12: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 13
 ![Alt text](./imagensElicitacao/image-12.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 13: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 14
 ![Alt text](./imagensElicitacao/image-13.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 14: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 15
 ![Alt text](./imagensElicitacao/image-14.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 15: Termo de Consentimento e explicação da pesquisa
 
-#### Figura 16
 ![Alt text](./imagensElicitacao/image-15.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 16: Termo de Consentimento e explicação da pesquisa
 
 
 ## Satisfação do usuário
-#### Figura 17
+
 ![Alt text](./imagensElicitacao/image-16.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 17: Termo de Consentimento e explicação da pesquisa
 
 ## Motivo de não usar o LibreOffice (caso marcasse a opção no início do questionário)
-#### Figura 17
+
 ![Alt text](./imagensElicitacao/image-17.png)
-<div style="text-align:center"> Termo de Consentimento e explicação da pesquisa</div> 
+#### Figura 17: Termo de Consentimento e explicação da pesquisa
 
 
 
@@ -116,3 +104,4 @@ Abaixo podemos ver a relação gráfica das respostas obtidas através das 47 re
 | `1.2`  | 01/10/2023 | Criação do questionário            | Ana Letícia   |    Ana Luiza  |
 | `1.3`  | 03/10/2023 | Criação do documento               | Ana Letícia   |    Ana Luiza  |
 | `1.4`  | 01/10/2023 | Inserção dos gráficos              | Ana Letícia   |    Ana Luiza  |
+| `1.5`  | 04/12/2023 | Correções              | Ana Letícia   |    Edilberto  |
