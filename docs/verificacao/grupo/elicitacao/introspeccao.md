@@ -8,12 +8,24 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 
 Para efetuar a inspeção e verificação do documento o integrante Artur Seppa Reiman realizou uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 18:30 do dia 25 de novembro de 2023, como pode ser visto na gravação 1 do artefato.
 
+Além disso, a correção do artefato junto com o seu responsável foi feita às 18:40 do dia 04 de dezembro de 2023, como pode ser visto na gravação 2 do artefato.
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zVw27uOprs?si=UnjnVD9LObyolAbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Gravação 1: Inspeção do documento. (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+</center>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kAZqM7sz0LU?si=DefAQUpLCJZuN0Ex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Gravação 2: Correção do documento. (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
 
 </center>
@@ -92,7 +104,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -180,7 +192,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/introspeccao/tecnica_introspeccao.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/introspeccao/tecnica_introspeccao.png" style="max-width: 100%; height: auto;">
   
   <p> Figura 2: Técnica de introspecção (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
@@ -188,7 +200,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 > <a id="REF2" href="#anchor_1">2.</a> Página: 135, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 3 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/introspeccao/fontes_usuarios.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/introspeccao/fontes_usuarios.png" style="max-width: 100%; height: auto;">
   
   <p> Figura 3: Fontes de usuários (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
@@ -196,7 +208,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 > <a id="REF3" href="#anchor_1">3.</a> Página: 137, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/introspeccao/tipos_usuarios.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/introspeccao/tipos_usuarios.png" style="max-width: 100%; height: auto;">
   
   <p> Figura 4: Tipos de usuários (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
@@ -205,7 +217,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 > <a id="REF4" href="#anchor_1">4.</a> Página 141, Capítulo 7. Eduardo, Antonio, et al. ENGENHARIA DE REQUISITOS. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 5 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/introspeccao/atividade_elicitacao.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/introspeccao/atividade_elicitacao.png" style="max-width: 100%; height: auto;">
   
   <p> Figura 5: Atividades de elicitação (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
@@ -213,7 +225,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 > <a id="REF5" href="#anchor_1">5.</a> Página 33-35. SERRANO, Milene, et al. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692733/mod_resource/content/1/Requisitos%20-%20Aula%2003.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 6 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/introspeccao/tipos_requisitos.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/introspeccao/tipos_requisitos.png" style="max-width: 100%; height: auto;">
   
   <p> Figura 6: Tipos de requisitos (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
