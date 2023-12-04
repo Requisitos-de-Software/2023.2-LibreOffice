@@ -40,12 +40,12 @@ Neste documento, será realizada a verificação do artefato cenários desenvolv
 
 | ID  | Questão                                                                                                                                                                                                                                         | Inspeção |
 | :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
-|  9  | O cenário proposto utiliza a notação composta pelos elementos: Título, Objetivo, Contexto, Recurso, Ator e Episódio ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                     |    🟢    |
-| 10  | O objetivo imposto nas notações, descreve de que modo ele deve ser alcançado no cenário ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                 |    🟢    |
-| 11  | O contexto do cenário imposto descreve os elementos cruciais de pré-condições, o local e o tempo ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                        |    🟢    |
-| 12  | Os recursos impostos identificam os elementos passivos utilizados pelos atores para realizar suas atividades no cenário ? Exemplo: Internet e dispositivo computacional que executa o sistema em questão. <a id="REF1" href="#anchor_1">^1^</a> |    🟢    |
-| 13  | Os atores nas notações podem ser identificados como uma pessoa ou estrutura organizacional que tem um papel no cenário ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                  |    🟢    |
-| 14  | Os episódios impostos representam uma ação realizada por um ator ou outro cenário no sistema ? Havendo a participação e a relação de atores com os recursos disponíveis ? <a id="REF1" href="#anchor_1">^1^</a>                                 |    🟢    |
+|  9  | O cenário proposto utiliza a notação composta pelos elementos: Título, Objetivo, Contexto, Recurso, Ator e Episódio ? [1]                                                                                     |    🟢    |
+| 10  | O objetivo imposto nas notações, descreve de que modo ele deve ser alcançado no cenário ? [1]                                                                                                                 |    🟢    |
+| 11  | O contexto do cenário imposto descreve os elementos cruciais de pré-condições, o local e o tempo ? [1]                                                                                                        |    🟢    |
+| 12  | Os recursos impostos identificam os elementos passivos utilizados pelos atores para realizar suas atividades no cenário ? Exemplo: Internet e dispositivo computacional que executa o sistema em questão. [1] |    🟢    |
+| 13  | Os atores nas notações podem ser identificados como uma pessoa ou estrutura organizacional que tem um papel no cenário ? [1]                                                                                  |    🟢    |
+| 14  | Os episódios impostos representam uma ação realizada por um ator ou outro cenário no sistema ? Havendo a participação e a relação de atores com os recursos disponíveis ? [1]                                 |    🟢    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Artur e Edilberto, 2023). </p>
@@ -74,7 +74,7 @@ Neste documento, será realizada a verificação do artefato cenários desenvolv
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -96,10 +96,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-- /15 exigências são atendidas;
-- /15 exigências estão incompletas;
-- /15 exigências estão erradas ou não foram realizadas;
-- /15 exigências não se aplicam;
+- 14/15 exigências são atendidas;
+- 0/15 exigências estão incompletas;
+- 0/15 exigências estão erradas ou não foram realizadas;
+- 1/15 exigências não se aplicam;
 
 onde 15 é a quantidade de exigências.
 
@@ -110,9 +110,8 @@ onde 15 é a quantidade de exigências.
   "description": "A simple donut chart with embedded data.",
   "data": {
     "values": [
-      {"legenda": "Completo", "value": 9},
-      {"legenda": "Incompleto", "value": 3},
-      {"legenda": "N\A", "value": 3}
+      {"legenda": "Completo", "value": 14},
+      {"legenda": "N\A", "value": 1}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -134,7 +133,7 @@ onde 15 é a quantidade de exigências.
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Artur e Edilberto, 2023). </p>
 </div>
 
-Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 0% correto.
+Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 93.3% correto.
 
 ### Correção
 
@@ -159,12 +158,12 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referência Bibliográfica
 
-> <a id="REF1" href="#anchor_1">1.</a> Página: 49, Capítulo 3. Cenários. PUC-Rio - Certificação Digital Nº 9716398/CA. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf> Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
+> [1] Página: 49, Capítulo 3. Cenários. PUC-Rio - Certificação Digital Nº 9716398/CA. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf> Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
 <div style="text-align: center;">
-  <img src="../../../images/verificacao/cenarios/estrutura_cenarios.png" style="max-width: 100%; height: auto;">
+  <img src="../../../../images/verificacao/cenarios/estrutura_cenarios.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 2: Atividades de elicitação (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 2: Atividades de elicitação (Fonte: PUC-Rio. p 49. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
 ## Histórico de Versão
