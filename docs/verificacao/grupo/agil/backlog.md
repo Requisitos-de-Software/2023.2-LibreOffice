@@ -54,13 +54,13 @@ Para efetuar a inspeção e verificação do documento os integrantes Ana Luíza
 
 |  ID   |                                      Questão                              | Inspeção |
 | :---: | :-----------------------------------------------------------------------: | :------: |
-|   9   |               Os épicos estão priorizados e ordenados?                    |    🔴    |
-|   10  |                      O backlog foi validado com o usuário ou PO?          |    🟡    |
-|   11  |         O backlog possui funcionalidades desejadas para o produto?        |    🟢    |
-|   12  |  A especificação dos itens do backlog é baseada em histórias de usuários  |    🟢    |
-|   13  | As historias de usuário tem relação com o épico no qual estão contidas?   |    🟢    |
-|   14  | Os épicos possuem histórias de usuários suficientes e condizentes para levar mais de uma sprint para ser concluída? |    🟢    |
-|   15  |                     O backlog possui rastreabilidade?                     |    🔴    |
+|   9   |               Os épicos estão priorizados e ordenados? <a id="REF1" href="#anchor_1">[1]</a>                    |    🔴    |
+|   10  |                      O backlog foi validado com o usuário ou PO? <a id="REF2" href="#anchor_2">[2]</a>          |    🟡    |
+|   11  |         O backlog possui funcionalidades desejadas para o produto? <a id="REF3" href="#anchor_3">[3]</a>        |    🟢    |
+|   12  |  A especificação dos itens do backlog é baseada em histórias de usuários? <a id="REF4" href="#anchor_4">[4]</a>  |    🟢    |
+|   13  | As historias de usuário tem relação com o épico no qual estão contidas? <a id="REF5" href="#anchor_5">[5]</a>   |    🟢    |
+|   14  | Os épicos possuem histórias de usuários suficientes e condizentes para levar mais de uma sprint para ser concluída? <a id="REF6" href="#anchor_6">[6]</a> |    🟢    |
+|   15  |                     O backlog possui rastreabilidade? <a id="REF7" href="#anchor_7">[7]</a>                    |    🔴    |
 
 </center>
 
@@ -175,10 +175,63 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 </center>
 
+## Referências Bibliográficas
 
-## Bibliografia
+> <a id="REF1" href="#anchor_1">1.</a> K21 Global. Backlog do Produto – Product Backlog, Épico, História, Tarefas. Disponível em: https://k21.global/br/blog/product-backlog-epico-historia-tarefas. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
-> SERRANO, Milene. Requisitos – Aula 15. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 12/11/2023.
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack1.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 2: O que é um épico? (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF2" href="#anchor_2">2.</a> REINEHR, Sheila. Páginas 245 a 251, Validação de requisitos de software, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 3 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack2.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 3: A importância da validação com o usuário (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF3" href="#anchor_3">3.</a> K21 Global. Backlog do Produto – Product Backlog, Épico, História, Tarefas. Disponível em: https://k21.global/br/blog/product-backlog-epico-historia-tarefas. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 4 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack3.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 4: O que é um backlog(Fonte: Ana Luíza e  Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF4" href="#anchor_4">4.</a> K21 Global. Backlog do Produto – Product Backlog, Épico, História, Tarefas. Disponível em: https://k21.global/br/blog/product-backlog-epico-historia-tarefas. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 5 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack4.png"" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 5: O backlog do produto é a coleção de histórias de usuário (Fonte: Ana Luíza Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF5" href="#anchor_5">5.</a> K21 Global. Backlog do Produto – Product Backlog, Épico, História, Tarefas. Disponível em: https://k21.global/br/blog/product-backlog-epico-historia-tarefas. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 6 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack5.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 6: Estrutura do épico (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF6" href="#anchor_6">6.</a> Miro. O que são épicos no Scrum?. Disponível em: https://miro.com/pt/agile/o-que-sao-epicos-scrum/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 7 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack6.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 7: Dimensão de um épico (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>
+</div>
+
+> <a id="REF7" href="#anchor_7">7.</a> REINEHR, Sheila. Páginas 267 a 270 , Rastreabilidade bidirecional de requisitos de software, Engenharia de requisitos. Grupo A, 2020. E-book. ISBN 9786556900674. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786556900674/. Acesso em: 04 dez. 2023. Sendo uma referência ilustrada na figura 8 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verifbacklog/verifBack7.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 8: Rastreabilidade (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>
+</div>
 
 ## Histórico de versão
 
