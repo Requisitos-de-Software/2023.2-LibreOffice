@@ -115,7 +115,6 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-<<<<<<< HEAD
 - 9/15 exigências são atendidas;
 - 3/15 exigências estão incompletas;
 - 0/15 exigências estão erradas ou não foram realizadas;
@@ -125,24 +124,24 @@ onde 15 é a quantidade de exigências.
 
 ```vegalite
 {
-    "title": "Acompanhamento",
+  "title": "Acompanhamento",
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "A simple donut chart with embedded data.",
   "data": {
     "values": [
       {"legenda": "Completo", "value": 9},
       {"legenda": "Incompleto", "value": 3},
-      {"legenda": "N\A", "value": 3}
+      {"legenda": "N\\A", "value": 3}
     ]
   },
-  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "mark": {"type": "arc", "innerRadius": 50},
   "encoding": {
     "theta": {"field": "value", "type": "quantitative"},
     "color": {
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
+        "domain": ["Completo", "Incompleto", "N\\A"],
         "range": ["green", "yellow", "red"]
       }
     }

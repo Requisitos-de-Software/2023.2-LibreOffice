@@ -133,3 +133,5 @@ nav:
           - Ágil:
             - Backlog: verificacao/grupo1/agil/backlog.md
             - Histórias de Usuário: verificacao/grupo1/agil/historias.md
+    - Validação: 
+      - Edição simultânea: validacao/prototipacao/bs13.md
