@@ -70,11 +70,11 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 | ID  | Questão                                                                                                                                                                                                                                                                                                                        | Inspeção |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: |
-| 9  | Em conformidade com os princípios de introspecção, o artefato criado tem como objetivo retratar, explicar e executar de maneira adequada ao conceito da técnica, o processo de elicitação ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                                                                                                                                                   |    🟢    |
-| 10  | A fim de elucidar o ponto de elicitação de requisitos com diversas fontes. <a id="REF2" href="#anchor_1">^2^</a> No documento, foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto ? <a id="REF1" href="#anchor_1">^1^</a>                                                                                                                                                                                                                            |    🟢    |  
-| 11  | A fim de efetuar a elicitação de requisitos com base na visão do membro de equipe, foi especificado de forma geral as informações do engenheiro de requisito frente ao produto para ter uma melhor idealização do tipo de usuário que está efetuando o levantamento de requisitos ? Exemplo de dados: dados demográficos, educação, experiência com computadores, experiência com um produto específico ou ferramentas semelhantes, tarefas realizadas e entre outros. <a id="REF3" href="#anchor_1">^3^</a>                                                                                                                                                                                                                  |    🟡    |
-| 12  | No documento elaborado foi efetuado e documentado as 4 atividades essenciais (planejamento, execução, documentação e confirmação) de elicitação de requisitos ? <a id="REF4" href="#anchor_1">^4^</a>                                                                                                                                                                                                                 |    🟡    |
-| 13  | Os requisitos elicitados foram classificados corretamente, sendo abordados como funcionais e não-funcionais no documento ? <a id="REF5" href="#anchor_1">^5^</a>                                                                                                                                                                                                                 |    🟢    |
+| 9  | Em conformidade com os princípios de introspecção, o artefato criado tem como objetivo retratar, explicar e executar de maneira adequada ao conceito da técnica, o processo de elicitação ? [1]                                                                                                                                                                                                                                                   |    🟢    |
+| 10  | A fim de elucidar o ponto de elicitação de requisitos com diversas fontes. [2] No documento, foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto ? [1]                                                                                                                                                                                                                            |    🟢    |  
+| 11  | A fim de efetuar a elicitação de requisitos com base na visão do membro de equipe, foi especificado de forma geral as informações do engenheiro de requisito frente ao produto para ter uma melhor idealização do tipo de usuário que está efetuando o levantamento de requisitos ? Exemplo de dados: dados demográficos, educação, experiência com computadores, experiência com um produto específico ou ferramentas semelhantes, tarefas realizadas e entre outros. [3]                                                                                                                                                                                                                  |    🟡    |
+| 12  | No documento elaborado foi efetuado e documentado as 4 atividades essenciais (planejamento, execução, documentação e confirmação) de elicitação de requisitos ? [4]                                                                                                                                                                                                                 |    🟡    |
+| 13  | Os requisitos elicitados foram classificados corretamente, sendo abordados como funcionais e não-funcionais no documento ? [5]                                                                                                                                                                                                                 |    🟢    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Artur Seppa Reiman, 2023). </p>
@@ -189,45 +189,45 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referência Bibliográfica
 
-> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
+> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
 <div style="text-align: center;">
   <img src="../../../../images/verificacao/introspeccao/tecnica_introspeccao.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 2: Técnica de introspecção (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 2: Técnica de introspecção (Fonte: SERRANO, Milene. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
-> <a id="REF2" href="#anchor_1">2.</a> Página: 135, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 3 no documento.
+> [2] Página: 135, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 3 no documento.
 
 <div style="text-align: center;">
   <img src="../../../../images/verificacao/introspeccao/fontes_usuarios.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 3: Fontes de usuários (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 3: Fontes de usuários (Fonte: Barbosa, S. D. J. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
-> <a id="REF3" href="#anchor_1">3.</a> Página: 137, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
+> [3] Página: 137, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
 
 <div style="text-align: center;">
   <img src="../../../../images/verificacao/introspeccao/tipos_usuarios.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 4: Tipos de usuários (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 4: Tipos de usuários (Fonte:  Barbosa, S. D. J. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
 
-> <a id="REF4" href="#anchor_1">4.</a> Página 141, Capítulo 7. Eduardo, Antonio, et al. ENGENHARIA DE REQUISITOS. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 5 no documento.
+> [4] Página 141, Capítulo 7. Eduardo, Antonio, et al. ENGENHARIA DE REQUISITOS. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 5 no documento.
 
 <div style="text-align: center;">
   <img src="../../../../images/verificacao/introspeccao/atividade_elicitacao.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 5: Atividades de elicitação (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 5: Atividades de elicitação (Fonte: Eduardo, Antonio, et al. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
-> <a id="REF5" href="#anchor_1">5.</a> Página 33-35. SERRANO, Milene, et al. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692733/mod_resource/content/1/Requisitos%20-%20Aula%2003.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 6 no documento.
+> [5] Página 33-35. SERRANO, Milene, et al. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692733/mod_resource/content/1/Requisitos%20-%20Aula%2003.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 6 no documento.
 
 <div style="text-align: center;">
   <img src="../../../../images/verificacao/introspeccao/tipos_requisitos.png" style="max-width: 100%; height: auto;">
   
-  <p> Figura 6: Tipos de requisitos (Fonte: Artur Seppa Reiman, 2023). </p>
+  <p> Figura 6: Tipos de requisitos (Fonte: SERRANO, Milene, et al. Grifado por Artur Seppa Reiman, 2023). </p>
 </div>
 
 ## Histórico de Versão
