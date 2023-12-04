@@ -127,8 +127,7 @@ onde 12 é a quantidade de exigências.
     "values": [
       {"legenda": "Completo", "value": 8},
       {"legenda": "Incompleto", "value": 2},
-      {"legenda": "Erradas ou não realizadas", "value": 2},
-      {"legenda": "N\A", "value": 0}
+      {"legenda": "Errado ou não realizado", "value": 2}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -194,19 +193,19 @@ Na tabela 6,
 <center>
 
 <div style="text-align: center">
-<img src="../../../images/moscow/moscow1.png">
+<img src="../images/moscow/moscow1.png">
 <p> Figura 1: Texto base para o item 09 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 384) </p>
 </div>
 
 
 <div style="text-align: center">
-<img src="../../../images/moscow/moscow2.png">
+<img src="../images/moscow/moscow2.png">
 <p> Figura 2: Texto base para o item 12 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 386) </p>
 </div>
 
 
 <div style="text-align: center">
-<img src="../../../images/geral.png">
+<img src="../images/geral.png">
 <p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
 </div>
 
