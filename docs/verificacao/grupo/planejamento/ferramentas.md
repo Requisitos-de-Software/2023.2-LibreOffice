@@ -22,9 +22,9 @@ Para efetuar a inspeção e verificação do documento a integrante Ana Luíza j
 
 <center>
 
-| Versão | Data | Descrição |  Autor(es) | Revisor(es) | 
-| :----: | :---: | :------: | :--------: | :---------: |
-| 0.1  | 17/09/2023 | Criação do documento | Artur Seppa Reiman | Edilberto |
+| Versão |  Autor(es) | Revisor(es) | 
+| :----: | :--------: | :---------: |
+| 0.1   | Artur Seppa Reiman | Edilberto |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Ana Luíza, 2023). </p>
@@ -178,5 +178,5 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 |    Data    | Versão |      Descrição       | Autor(es) | Revisor(es) |
 | :--------: | :----: | :------------------: | :-------: | :---------: |
-| 26/11/2023 |  1.0   | Criação do documento | Ana Luíza |   Rafael    |
+| 26/11/2023 |  1.0   | Criação do documento | Ana Luíza |   Artur    |
 
