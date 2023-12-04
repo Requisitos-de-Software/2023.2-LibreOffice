@@ -120,3 +120,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN
 | :--------: | :----: | :-----------------------: | :--------------: |  ---------------
 | 30/11/2023 |  1.0   |   Criação do documento    | Ana Letícia      |  Ana Luiza
 |02/12/2023  |   1.1  |   Padronização da página  | Ana Letícia      |  Ana Luiza
+
