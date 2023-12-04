@@ -162,7 +162,7 @@ Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento d
 
 ## Correção
 
-### Cronograma
+<!-- ### Cronograma
 
 A tabela 7, contém o cronograma para a correção dos problemas identficiados nos artefatos.
 
@@ -174,7 +174,7 @@ A tabela 7, contém o cronograma para a correção dos problemas identficiados n
 
 <div style="text-align: center">
 <p> Tabela 7: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
-</div>
+</div> -->
 
 ### Ajustes
 
