@@ -9,7 +9,7 @@ Para efetuar a inspeção e verificação do documento os integrante Ana Letíci
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/63p5XU0l9zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=WYBXHQWgwEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Gravação 1: Inspeção do documento. (Fonte: Ana Letícia e Edilberto Cantuaria, 2023). </p>
