@@ -8,12 +8,24 @@ Neste documento, será realizada a verificação do artefato da instrospecção 
 
 Para efetuar a inspeção e verificação do documento o integrante Artur Seppa Reiman realizou uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 18:30 do dia 25 de novembro de 2023, como pode ser visto na gravação 1 do artefato.
 
+Além disso, a correção do artefato junto com o seu responsável foi feita às 18:40 do dia 04 de dezembro de 2023, como pode ser visto na gravação 2 do artefato.
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0zVw27uOprs?si=UnjnVD9LObyolAbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Gravação 1: Inspeção do documento. (Fonte: Artur Seppa Reiman, 2023). </p>
+</div>
+
+</center>
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kAZqM7sz0LU?si=DefAQUpLCJZuN0Ex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Gravação 2: Correção do documento. (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
 
 </center>
@@ -58,13 +70,11 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 | ID  | Questão                                                                                                                                                                                                                                                                                                                        | Inspeção |
 | :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------: |
-|  9  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?                                                                                                                                                                                                                   |    🟡    |
-| 10  | O processo de elicitação foi devidamente efetuado, explicado e documentado?                                                                                                                                                                                                                                                    |    🟢    |
-| 11  | Foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto?                                                                                                                                                               |    🟢    |
-| 12  | Foi utilizado referências bibliográficas para a elaboração da técnica de elicitação de requisitos no documento ?                                                                                                                                                                                                               |    🟢    |
-| 13  | A fim de identificar as necessidades dos usuários e oportunidades de melhoria, foi coletado requisitos de uma variedade de fontes (exemplos: usuários finais, gerentes da empresa, clientes, instrutores, técnicos de suporte ou atendimento ao usuário) para determinar as funcionalidades a serem incluídas no produto [1] ? |   N/A    |
-| 14  | Foi documentado e gravado a participação de outros usuários para auxiliar na elicitação de requisitos do documento ?                                                                                                                                                                                                           |   N/A    |
-| 15  | Os requisitos elicitados foram classificados corretamente, sendo abordados como funcionais e não-funcionais ?                                                                                                                                                                                                                  |    🟢    |
+| 9  | Em conformidade com os princípios de introspecção, o artefato criado tem como objetivo retratar, explicar e executar de maneira adequada ao conceito da técnica, o processo de elicitação ? [1]                                                                                                                                                                                                                                                   |    🟢    |
+| 10  | A fim de elucidar o ponto de elicitação de requisitos com diversas fontes. [2] No documento, foi levado em consideração de que essa técnica pode não estar totalmente condizente com a visão do usuário, já que é executada por membros da equipe do projeto ? [1]                                                                                                                                                                                                                            |    🟢    |  
+| 11  | A fim de efetuar a elicitação de requisitos com base na visão do membro de equipe, foi especificado de forma geral as informações do engenheiro de requisito frente ao produto para ter uma melhor idealização do tipo de usuário que está efetuando o levantamento de requisitos ? Exemplo de dados: dados demográficos, educação, experiência com computadores, experiência com um produto específico ou ferramentas semelhantes, tarefas realizadas e entre outros. [3]                                                                                                                                                                                                                  |    🟡    |
+| 12  | No documento elaborado foi efetuado e documentado as 4 atividades essenciais (planejamento, execução, documentação e confirmação) de elicitação de requisitos ? [4]                                                                                                                                                                                                                 |    🟡    |
+| 13  | Os requisitos elicitados foram classificados corretamente, sendo abordados como funcionais e não-funcionais no documento ? [5]                                                                                                                                                                                                                 |    🟢    |
 
 <div style="text-align: center">
 <p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Artur Seppa Reiman, 2023). </p>
@@ -80,7 +90,8 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 | ----------- | ---------------------------------------------------------------------------------------- |
 | IDC1        | Ajustar a legenda da tabela 2 para ficar padronizada com os outros artefatos do projeto. |
 | IDC2        | Corrigir o erro de digitação no título da coluna de autores da tabela de versionamento.  |
-| IDC3        | Ajustar a metodologia do documento. Ela não está bem explicitada no artefato.            |
+| IDC3        | Impor a visualização do tipo de usuário (membro de equipe) que está efetuando a elicitação de requisitos.   |
+| IDC4        | A fim de seguir as 4 atividades essenciais de elicitação, escrever o planejamento da técnica de elicitação feita no documento, abordando sobre o cronograma com data, hora e local que foi feita a elicitação de requisitos.   |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Artur Seppa Reiman, 2023). </p>
@@ -115,11 +126,10 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a expres
 
 Nos checklists realizados e que serão descritos, podemos observar que:
 
-<<<<<<< HEAD
-- 9/15 exigências são atendidas;
-- 3/15 exigências estão incompletas;
-- 0/15 exigências estão erradas ou não foram realizadas;
-- 3/15 exigências não se aplicam;
+- 8/13 exigências são atendidas;
+- 4/13 exigências estão incompletas;
+- 0/13 exigências estão erradas ou não foram realizadas;
+- 1/13 exigências não se aplicam;
 
 onde 15 é a quantidade de exigências.
 
@@ -179,13 +189,46 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 ## Referência Bibliográfica
 
-> [1] Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 23 novembro 2023.
+> [1] SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692772/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 2 no documento.
 
-## Bibliografia
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/introspeccao/tecnica_introspeccao.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 2: Técnica de introspecção (Fonte: SERRANO, Milene. Grifado por Artur Seppa Reiman, 2023). </p>
+</div>
 
-> CAMPELLO, Gabriel. Verificação da Introspecção do Grupo. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega2/verificacao-introspeccao/. Acesso em: 23 novembro 2023.
+> [2] Página: 135, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 3 no documento.
 
-> XAVIER, Rafael. Verificação da Brainstroming do Grupo. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-LibreOffice/verificacao/grupo1/elicitacao/brainstorm/. Acesso em: 23 novembro 2023.
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/introspeccao/fontes_usuarios.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 3: Fontes de usuários (Fonte: Barbosa, S. D. J. Grifado por Artur Seppa Reiman, 2023). </p>
+</div>
+
+> [3] Página: 137, Capítulo 7. Barbosa, S. D. J., Silva, B. D., Silveira, M. S., Gasparini, I., Darin, T., & Barbosa, G. D. J. (2021). Interação humano-computador e experiência do usuário. Auto publicação, 2021. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 4 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/introspeccao/tipos_usuarios.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 4: Tipos de usuários (Fonte:  Barbosa, S. D. J. Grifado por Artur Seppa Reiman, 2023). </p>
+</div>
+
+
+> [4] Página 141, Capítulo 7. Eduardo, Antonio, et al. ENGENHARIA DE REQUISITOS. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692771/mod_resource/content/3/Elicitacao%20de%20Req%202.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 5 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/introspeccao/atividade_elicitacao.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 5: Atividades de elicitação (Fonte: Eduardo, Antonio, et al. Grifado por Artur Seppa Reiman, 2023). </p>
+</div>
+
+> [5] Página 33-35. SERRANO, Milene, et al. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692733/mod_resource/content/1/Requisitos%20-%20Aula%2003.pdf>. Acesso em: 03 dezembro 2023. Sendo uma referência ilustrada na figura 6 no documento.
+
+<div style="text-align: center;">
+  <img src="../../../../images/verificacao/introspeccao/tipos_requisitos.png" style="max-width: 100%; height: auto;">
+  
+  <p> Figura 6: Tipos de requisitos (Fonte: SERRANO, Milene, et al. Grifado por Artur Seppa Reiman, 2023). </p>
+</div>
 
 ## Histórico de Versão
 
