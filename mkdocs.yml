@@ -79,6 +79,8 @@ nav:
       - Backward-from: posRastreabilidade/backwardFrom.md
       - Forward-from: posRastreabilidade/fowardFrom.md
       - Matriz de Rastreabilidade: posRastreabilidade/matrizRastreabilidade.md
+    - Validação:
+      - Comprovação Informal: validacao/comprovacaoInformal.md
     - Verificação:
       - Grupo:
           - Metodologia: verificacao/grupo/metodologia.md
@@ -133,5 +135,5 @@ nav:
           - Ágil:
             - Backlog: verificacao/grupo1/agil/backlog.md
             - Histórias de Usuário: verificacao/grupo1/agil/historias.md
-    - Validação: 
-      - Edição simultânea: validacao/prototipacao/bs13.md
+    # - Validação: 
+    #   - Edição simultânea: validacao/prototipacao/bs13.md
