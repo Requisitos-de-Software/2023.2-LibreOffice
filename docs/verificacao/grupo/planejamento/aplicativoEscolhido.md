@@ -8,9 +8,9 @@ Este documento apresentará a verificação do artefato [Aplicativo Escolhido](h
 
 <center>
 
-| Versão |    Data    |         Descrição          |       Autor(es)     |     Revisor(es)   |
-| :----: | :--------: | :------------------------: | :-----------------: | :----------: |
-| `1.0`  | 20/09/2023 | Criação do documento | Ana Luíza | Rafael |
+| Versão |       Autor(es)     |     Revisor(es)   |
+| :----: | :-----------------: | :----------: |
+| `1.0`  | Ana Luíza | Rafael |
 
 </center>
 

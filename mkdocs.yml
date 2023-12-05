@@ -83,7 +83,6 @@ nav:
       - Grupo:
           - Metodologia: verificacao/grupo/metodologia.md
           - Planejamento:
-            - Cronograma: verificacao/grupo/planejamento/cronogramas.md
             - Ferramentas: verificacao/grupo/planejamento/ferramentas.md
             - Aplicativo Escolhido: verificacao/grupo/planejamento/aplicativoEscolhido.md
           - Pré-Rastreabilidade: 
@@ -91,7 +90,7 @@ nav:
           - Elicitação:
             - Perfil de Usuário: verificacao/grupo/elicitacao/perfilDeUsuario.md
             - Técnicas: 
-              - Brainstorming: verificacao/grupo/elicitacao/brainstorm.md
+              # - Brainstorming: verificacao/grupo/elicitacao/brainstorm.md
               - Questionário: verificacao/grupo/elicitacao/questionario.md
               - Introspecção: verificacao/grupo/elicitacao/introspeccao.md
             - Priorização: 
@@ -100,7 +99,7 @@ nav:
           - Modelagem:
             - Casos de Uso: verificacao/grupo/modelagem/casodeuso.md
             - Especificação Suplementar: verificacao/grupo/modelagem/especificacao_suplementar.md
-            - Léxicos: verificacao/grupo/modelagem/Lexicos.md
+            # - Léxicos: verificacao/grupo/modelagem/Lexicos.md
             - Cenários: verificacao/grupo/modelagem/cenarios.md
           - Ágil:
             - Backlog: verificacao/grupo/agil/backlog.md
@@ -108,8 +107,8 @@ nav:
             - NFR Framework: verificacao/grupo/agil/nfr.md
           - Pós-Rastreabilidade:
             - Backward-From: verificacao/grupo/pos-rastreabilidade/backward-from.md
-            - Foward-From: verificacao/grupo/pos-rastreabilidade/foward-from.md
-            - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
+            # - Foward-From: verificacao/grupo/pos-rastreabilidade/foward-from.md
+            # - Matriz de Rastreabilidade: verificacao/grupo/pos-rastreabilidade/matriz.md
       - Grupo 1:
           - Metodologia: verificacao/grupo1/metodologia.md
           - Planejamento:

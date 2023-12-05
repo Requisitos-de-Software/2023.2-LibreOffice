@@ -111,7 +111,8 @@ onde 15 é a quantidade de exigências.
   "data": {
     "values": [
       {"legenda": "Completo", "value": 14},
-      {"legenda": "N\A", "value": 1}
+      {"legenda": "Incompleto", "value": 0},
+      {"legenda": "Não se aplica", "value": 1}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -121,8 +122,8 @@ onde 15 é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
-        "range": ["green", "yellow", "red"]
+        "domain": ["Completo", "Incompleto", "Não se aplica"],
+        "range": ["green", "yellow", "gray"]
       }
     }
   }

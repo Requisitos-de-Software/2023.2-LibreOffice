@@ -10,7 +10,7 @@ Para efetuar a inspeção e verificação do documento o integrante Edilberto Ca
 
 <center>
 
-<iframe width="560" height="315" src="https://youtu.be/63p5XU0l9zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63p5XU0l9zE?si=LznXPL-M-mzQRtbi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div style="text-align: center">
 <p> Gravação 1: Inspeção do documento. (Fonte: Edilberto Cantuaria, 2023). </p>
@@ -90,7 +90,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.
 
 <div style="text-align: center">
-<img src="../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
 
 <p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
 </div>
@@ -138,7 +138,7 @@ onde 12 é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
+        "domain": ["Completo", "Incompleto", "Errado ou não realizado"],
         "range": ["green", "yellow", "red"]
       }
     }
