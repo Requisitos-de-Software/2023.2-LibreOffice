@@ -8,8 +8,14 @@
       
       
       
+      
+        <link rel="prev" href="../introspeccao/">
+      
+      
+        <link rel="next" href="../100%24/">
+      
       <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LibreOffice_6.1_Writer_Icon.svg/2048px-LibreOffice_6.1_Writer_Icon.svg.png">
-      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.2.11">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.15">
     
     
       
@@ -17,12 +23,13 @@
       
     
     
-      <link rel="stylesheet" href="../../../../assets/stylesheets/main.8c5ef100.min.css">
+      <link rel="stylesheet" href="../../../../assets/stylesheets/main.26e3688c.min.css">
       
         
-        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.9647289d.min.css">
-        
+        <link rel="stylesheet" href="../../../../assets/stylesheets/palette.ecc896b0.min.css">
       
+      
+
     
     
     
@@ -35,10 +42,11 @@
       
     
     
-    <script>__md_scope=new URL("../../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
+    
     
     
   </head>
@@ -51,7 +59,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
   
     
     
@@ -62,6 +70,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#verificacao-da-tecnica-moscow" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -70,7 +83,9 @@
     
       
 
-<header class="md-header" data-md-component="header">
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
     <a href="../../../.." title="Libre Office Writer" class="md-header__button md-logo" aria-label="Libre Office Writer" data-md-component="logo">
       
@@ -97,27 +112,31 @@
       </div>
     </div>
     
-      <form class="md-header__option" data-md-component="palette">
-        
+      
+        <form class="md-header__option" data-md-component="palette">
           
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
           
-          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent=""  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+            
+            
+            <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
           
-            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
-            </label>
-          
-        
-          
-          
-          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent=""  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
-          
-            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
-            </label>
-          
-        
-      </form>
+        </form>
+      
     
     
     
@@ -135,7 +154,7 @@
       </label>
       <nav class="md-search__options" aria-label="Pesquisar">
         
-        <button type="reset" class="md-search__icon md-icon" aria-label="Limpar" tabindex="-1">
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
         </button>
       </nav>
@@ -147,7 +166,7 @@
           <div class="md-search-result__meta">
             Inicializando busca
           </div>
-          <ol class="md-search-result__list"></ol>
+          <ol class="md-search-result__list" role="presentation"></ol>
         </div>
       </div>
     </div>
@@ -215,17 +234,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_2">
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
           Atas
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Atas" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_2">
           <span class="md-nav__icon md-icon"></span>
           Atas
@@ -319,17 +339,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_3">
+        <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
           Apresentações
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
           Apresentações
@@ -423,17 +444,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_4">
+        <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
           Planejamento
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Planejamento" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
           Planejamento
@@ -527,17 +549,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_5">
+        <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
           Elicitação
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_5">
           <span class="md-nav__icon md-icon"></span>
           Elicitação
@@ -567,17 +590,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_2" type="checkbox" id="__nav_5_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_5_2">
+        <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
           Técnicas
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Técnicas" data-md-level="2">
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_5_2">
           <span class="md-nav__icon md-icon"></span>
           Técnicas
@@ -642,17 +666,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_3" type="checkbox" id="__nav_5_3" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_5_3">
+        <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
           Priorização
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Priorização" data-md-level="2">
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_5_3">
           <span class="md-nav__icon md-icon"></span>
           Priorização
@@ -687,6 +712,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../elicitacao/priorizacao/inOrOut/" class="md-nav__link">
+        In or Out
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -711,17 +750,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_6">
+        <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
           Modelagem
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_6">
           <span class="md-nav__icon md-icon"></span>
           Modelagem
@@ -793,17 +833,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_5" type="checkbox" id="__nav_6_5" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_5" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_6_5">
+        <label class="md-nav__link" for="__nav_6_5" id="__nav_6_5_label" tabindex="0">
           Ágil
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Ágil" data-md-level="2">
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_5_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_6_5">
           <span class="md-nav__icon md-icon"></span>
           Ágil
@@ -876,17 +917,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_7">
+        <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
           Pós-Rastreabilidade
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Pós-Rastreabilidade" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_7">
           <span class="md-nav__icon md-icon"></span>
           Pós-Rastreabilidade
@@ -954,17 +996,18 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" checked>
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" checked>
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8">
+        <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
           Verificação
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Verificação" data-md-level="1">
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="true">
         <label class="md-nav__title" for="__nav_8">
           <span class="md-nav__icon md-icon"></span>
           Verificação
@@ -982,17 +1025,18 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1" type="checkbox" id="__nav_8_1" checked>
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1" checked>
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1">
+        <label class="md-nav__link" for="__nav_8_1" id="__nav_8_1_label" tabindex="0">
           Grupo
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Grupo" data-md-level="2">
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_1_label" aria-expanded="true">
         <label class="md-nav__title" for="__nav_8_1">
           <span class="md-nav__icon md-icon"></span>
           Grupo
@@ -1022,36 +1066,23 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_2" type="checkbox" id="__nav_8_1_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_2">
+        <label class="md-nav__link" for="__nav_8_1_2" id="__nav_8_1_2_label" tabindex="0">
           Planejamento
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Planejamento" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_2">
           <span class="md-nav__icon md-icon"></span>
           Planejamento
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../planejamento/cronogramas/" class="md-nav__link">
-        Cronograma
-      </a>
-    </li>
-  
-
-            
           
             
               
@@ -1097,17 +1128,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_3" type="checkbox" id="__nav_8_1_3" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_3" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_3">
+        <label class="md-nav__link" for="__nav_8_1_3" id="__nav_8_1_3_label" tabindex="0">
           Pré-Rastreabilidade
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_3_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_3">
           <span class="md-nav__icon md-icon"></span>
           Pré-Rastreabilidade
@@ -1146,17 +1178,18 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_4" type="checkbox" id="__nav_8_1_4" checked>
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_4" checked>
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_4">
+        <label class="md-nav__link" for="__nav_8_1_4" id="__nav_8_1_4_label" tabindex="0">
           Elicitação
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Elicitação" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_4_label" aria-expanded="true">
         <label class="md-nav__title" for="__nav_8_1_4">
           <span class="md-nav__icon md-icon"></span>
           Elicitação
@@ -1186,36 +1219,23 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_4_2" type="checkbox" id="__nav_8_1_4_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_4_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_4_2">
+        <label class="md-nav__link" for="__nav_8_1_4_2" id="__nav_8_1_4_2_label" tabindex="0">
           Técnicas
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Técnicas" data-md-level="4">
+      <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_8_1_4_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_4_2">
           <span class="md-nav__icon md-icon"></span>
           Técnicas
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../brainstorm/" class="md-nav__link">
-        Brainstorming
-      </a>
-    </li>
-  
-
-            
           
             
               
@@ -1263,17 +1283,18 @@
     <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_4_3" type="checkbox" id="__nav_8_1_4_3" checked>
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_4_3" checked>
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_4_3">
+        <label class="md-nav__link" for="__nav_8_1_4_3" id="__nav_8_1_4_3_label" tabindex="0">
           Priorização
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Priorização" data-md-level="4">
+      <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_8_1_4_3_label" aria-expanded="true">
         <label class="md-nav__title" for="__nav_8_1_4_3">
           <span class="md-nav__icon md-icon"></span>
           Priorização
@@ -1289,13 +1310,134 @@
   
     <li class="md-nav__item md-nav__item--active">
       
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Moscow
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         Moscow
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-e-participantes" class="md-nav__link">
+    Cronograma e Participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inspecao" class="md-nav__link">
+    Inspeção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tarefas" class="md-nav__link">
+    Tarefas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acompanhamento" class="md-nav__link">
+    Acompanhamento
+  </a>
+  
+    <nav class="md-nav" aria-label="Acompanhamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#porcentagem" class="md-nav__link">
+    Porcentagem
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#correcao" class="md-nav__link">
+    Correção
+  </a>
+  
+    <nav class="md-nav" aria-label="Correção">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ajustes" class="md-nav__link">
+    Ajustes
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    Referência Bibliográfica
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -1339,17 +1481,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_5" type="checkbox" id="__nav_8_1_5" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_5" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_5">
+        <label class="md-nav__link" for="__nav_8_1_5" id="__nav_8_1_5_label" tabindex="0">
           Modelagem
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Modelagem" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_5_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_5">
           <span class="md-nav__icon md-icon"></span>
           Modelagem
@@ -1390,20 +1533,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../modelagem/Lexicos/" class="md-nav__link">
-        Léxicos
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../modelagem/cenarios/" class="md-nav__link">
         Cenários
       </a>
@@ -1428,17 +1557,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_6" type="checkbox" id="__nav_8_1_6" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_6" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_6">
+        <label class="md-nav__link" for="__nav_8_1_6" id="__nav_8_1_6_label" tabindex="0">
           Ágil
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Ágil" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_6_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_6">
           <span class="md-nav__icon md-icon"></span>
           Ágil
@@ -1503,17 +1633,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_1_7" type="checkbox" id="__nav_8_1_7" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_1_7" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_1_7">
+        <label class="md-nav__link" for="__nav_8_1_7" id="__nav_8_1_7_label" tabindex="0">
           Pós-Rastreabilidade
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Pós-Rastreabilidade" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_1_7_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_1_7">
           <span class="md-nav__icon md-icon"></span>
           Pós-Rastreabilidade
@@ -1528,34 +1659,6 @@
     <li class="md-nav__item">
       <a href="../../pos-rastreabilidade/backward-from/" class="md-nav__link">
         Backward-From
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../pos-rastreabilidade/foward-from/" class="md-nav__link">
-        Foward-From
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../pos-rastreabilidade/matriz/" class="md-nav__link">
-        Matriz de Rastreabilidade
       </a>
     </li>
   
@@ -1585,17 +1688,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2" type="checkbox" id="__nav_8_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2">
+        <label class="md-nav__link" for="__nav_8_2" id="__nav_8_2_label" tabindex="0">
           Grupo 1
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Grupo 1" data-md-level="2">
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_8_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2">
           <span class="md-nav__icon md-icon"></span>
           Grupo 1
@@ -1625,17 +1729,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_2" type="checkbox" id="__nav_8_2_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_2">
+        <label class="md-nav__link" for="__nav_8_2_2" id="__nav_8_2_2_label" tabindex="0">
           Planejamento
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Planejamento" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_2">
           <span class="md-nav__icon md-icon"></span>
           Planejamento
@@ -1700,17 +1805,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_3" type="checkbox" id="__nav_8_2_3" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_3" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_3">
+        <label class="md-nav__link" for="__nav_8_2_3" id="__nav_8_2_3_label" tabindex="0">
           Pré-Rastreabilidade
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Pré-Rastreabilidade" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_3_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_3">
           <span class="md-nav__icon md-icon"></span>
           Pré-Rastreabilidade
@@ -1747,17 +1853,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_4" type="checkbox" id="__nav_8_2_4" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_4" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_4">
+        <label class="md-nav__link" for="__nav_8_2_4" id="__nav_8_2_4_label" tabindex="0">
           Elicitação
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Elicitação" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_4_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_4">
           <span class="md-nav__icon md-icon"></span>
           Elicitação
@@ -1787,17 +1894,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_4_2" type="checkbox" id="__nav_8_2_4_2" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_4_2" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_4_2">
+        <label class="md-nav__link" for="__nav_8_2_4_2" id="__nav_8_2_4_2_label" tabindex="0">
           Técnicas
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Técnicas" data-md-level="4">
+      <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_8_2_4_2_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_4_2">
           <span class="md-nav__icon md-icon"></span>
           Técnicas
@@ -1848,17 +1956,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_4_3" type="checkbox" id="__nav_8_2_4_3" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_4_3" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_4_3">
+        <label class="md-nav__link" for="__nav_8_2_4_3" id="__nav_8_2_4_3_label" tabindex="0">
           Priorização
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Priorização" data-md-level="4">
+      <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_8_2_4_3_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_4_3">
           <span class="md-nav__icon md-icon"></span>
           Priorização
@@ -1930,17 +2039,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_5" type="checkbox" id="__nav_8_2_5" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_5" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_5">
+        <label class="md-nav__link" for="__nav_8_2_5" id="__nav_8_2_5_label" tabindex="0">
           Modelagem
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Modelagem" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_5_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_5">
           <span class="md-nav__icon md-icon"></span>
           Modelagem
@@ -2005,17 +2115,18 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8_2_6" type="checkbox" id="__nav_8_2_6" >
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8_2_6" >
       
       
       
-      
-        <label class="md-nav__link" for="__nav_8_2_6">
+        <label class="md-nav__link" for="__nav_8_2_6" id="__nav_8_2_6_label" tabindex="0">
           Ágil
           <span class="md-nav__icon md-icon"></span>
         </label>
       
-      <nav class="md-nav" aria-label="Ágil" data-md-level="3">
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_8_2_6_label" aria-expanded="false">
         <label class="md-nav__title" for="__nav_8_2_6">
           <span class="md-nav__icon md-icon"></span>
           Ágil
@@ -2083,10 +2194,115 @@
                   <div class="md-sidebar__inner">
                     
 
-<nav class="md-nav md-nav--secondary" aria-label="Indice">
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+    <nav class="md-nav" aria-label="Introdução">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#cronograma-e-participantes" class="md-nav__link">
+    Cronograma e Participantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inspecao" class="md-nav__link">
+    Inspeção
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tarefas" class="md-nav__link">
+    Tarefas
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#acompanhamento" class="md-nav__link">
+    Acompanhamento
+  </a>
+  
+    <nav class="md-nav" aria-label="Acompanhamento">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#porcentagem" class="md-nav__link">
+    Porcentagem
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#correcao" class="md-nav__link">
+    Correção
+  </a>
+  
+    <nav class="md-nav" aria-label="Correção">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ajustes" class="md-nav__link">
+    Ajustes
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    Referência Bibliográfica
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    Histórico de Versão
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -2094,59 +2310,353 @@
               </div>
             
           
-          <div class="md-content" data-md-component="content">
-            <article class="md-content__inner md-typeset">
-              
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
                 
+                  
 
 
-  <h1>Moscow</h1>
+<h1 id="verificacao-da-tecnica-moscow">Verificação da técnica Moscow</h1>
+<h2 id="introducao">Introdução</h2>
+<p>Neste documento, será realizada a verificação do artefato da técnica de priorização <a href="../../../../elicitacao/priorizacao/moscow/">Moscow</a> desenvolvido pela equipe. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido.</p>
+<h3 id="cronograma-e-participantes">Cronograma e Participantes</h3>
+<p>Para efetuar a inspeção e verificação do documento o integrante Edilberto Cantuaria realizou uma gravação dessa atividade para ter uma melhor elucidação e visão da inspeção efetuada do documento. Portanto como cronograma seguido, foi efetuado uma gravação via Teams às 01:14 do dia 04 de dezembro de 2023, como pode ser visto na gravação 1 do artefato.</p>
+<p><center></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63p5XU0l9zE?si=LznXPL-M-mzQRtbi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="text-align: center">
+<p> Gravação 1: Inspeção do documento. (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p></center></p>
+<h3 id="inspecao">Inspeção</h3>
+<p>Para consolidar a inspeção do documento na tabela 1, se encontra os metadados do arquivo desenvolvido, nas tabelas 2 e 3 pode ser visto as questões a serem avaliadas, enquanto na tabela 4 pode ser visto os elementos que precisam ser ajustados e no Gráfico 1 pode ser visto o quanto das exigências foram atendidas.</p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.0</td>
+<td>Raphaela Guimararães</td>
+<td>Rafael Xavier</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p></center></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th align="center">Questão</th>
+<th align="center">Inspeção</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">As legendas estão no padrão do projeto?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Possui links para os outros artefatos?</td>
+<td align="center">🟡</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">Existe uma introdução no artefato?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Existe tabela de versionamento padronizado?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">Há referências bibliográficas ou referências no artefato?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">As tabelas e imagens possuem legenda, fonte e são introduzidas no texto?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">O artefato possui autor?</td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">O artefato possui revisor?</td>
+<td align="center">🟢</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<div style="text-align: center">
+<p> Tabela 2: Tabela de avaliação das verificações gerais do artefato. (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p></center></p>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th>Questão</th>
+<th align="center">Inspeção</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">9</td>
+<td>Os requisitos foram classificados como Must Have (Deve ter), Should Have (Deveria ter), Could Have (Poderia ter) ou Won't Have (Não terá)? <a href="#1"> [1]</a></td>
+<td align="center">🟢</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td>As justificativas para a classificação de cada requisito estão documentadas e são coerentes com as necessidades do projeto?</td>
+<td align="center">🔴</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td>A participação do cliente e/ou persona no processo de priorização? <a href="#1"> [1]</a></td>
+<td align="center">🔴</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td>Os requisitos classificados em <em>must</em> e <em>should</em> correspondem a 80% de todo o projeto ?     <a href="#1"> [1]</a></td>
+<td align="center">🟡</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 3: Tabela de avaliação das verificações específicas do artefato. (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p></center></p>
+<p><center></p>
+<h3 id="tarefas">Tarefas</h3>
+<table>
+<thead>
+<tr>
+<th>ID Correção</th>
+<th>Tarefa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IDC1</td>
+<td>Incluir um documento em que haja a validação de um usuário ou stakeholders. Uma sugestão que pode casar bem com o artefato é este <a href="https://www.youtube.com/watch?v=wZxL0vVdUFY">vídeo</a>, em que o integrante Artur Seppa conversa com um Product Owner e pode agregar muito valor às priorizações.</td>
+</tr>
+<tr>
+<td>IDC2</td>
+<td>Colocar links que levem para os artefatos da Introspecção e Brainstorming</td>
+</tr>
+<tr>
+<td>IDC3</td>
+<td>De fato, muitos requisitos elicitados pela técnica de introspecção e brainstorming estão convergindo para um mesmo ponto, mas seria melhor agrupar os requisitos por categorias. Por exemplo o item <code>INT14</code> e o item <code>BS23</code> poderiam ficar em uma única linha da tabela e tal prática pode evitar dualidades, evitando que requisitos semelhantes sejam priorizados de formas distintas. Dito isto, percebesse que muito provavelmnente os requisitos <em>must</em> e <em>should</em> estão dentro dos 80% esperados, mas será proveitoso e mitigará falhas com uma tabela mais organizada e menos redundante</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p></center></p>
+<h2 id="acompanhamento">Acompanhamento</h2>
+<p>Para saber a porcentagem de aproveitamento do artefato, será utilizado a expressão da Figura 1, no qual a Tabela 5 apresenta o significado dessa legendas.</p>
+<div style="text-align: center">
+<img src="../../../../images/formulaCalculoAproveitamento.png"  alt="legenda da fórmula da figura 1"/>
+
+<p> Figura 1: Fórmula para calcular aproveitamento (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th>Acrônimo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>QTDE</td>
+<td>Quantidade Total de Exigências</td>
+</tr>
+<tr>
+<td>EC</td>
+<td>Exigências Completas</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 5: Legenda da Figura 1 (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+<p></center></p>
+<h3 id="porcentagem">Porcentagem</h3>
+<p>Nos checklists realizados e que serão descritos, podemos observar que:</p>
+<ul>
+<li>8/12 exigências são atendidas;</li>
+<li>2/12 exigências estão incompletas;</li>
+<li>2/12 exigências estão erradas ou não foram realizadas;</li>
+<li>0/12 exigências não se aplicam;</li>
+</ul>
+<p>onde 12 é a quantidade de exigências.</p>
+<p><vegachart style='width: 100%'  class="vegalite">{
+    "title": "Acompanhamento",
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple donut chart with embedded data.",
+  "data": {
+    "values": [
+      {"legenda": "Completo", "value": 8},
+      {"legenda": "Incompleto", "value": 2},
+      {"legenda": "Errado ou não realizado", "value": 2}
+    ]
+  },
+  "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "value", "type": "quantitative"},
+    "color": {
+      "field": "legenda",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Completo", "Incompleto", "Errado ou não realizado"],
+        "range": ["green", "yellow", "red"]
+      }
+    }
+  }
+}</vegachart></p>
+<div style="text-align: center">
+<p> Gráfico 1: Gráfico de aproveitamento (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+<p>Portanto, com base na fórmula apresentada, pode-se dizer que o aproveitamento deste artefato está em 66.67% correto.</p>
+<h2 id="correcao">Correção</h2>
+<!-- ### Cronograma
+
+A tabela 7, contém o cronograma para a correção dos problemas identficiados nos artefatos.
+
+<center>
+
+| Data início | Data fim |
+| ----------- | -------- |
+| 27/11       | 04/12    |
+
+<div style="text-align: center">
+<p> Tabela 7: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+</div> -->
+
+<h3 id="ajustes">Ajustes</h3>
+<p>Na tabela 8, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 5</p>
+<table>
+<thead>
+<tr>
+<th>ID Correção</th>
+<th>Ajuste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>IDC1</td>
+<td>Foi ajustado x realizando...</td>
+</tr>
+<tr>
+<td>IDC2</td>
+<td>Foi incluido x em ...</td>
+</tr>
+<tr>
+<td>IDC3</td>
+<td>Foi removido x ...</td>
+</tr>
+<tr>
+<td>IDC4</td>
+<td>X foi especificaod melhor...</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: center">
+<p> Tabela 8: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+<p></center></p>
+<h2 id="referencia-bibliografica">Referência Bibliográfica</h2>
+<blockquote>
+<p><p id="1">[1] VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Rio de Janeiro: Brasport, 2016.</p></p>
+<p><center></p>
+</blockquote>
+<div style="text-align: center">
+<img src="../../../../images/verificacao/moscow/moscow1.png">
+<p> Figura 1: Texto base para o item 09 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 384) </p>
+</div>
+
+<div style="text-align: center">
+<img src="../../../../images/verificacao/moscow/moscow2.png">
+<p> Figura 2: Texto base para o item 12 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 386) </p>
+</div>
+
+<div style="text-align: center">
+<img src="../../../../images/verificacao/geral.png">
+<p> Figura 3: Texto base para o item 11 do checklist. (Fonte: VAZQUEZ, Carlos Eduardo. Engenharia de Requisitos: software orientado ao negócio. Página 65 e 66) </p>
+</div>
+
+<p></center></p>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>FERNANDO, Sidney. Verificação da técnica Moscow do Grupo. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega2/moscow2/. Acesso em: 04 dezembro 2023.</p>
+</blockquote>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor</th>
+<th>Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>25/11/2023</td>
+<td>Criação e desenvolvimento do documento de verificação</td>
+<td>Edilberto Cantuaria</td>
+<td>Raphaela</td>
+</tr>
+</tbody>
+</table>
 
 
 
-              
-            </article>
-          </div>
+
+
+                
+              </article>
+            </div>
+          
+          
         </div>
         
       </main>
       
         <footer class="md-footer">
-  
-    <nav class="md-footer__inner md-grid" aria-label="Rodapé">
-      
-        
-        <a href="../introspeccao/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Introspecção" rel="prev">
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
-          </div>
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Anterior
-              </span>
-              Introspecção
-            </div>
-          </div>
-        </a>
-      
-      
-        
-        <a href="../100%24/" class="md-footer__link md-footer__link--next" aria-label="Próximo: 100$" rel="next">
-          <div class="md-footer__title">
-            <div class="md-ellipsis">
-              <span class="md-footer__direction">
-                Próximo
-              </span>
-              100$
-            </div>
-          </div>
-          <div class="md-footer__button md-icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-          </div>
-        </a>
-      
-    </nav>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
@@ -2168,10 +2678,11 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de Transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de Transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Perdido", "select.version.title": "Selecione a vers\u00e3o"}}</script>
+    
+    <script id="__config" type="application/json">{"base": "../../../..", "features": [], "search": "../../../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
     
     
-      <script src="../../../../assets/javascripts/bundle.748e2769.min.js"></script>
+      <script src="../../../../assets/javascripts/bundle.b4d07000.min.js"></script>
       
         <script src="../../../../js/mkdocs-charts-plugin.js"></script>
       
@@ -2182,5 +2693,9 @@
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
       
     
-  </body>
+  
+        <script>
+        var mkdocs_chart_plugin = {'data_path': '', 'use_data_path': 'True', 'vega_theme': 'default', 'vega_theme_dark': 'dark', 'vega_renderer': 'svg', 'vega_width': 'container', 'fallback_width': '800', 'path_to_homepage': '../../../..'}
+        </script>
+        </body>
 </html>
