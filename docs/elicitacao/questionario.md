@@ -30,65 +30,63 @@ Abaixo podemos ver a relação gráfica das respostas obtidas através das 47 re
 
 
 ![Alt text](./imagensElicitacao/image.png)
-#### Figura 1: Abertura do Questionário. (Fonte: Ana Letícia, 2023)
+#### Figura 1: Termo de Consentimento e explicação da pesquisa. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-1.png)
-#### Figura 2: Termo de Consentimento e explicação da pesquisa
+#### Figura 2: Informações sobre o uso do aplicativo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-2.png)
-#### Figura 3: Termo de Consentimento e explicação da pesquisa
+#### Figura 3: Informações sobre faixa etária. (Fonte: Ana Letícia, 2023) 
 
 ![Alt text](./imagensElicitacao/image-3.png)
-#### Figura 4: Termo de Consentimento e explicação da pesquisa 
+#### Figura 4: Informações sobre cidade e estado. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-4.png)
-#### Figura 5: Termo de Consentimento e explicação da pesquisa
+#### Figura 5: Informações sobre o grau de escolaridade e ocupação. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-5.png)
-#### Figura 6: Termo de Consentimento e explicação da pesquisa
-
-## Informações sobre o uso do sistema
+#### Figura 6: Informações sobre o grau de afinidade com o sistema. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-6.png)
-#### Figura 7: Termo de Consentimento e explicação da pesquisa
+#### Figura 7: Informações sobre sistema operacional e finalidade do uso do aplicativo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-7.png)
-#### Figura 8: Termo de Consentimento e explicação da pesquisa
+#### Figura 8: Informações sobre frequência de uso do aplicativo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-8.png)
-#### Figura 9: Termo de Consentimento e explicação da pesquisa
+#### Figura 9: Informações sobre funcionalidades mais utilizadas. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-9.png)
-#### Figura 10: Termo de Consentimento e explicação da pesquisa
+#### Figura 10: Informações sobre as dificuldades ao usar o aplicativo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-10.png)
-#### Figura 11: Termo de Consentimento e explicação da pesquisa
+#### Figura 11: Informações sobre o uso de formatações e estilo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-11.png)
-#### Figura 12: Termo de Consentimento e explicação da pesquisa
+#### Figura 12:  Informações sobre funcionalidades a serem adicionadas. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-12.png)
-#### Figura 13: Termo de Consentimento e explicação da pesquisa
+#### Figura 13: Informações sobre acessibilidade. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-13.png)
-#### Figura 14: Termo de Consentimento e explicação da pesquisa
+#### Figura 14: Infomrações sobre o uso de algumas ferramentas do aplicativo. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-14.png)
-#### Figura 15: Termo de Consentimento e explicação da pesquisa
+#### Figura 15: Informações sobre o uso da escrita de equações. (Fonte: Ana Letícia, 2023)
 
 ![Alt text](./imagensElicitacao/image-15.png)
-#### Figura 16: Termo de Consentimento e explicação da pesquisa
+#### Figura 16: Informações sobre a escrita de textos em tópicos. (Fonte: Ana Letícia, 2023)
 
 
 ## Satisfação do usuário
 
 ![Alt text](./imagensElicitacao/image-16.png)
-#### Figura 17: Termo de Consentimento e explicação da pesquisa
+#### Figura 17: Informações sobre a opinião da interface. (Fonte: Ana Letícia, 2023)
 
 ## Motivo de não usar o LibreOffice (caso marcasse a opção no início do questionário)
 
 ![Alt text](./imagensElicitacao/image-17.png)
-#### Figura 17: Termo de Consentimento e explicação da pesquisa
+#### Figura 18: Informações sobre o não uso do aplicativo. (Fonte: Ana Letícia, 2023)
 
 
 
