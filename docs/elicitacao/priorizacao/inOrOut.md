@@ -56,7 +56,7 @@ Os resultados são apresentador nas tabelas 2 e 3. A tabela dois indica a priori
 | BS13 |O usuário deve ser capaz de colaborar em tempo real com outros usuários, permitindo a edição simultânea de documentos por várias pessoas.	|    in    | 
 | BS14 |   O usuário deve ter a capacidade de traduzir automaticamente documentos para diferentes idiomas diretamente no aplicativo.	   |    in    | 
 | BS15 |   O usuário deve poder integrar de maneira eficaz o aplicativo com serviços de armazenamento em nuvem, tornando o compartilhamento e o acesso a documentos mais simples e ágeis.	   |    in    | 
-| BS16 |   O usuário deve ter à disposição ferramentas avançadas de reconhecimento de fala para realizar ditado de texto nos documentos com precisão.	   |    out    | 
+| BS16 |   O usuário deve ter à disposição ferramentas avançadas de reconhecimento de fala para realizar ditado de texto nos documentos com precisão.	   |    in    | 
 | BS17 |   O usuário deve experimentar uma melhoria significativa na acessibilidade do aplicativo, atendendo a diretrizes rigorosas de acessibilidade.	   |    in    | 
 | BS18 |   O usuário deve se beneficiar de recursos de análise de texto e IA que oferecem sugestões avançadas de formatação e conteúdo.	   |    out    | 
 | BS19 |   O usuário deve ter acesso a modelos específicos para diferentes tipos de documentos, como artigos acadêmicos e relatórios técnicos.	   |    in    | 
