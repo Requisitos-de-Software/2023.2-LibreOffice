@@ -140,9 +140,9 @@ onde 15 é a quantidade de exigências.
   "description": "A simple donut chart with embedded data.",
   "data": {
     "values": [
-      {"legenda": "Completo", "value": 8},
-      {"legenda": "Incompleto", "value": 4},
-      {"legenda": "N\A", "value": 1}
+      {"legenda": "Completo", "value": 9},
+      {"legenda": "Incompleto", "value": 3},
+      {"legenda": "Errado", "value": 3}
     ]
   },
   "mark": {"type": "arc", "innerRadius": 50, "tooltip": true},
@@ -152,7 +152,7 @@ onde 15 é a quantidade de exigências.
       "field": "legenda",
       "type": "nominal",
       "scale": {
-        "domain": ["Completo", "Incompleto", "N\A"],
+        "domain": ["Completo", "Incompleto", "Errado"],
         "range": ["green", "yellow", "red"]
       }
     }
