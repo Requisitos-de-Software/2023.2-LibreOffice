@@ -1,6 +1,6 @@
 ## Introdução
 
-O aplicativo escolhido foi o LibreOfficeWriter. Os integrantes da equipe decidiram em consenso e seguir será apresentado o motivo da escolha, o Rich Picture e o termo de uso.
+O aplicativo escolhido foi o Libre Office Writer. Os integrantes da equipe decidiram em consenso na reunião do dia [14/09/2023](../atas/ata_14_09.md). Neste documento será apresentado o motivo da escolha, os critérios para escolha e o termo de uso.
 
 ## Critérios para escolha
 
