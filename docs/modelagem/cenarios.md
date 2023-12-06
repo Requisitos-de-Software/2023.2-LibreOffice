@@ -330,4 +330,4 @@ Tabela 10: Alternância entre Modo Offline e Online para Acesso e Edição de Do
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 24/10/2023 | Criação dos cenários                        | Ana Letícia e Raphaela|  Edilberto Cantuaria   |
+| 1.0  | 24/10/2023 | Criação dos cenários                        | Ana Letícia e Raphaela|  Edilberto Cantuaria   |

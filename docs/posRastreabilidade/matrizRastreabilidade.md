@@ -93,6 +93,6 @@ Tabela 1: Matriz-Geral de Rastreabilidade (Fonte: Raphaela Guimarães, 2023).
 
 | Versão | Data       | Descrição                | Autor(es)               | Revisor(es)         |
 | ------ | ---------- | ------------------------ | ----------------------- | ------------------- |
-| `1.0`  | 20/11/2023 | Criação do documento     | Ana Letícia | Raphaela Guimarães |
-| `1.1`  | 04/12/2023 | Adição dos requisitos na matriz geral | Raphaela Guimarães | Ana Luiza |
-| `1.2`  | 04/12/2023 | Correções | Raphaela Guimarães | Ana Luiza |
+| 1.0  | 20/11/2023 | Criação do documento     | Ana Letícia | Raphaela Guimarães |
+| 1.1  | 04/12/2023 | Adição dos requisitos na matriz geral | Raphaela Guimarães | Ana Luiza |
+| 1.2  | 04/12/2023 | Correções | Raphaela Guimarães | Ana Luiza |

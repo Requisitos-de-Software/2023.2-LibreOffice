@@ -158,4 +158,4 @@ Tabela 3: Requisitos não funcionais (Fonte: Rafael Xavier, 2023)
 
 | Versão | Data       | Descrição                            | Autor(es)                                      | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 28/04/2023 | Criação do artefato       | Rafael Xavier   | Ana Luíza |
+| 1.0    | 28/04/2023 | Criação do artefato       | Rafael Xavier   | Ana Luíza |

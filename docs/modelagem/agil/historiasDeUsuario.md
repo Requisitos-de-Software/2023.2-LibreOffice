@@ -12,7 +12,7 @@ Após a elicitação, os critérios de aceitação foram definidos e as históri
 | **Participante**                                        | **Função**     |
 | :------------------------------------------------------ | :------------- |
 | <span style = "color: yellow"> Antonio Ferreira </span>               | Product Owner  |
-| [Artur Seppa Reiman](https://github.com/artur-seppa) | Entrevistador  |
+| Artur Seppa Reiman | Entrevistador  |
 
 <div style="text-align: center">
 <p> Tabela 1: Participantes da entrevista (Fonte: Artur Seppa Reiman, 2023).</p>
