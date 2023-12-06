@@ -27,7 +27,7 @@ O Engenheiro de Requisitos responsável pela introspecção apresenta o seguinte
 ```
 Idade: 25 anos;
 Ocupação: estudante universitário e estagiário;
-Reegião: Brasília-DF;
+Região: Brasília-DF;
 Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
 Sistemas Operacionais: Windows, Linux e Android;
 Usa o LibreOffice Writter com alguma frequência.
