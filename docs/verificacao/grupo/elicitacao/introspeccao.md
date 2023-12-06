@@ -236,3 +236,4 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 | Versão | Data       | Descrição                                             | Autor              | Revisor       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
 | 1.0    | 25/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman | Rafael Xavier |
+| 1.1    | 06/12/2023 | Alterações na tabela de ajuste | Edilberto Cantuaria | Artur Seppa Reiman |
