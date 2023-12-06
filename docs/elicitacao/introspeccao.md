@@ -131,7 +131,7 @@ Possuir ferramentas/opções:
 | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
 |     INT01     | Ao abrir o aplicativo, deve aparecer uma tela com um documento em branco pronto para ser editado                                                                                  |  RF   |
 |     INT02     | O software deve fornecer ferramentas/opções para formatar o texto, como alterar o estilo, o tamanho da fonte, bem como o tamanho do papel (A4, A3, Carta, entre outros)                                                                 |  RF   |
-|     INT03     | Deve ser possível aplicar estilos de formatação de fonte, como negrito, itálico, sublinhado, tachado, sobrescrito e subscrito                                                     |  RF   |
+|     INT03     | Deve ser possível aplicar estilos de formatação de fonte, como negrito, itálico, sublinhado, tachado, sobrescrito, subscrito, escolher cores, etc.                                                   |  RF   |
 |     INT04     | O usuário deve ter a opção de alinhar o texto: centralizar, justificar, alinhar à direita ou alinhar à esquerda                                                                   |  RF   |
 |     INT05     | O software deve permitir a criação de tópicos ordenados (numeração, letras), não ordenados (marcadores) e seus subtópicos                                                         |  RF   |
 |     INT06     | Deve ser possível aumentar ou diminuir o recúo, bem como regular o espaçamento entre linhas e o espaço entre parágrafos                                                           |  RF   |
