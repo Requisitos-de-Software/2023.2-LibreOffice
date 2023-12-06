@@ -186,7 +186,7 @@ Este perfil converge com a maioria dos dados coletados no [Questionário](../eli
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PQ4U2_Tz210?si=DrgP8hEo9Vh0oXrX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <div style="text-align: center">
-<p> Gravação 1: Inspeção do documento. (Fonte: Edilberto Cantuaria, 2023). </p>
+<p> Gravação 1: Validação do artefato com um cliente. (Fonte: Edilberto Cantuaria, 2023). </p>
 </div>
 
 </center>
