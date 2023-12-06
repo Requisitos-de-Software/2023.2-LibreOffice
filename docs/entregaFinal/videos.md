@@ -12,7 +12,7 @@ Durante a entrega do projeto, o grupo registrou todas as suas apresentações no
 | <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bO_olUVVuWY?si=JBIqX4VQXxsdulnh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p> | 4 | Ana Leticia, Ana Luíza, Artur, Edilberto, Rafael |
 | <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0HGdqEAP50Y?si=oXIyGpNYC1hzMjuy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p> | 5.1 | Ana Leticia, Ana Luíza, Artur, Edilberto, Rafael |
 | <iframe width="560" height="315" src="https://www.youtube.com/embed/evhYqPZ3PmA?si=fDZuzscefgIByMc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> | 5.2 | Ana Leticia, Ana Luíza, Artur, Edilberto, Rafael, Raphaela |
-| <p style="text-align: center"></p> | 6 | Ana Leticia, Ana Luíza, Artur, Edilberto, Rafael, Raphaela |
+| <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/z3RGzZdlrCU?si=BGrn0BIxLj9PfcSX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p> | 6 | Ana Leticia, Ana Luíza, Artur, Edilberto, Rafael, Raphaela |
 **Tabela 1**: Apresentações do projeto (Fonte: Ana Letícia, 2023)
 
 
