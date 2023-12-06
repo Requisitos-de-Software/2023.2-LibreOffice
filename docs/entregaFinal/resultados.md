@@ -12,6 +12,10 @@ Por fim, foram realizadas as [verificações](https://requisitos-de-software.git
 
 Em suma, com o desenvolvimento do projeto foi possível alcançar resultados significativos para o grupo, proporcionando mais expertise na área de requisitos e solidez técnica para todos os integrantes.
 
+## Bibliografia
+
+> MACIEL, Geovanna. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/resultados-alcancados/. Acesso em: 06 de dezembro 2023.
+
 ## Histórico de Versões
 
 | Data |   Versão    | Descrição                                                                      | Autor(es)                                        | Revisor(es)                                      |
