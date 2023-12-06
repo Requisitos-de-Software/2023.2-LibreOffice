@@ -34,7 +34,7 @@ A figura 1 apresenta o Rich Picture do aplicativo Libre Office Writer
 
 ## Termos de uso
 
-A fim de realizar o trabalho dentro das normas legais, o grupo verificou os [termos de uso](https://www.libreoffice.org/download/license/) do Libre Office Writer para garantir que possuíamos permissão explícita para realizar a análise durante o tempo da disciplina. Foi constatado que não há restrições para a utilização do app na disciplina.
+A fim de realizar o trabalho dentro das normas legais, o grupo verificou os [termos de uso](https://www.libreoffice.org/download/license/) do Libre Office Writer para garantir que possuíamos permissão explícita para realizar a análise durante o tempo da disciplina. A figura 1 mostra uma parte da licença que garante que não há restrições para a utilização do app na disciplina.
 
 A licença deixa explícito que: 
 
@@ -42,13 +42,17 @@ A licença deixa explícito que:
 
 O LibreOffice está licenciado sob os termos da LGPLv3 (ou posteriores) e pela MPL - Mozilla Public License (ou posteriores). Significa que você está livre para usá-lo para fins pessoais e comerciais, que você está livre para copiar e distribuir o software, e que você está livre para modificar e reestruturar o código-fonte e criar obras derivadas."
 
-## Referências
+<center>
 
-> <a id="RP1" href="#TEC1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4 Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>>. Acesso em: 16/04/2023.
+<img src="../../images/termoDeUtilizacao.png">
 
+Figura 1: Termo de Uso do Libre Office Writer. (Fonte: Ana Luíza, 2023) 
+
+</center>
 
 ## Histórico de Versão
 
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
 | 1.0     | 20/09/20233 | Criação do documento | Ana Luíza | Rafael |
+| 1.1     | 06/12/20233 | Adicionando licença | Ana Luíza | Rafael |
