@@ -158,13 +158,13 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 | ID Correção | Ajuste                       |
 | ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| IDC1          | Foi ajustado as legendas de acordo com o padrão do projeto |
+| IDC2          | Foi ajustado a tabela de versionamento de acordo com o padrão do projeto       |
+| IDC3          | Foi ajustado a bibliografia tirando os números e colocando em ordem alfabética           |
+| IDC4          | Foi ajustado o tamanho dos ícones das ferramentas para o valor de 70 pixels. |
 
 <div style="text-align: center">
-<p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+<p> Tabela 6: Tabela de ajustes feitos (Fonte: Artur Seppa Reiman, 2023). </p>
 </div>
 
 </center>
@@ -179,4 +179,5 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 |    Data    | Versão |      Descrição       | Autor(es) | Revisor(es) |
 | :--------: | :----: | :------------------: | :-------: | :---------: |
 | 26/11/2023 |  1.0   | Criação do documento | Ana Luíza |   Artur    |
+| 05/12/2023 |  1.1   | Indicação de ajustes feitos nas ferramentas | Artur Seppa Reiman |   -    |
 
