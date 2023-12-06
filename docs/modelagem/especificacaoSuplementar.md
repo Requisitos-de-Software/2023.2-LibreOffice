@@ -85,7 +85,7 @@ A Tabela 4 apresenta os requisitos abrangentes de suportabilidade para o LibreOf
 
 | ID     | Descrição                                                                                                                                                                                                                                                                                                   |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SUPA01 | O site oficial do LibreOffice Writer deve incluir uma seção dedicada ao Suporte ao Usuário, oferecendo serviços de Atendimento ao Consumidor (SAC) ou equivalentes.                                                                                                                                         |
+| SUP01 | O site oficial do LibreOffice Writer deve incluir uma seção dedicada ao Suporte ao Usuário, oferecendo serviços de Atendimento ao Consumidor (SAC) ou equivalentes.                                                                                                                                         |
 | SUP02  | O sistema do LibreOffice Writer deve ser projetado com capacidade de extensibilidade, permitindo a adição de novas funcionalidades, adaptação às mudanças e interoperação entre sistemas semelhantes (Como o *Word*  da Microsoft Office e o *Docs* da Google) .                                            |
 | SUP03  | O sistema do LibreOffice Writer deve ser dotado de recursos de rastreabilidade, incluindo mecanismos para registrar e acompanhar mudanças e correções ao longo do tempo, juntamente com controle de versão e registros de alterações.                                                                       |
 | SUP04  | O sistema do LibreOffice Writer deve incorporar tolerância a falhas para assegurar que possa lidar com problemas de maneira eficaz, por meio de mecanismos de recuperação, detecção de falhas, manutenção da integridade dos dados, realização de backups regulares e rápida restauração em caso de falhas. |
@@ -134,5 +134,5 @@ A Tabela 4 apresenta os requisitos abrangentes de suportabilidade para o LibreOf
 
 | Versão | Data       | Descrição             | Autor               | Revisor       |
 | ------ | ---------- | --------------------- | ------------------- | ------------- |
-| `1.0`  | 22/10/2023 | Criação do documento. | Edilberto Cantuaria | Rafael Xavier |
-| `1.1`  | 06/12/2023 | Correção do documento | Edilberto Cantuaria | Rafael Xavier |
+| 1.0  | 22/10/2023 | Criação do documento. | Edilberto Cantuaria | Rafael Xavier |
+| 1.1  | 06/12/2023 | Correção do documento | Edilberto Cantuaria | Rafael Xavier |
