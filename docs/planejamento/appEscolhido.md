@@ -40,3 +40,4 @@ O LibreOffice está licenciado sob os termos da LGPLv3 (ou posteriores) e pela M
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
 | 1.0     | 20/09/20233 | Criação do documento | Ana Luíza | Rafael |
+| 1.1    | 06/12/20233 | Remoção do Rich Picture | Raphaela Guimarães | Ana Letícia |
