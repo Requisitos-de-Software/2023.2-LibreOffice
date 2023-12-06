@@ -16,10 +16,37 @@ Ainda, segundo Maurício e Milene Serrano [2], a introspecção é uma técnica 
 Assim, a finalidade da elicitação de requisitos através da técnica de introspecção consiste em listar os requisitos fundamentais do sistema a partir da perspectiva dos participantes durante um momento de introspecção.
 
 
-## Elicitação de requisitos
+## Metodologia para a elicitação de requisitos através da introspecção
 
-A abordagem da introspecção na elicitação de requisitos é um método que envolve uma análise pessoal e profunda para identificar o que é essencial para um software de determinada natureza. Nesse contexto, o responsável por aplicar essa estratégia deve imaginar uma situação hipotética na qual uma tarefa específica seria executada. 
+A abordagem da introspecção na elicitação de requisitos é um método que envolve uma análise pessoal e profunda para identificar o que é essencial para um software de determinada natureza. Nesse contexto, o responsável por aplicar essa estratégia deve imaginar uma situação hipotética na qual uma tarefa específica seria executada.
 
+### Perfil do Engenheiro de Requisitos
+O Engenheiro de Requisitos responsável pela introspecção apresenta o seguinte perfil:
+
+
+```
+Idade: 25 anos;
+Ocupação: estudante universitário e estagiário;
+Reegião: Brasília-DF;
+Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
+Sistemas Operacionais: Windows, Linux e Android;
+Usa o LibreOffice Writter com alguma frequência.
+Usa aplicação semelhante de uma empresa concorrente com frequência.
+```
+Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
+
+
+
+## Realizando a introspecção
+
+### Planejamento
+A técnica foi aplicada em um local com as seguintes características:
+* Ambiente: sala fechada com uma boa iluminação natural e temperatura confortável;
+* Horário: de manhã, aproximadamente às 10 horas.
+* Cronograma: dia 01/10/2023, de acordo com a data prevista e dentro do prazo da entrega.
+* Situação hipotética: escrita de um artigo acadêmico, imaginando desde o momento em que o usuário incializa o LibreOffice Writter até sua versão final e imaginando algumas falhas durante a atividade. 
+
+### Execução
 Aplicando a técnica para o software LibreOffice Writer obteve-se os resultados que estão registrados a seguir que apresenta os cenários de utilização do sistema e o comportamento esperado.
 
 |                  Cenário de uso | Observações                                                                                                                                                                                                                                                                                                                                                                        |
@@ -36,21 +63,21 @@ Aplicando a técnica para o software LibreOffice Writer obteve-se os resultados 
 </div>
 
 
-## Parecer do Avaliador 
+#### Parecer do Avaliador 
 
 Durante o uso do software, foi possível identificar as principais ferramentas que fazem parte da edição e criação de um arquivo de texto. Porém as divisões que os ícones aparecem não colaboram para um melhor aproveitamento do usuário, uma vez que a página contém diversos itens, alguns deles até mesmo em que o usuário já está habituado a utilizar os atalhos como, por exemplo, o recortar, copiar e colar que já possuem os atalhos `ctrl+x`, `ctrl+c` e `ctrl+v`. Além do mais, para uma edição mais robusta, com a inserção de sumários, numeração de figuras e tabelas, acaba não sedo indicado por dar retrabalho ao usuário: figuras e tabelas saem do local que foi colocado, a numeração acaba saindo de ordem ao incluir ou excluir uma figura ou tabela.
 
 
-## Requisitos elicitados:
+### Requisitos elicitados (documentação):
 
 A partir das observações descritas acima, foram elicitados os requisitos da sessão de introspecção representados na tabela a seguir. O identificador de cada requisito é formado por INT + um número, sendo INT uma abreviação de introspecção, e o tipo de requisito refere-se a classificação entre requisitos funcionais (RF) e não funcionais (RNF).
 
 
-### Acesso ao aplicativo
+#### Acesso ao aplicativo
 
 Ao abrir o aplicativo deve aparecer uma tela com um documento em branco pronto para ser editado;
 
-### Ao escrever ou editar um texto
+#### Ao escrever ou editar um texto
 
 Possuir ferramentas/opções:
  
@@ -94,10 +121,11 @@ Possuir ferramentas/opções:
   - `.txt` 
 
 
+#### Requisitos obtidos com a técnica Introspecção
 
 <center>
 
-**Requisitos Funcionais (RF):**
+
 
 | Identificador | Requisito                                                                                                                                                                         | Tipo  |
 | :-----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: |
@@ -134,10 +162,36 @@ Possuir ferramentas/opções:
 
 
 
-<font><p style="text-align: center">**Tabela 2:** Requisitos elicitados. Fonte: Edilberto Almeida Cantuaria.</p></font>
+<font><p style="text-align: center">Tabela 2: Requisitos elicitados. (Fonte: Edilberto Almeida Cantuaria, 2023).</p></font>
 
 
 </center>
+
+### Confirmação
+ A fim de confirmar os requisitos elicitados, gravou-se um vídeo com um cliente que possui o seguinte perfil:
+
+**Perfil do cliente entrevistado**
+
+```
+Idade: 24 anos;
+Ocupação: estudante universitário e estagiário;
+Reegião: Valparaíso-GO;
+Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
+Sistemas Operacionais: Windows, Linux e Android;
+Usa o LibreOffice Writter com alguma frequência.
+Usa aplicação semelhante de uma empresa concorrente com frequência.
+```
+Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PQ4U2_Tz210?si=DrgP8hEo9Vh0oXrX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="text-align: center">
+<p> Gravação 1: Inspeção do documento. (Fonte: Edilberto Cantuaria, 2023). </p>
+</div>
+
+</center>
+
 
 
 ## Referências
@@ -147,6 +201,7 @@ Possuir ferramentas/opções:
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição             | Edilberto Almeida Cantuaria(es) | Revisor(es)   |
+| Versão | Data       | Descrição             | Autor | Revisor   |
 | ------ | ---------- | --------------------- | ------------------------------- | ------------- |
 | `1.0`  | 01/10/2023 | Criação do documento. | Edilberto Cantuaria             | Rafael Xavier |
+| `1.1`  | 06/12/2023 | Correção do documento. | Edilberto Cantuaria             | Rafael Xavier |
