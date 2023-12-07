@@ -1,4 +1,3 @@
-
 # Rich Picture
 
 ## Introdução
@@ -22,4 +21,4 @@ Figura 1: Rich Picture (Fonte: Raphaela Guimarães e Ana Letícia, 2023).
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 06/12/2023 | Adição da primeira versão do Rich Picture  | Raphaela Guimarães | Ana Letícia
+1.0 | 06/12/2023 | Adição da primeira versão do Rich Picture  | Raphaela Guimarães | Ana Letícia

@@ -4,7 +4,7 @@
 
 Com o objetivo de representar de forma abrangente todos os artefatos gerados em cada fase do projeto, com atribuição de autor e revisor, este documento visa apresentar tabelas sintetizadas que abrangem todos os elementos produzidos em suas respectivas etapas. Essa abordagem contribui para a manutenção de uma documentação clara e organizada, proporcionando uma visão global das atividades realizadas em cada fase do projeto.
 
-No total do projeto foram elaborado 51 artefatos representados nas tabelas 1 a 7.
+No total do projeto foram elaborado 52 artefatos representados nas tabelas 1 a 7.
 
 ## Tabelas Sintetizadas
 
