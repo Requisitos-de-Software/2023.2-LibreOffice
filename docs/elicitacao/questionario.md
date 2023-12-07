@@ -100,8 +100,8 @@ Abaixo podemos ver a relação gráfica das respostas obtidas através das 47 re
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 01/10/2023 | Formulação das perguntas           | Ana Letícia   |     Todos     |
-| `1.2`  | 01/10/2023 | Criação do questionário            | Ana Letícia   |    Ana Luiza  |
-| `1.3`  | 03/10/2023 | Criação do documento               | Ana Letícia   |    Ana Luiza  |
-| `1.4`  | 01/10/2023 | Inserção dos gráficos              | Ana Letícia   |    Ana Luiza  |
-| `1.5`  | 04/12/2023 | Correções              | Ana Letícia   |    Edilberto  |
+| 1.0  | 01/10/2023 | Formulação das perguntas           | Ana Letícia   |     Todos     |
+| 1.2  | 01/10/2023 | Criação do questionário            | Ana Letícia   |    Ana Luiza  |
+| 1.3  | 03/10/2023 | Criação do documento               | Ana Letícia   |    Ana Luiza  |
+| 1.4  | 01/10/2023 | Inserção dos gráficos              | Ana Letícia   |    Ana Luiza  |
+| 1.5  | 04/12/2023 | Correções              | Ana Letícia   |    Edilberto  |

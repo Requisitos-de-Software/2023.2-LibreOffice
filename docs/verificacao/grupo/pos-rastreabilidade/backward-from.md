@@ -6,7 +6,7 @@ Neste documento, será realizada a verificação da rastreabilidade Backward-fro
 
 | Versão | Autor(es)              | Revisor(es)         |
 | :----: | ---------------------- | ------------------- |
-| `1.0`  | Raphaela Guimarães | Rafael Xavier |
+| 1.0  | Raphaela Guimarães | Rafael Xavier |
 
 <div style="text-align: center">
 <p> Tabela 1: Verificações gerais (Fonte: Raphaela Guimarães, 2023). </p>

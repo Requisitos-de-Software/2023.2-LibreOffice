@@ -145,5 +145,4 @@ nav:
       - Técnicas: entregaFinal/tecnicas.md
       - Verificação e Validação: entregaFinal/verificacaoEValidacao.md
       - Gravações: entregaFinal/videos.md
-    # - Validação: 
-    #   - Edição simultânea: validacao/prototipacao/bs13.md
+      - Feedback da equipe: entregaFinal/feedback.md

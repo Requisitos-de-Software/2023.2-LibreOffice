@@ -10,7 +10,7 @@ Este documento apresentará a verificação do artefato [Aplicativo Escolhido](h
 
 | Versão |       Autor(es)     |     Revisor(es)   |
 | :----: | :-----------------: | :----------: |
-| `1.0`  | Ana Luíza | Rafael |
+| 1.0  | Ana Luíza | Rafael |
 
 </center>
 
@@ -147,10 +147,7 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 | ID Correção | Ajuste                       |
 | ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| IDC1          | Foi corrigido os erros de escrita |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Rafael Xavier, 2023). </p>

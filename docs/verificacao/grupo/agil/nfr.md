@@ -164,10 +164,9 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 | ID Correção | Ajuste                       |
 | ----------- | ---------------------------- |
-| IDC1        | Foi ajustado x realizando... |
-| IDC2        | Foi incluido x em ...        |
-| IDC3        | Foi removido x ...           |
-| IDC4        | X foi especificaod melhor... |
+| IDC1        | Foi corrigido o link de redirecionamento para o repositório Simplenote |
+| IDC2        | Foi incluido legenda na última tabela        |
+| IDC3        | Foi especificado as descrições do cartão de especificação de portabilidade e desempenho para que os requisitos possam ser testáveis          |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
