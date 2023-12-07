@@ -81,6 +81,7 @@ nav:
       - Matriz de Rastreabilidade: posRastreabilidade/matrizRastreabilidade.md
     - Validação:
       - Comprovação Informal: validacao/comprovacaoInformal.md
+      - Protótipo: validacao/prototipacao.md
     - Verificação:
       - Grupo:
           - Metodologia: verificacao/grupo/metodologia.md
