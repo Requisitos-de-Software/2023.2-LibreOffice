@@ -100,11 +100,11 @@ A figura 5 apresenta a propagação de impacto do NFR de Portabilidade.
 
 #### Cartão de especificação
 
-A tabela 1 apresenta o cartão de especificação do desempenho.
+A tabela 1 apresenta o cartão de especificação de portabilidade.
 
 | Classificação         | Compatibilidade do aplicativo em diferentes sistemas operacionais e dispositivos / Portabilidade | 
 | ----------------------|-------------------------------|
-| Descrição             | O aplicativo deve ser compatível tanto com dispositivos mobile (Android ou IOS), desktops (Linux,Windowse MacOS) e com sistemas web |
+| Descrição             | O aplicativo deve ser compatível tanto com dispositivos mobile (Android ou IOS), desktops (Linux,Windowse MacOS) e com navegadores (Google Chrome, Mozilla Firefox, Microsoft Edge, Opera) |
 | Justificativa         | Torna o aplicativo muito mais acessível e versátil.|
 | Origem do requisito   | BS27 e INT21. Fonte: [Moscow](https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/priorizacao/moscow/) |
 | Critério de aceitação | Nenhum |
@@ -135,7 +135,7 @@ A tabela 2 apresenta o cartão de especificação do desempenho.
 
 | Classificação         | Desempenho | 
 | ----------------------|-------------------------------|
-| Descrição             | O aplicativo deve ser eficiente em termos de consumo de recursos do sistema, como CPU e memória, para garantir um desempenho responsivo mesmo em sistemas menos poderosos ou em situações de documentos muito grandes |
+| Descrição             | O aplicativo deve ser eficiente em termos de consumo de recursos do sistema, como CPU e memória, para garantir um bom desempenho, com respostas rápidas, mesmo em sistemas que possuem menos recursos de memória, CPU ou até mesmo internet, ou em situações de documentos muito grandes onde o app tende a ficar mais lento ou travar |
 | Justificativa         | O usuário precisa que o sistema responda corretamente para que qualquer tarefa do usuário que esteja sendo feita ão seja afetada negativamente por travamentos ou coisas parecidas.|
 | Origem do requisito   | INT24 e BS25. Fonte: [Moscow](https://requisitos-de-software.github.io/2023.2-LibreOffice/elicitacao/priorizacao/moscow/) |
 | Critério de aceitação | O sistema deve atender aos padrões de tempo de resposta e taxa de transferência definidos pelo cliente, medidos por ferramentas de monitoramento e avaliação de desempenho. |
@@ -189,12 +189,14 @@ A tabela lista os Requisitos Não-Funcionais elicitados com o NFR Framework.
 |  NFR05     | A interface do usuário do LibreOffice Writer deve ser adaptativa, ajustando-se de forma adequada ao tamanho da tela e às capacidades de entrada do dispositivo em uso. |
 |      NFR06      | O Sistema deve oferecer suporte para sincronização de documentos na nuvem, permitindo que os usuários acessem seus documentos de forma consistente em diferentes dispositivos, independentemente da plataforma ou sistema operacional |
 
+<font size="3"><p style="text-align: center">Tabela 4: Requisitos Não-Funcionais elicitados (Fonte: Ana Luíza e Rafael Xavier, 2023)</p></font>
+
 
 ## Bibliografia
 
->Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr//>. Acesso em: 05/11/2023.
-
 >Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/nfrframework/>. Acesso em: 05/11/2023.
+
+>Repositório da disciplina: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr/>. Acesso em: 05/11/2023.
 
 >SERRANO, Milene. Requisitos – Aula 17. 2017. Apresentação de slides. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692836/mod_resource/content/1/Requisitos%20-%20Aula%20019a.pdf>. Acesso em: 05/11/2023.
 
@@ -210,5 +212,6 @@ A tabela lista os Requisitos Não-Funcionais elicitados com o NFR Framework.
 | Versão  | Data       | Descrição                  | Autor                    | Revisor   |
 |---------|------------|----------------------------|-------------|-----------|
 | 1.0     | 05/11/2023 | Criação do documento | Ana Luíza e Rafael | Ana Letícia e Edilberto |
+| 1.1     | 06/12/2023 | Correções | Ana Luíza | Rafael |
 
 </center>
