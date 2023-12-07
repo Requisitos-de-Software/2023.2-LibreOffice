@@ -177,10 +177,10 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 | ID Correção | Ajuste                       |
 | ----------- | ---------------------------- |
-| IDC1        | Foi ajustado x realizando... |
-| IDC2        | Foi incluido x em ...        |
-| IDC3        | Foi removido x ...           |
-| IDC4        | X foi especificaod melhor... |
+| IDC1        | Foi adicionado o perfil do Engenheiro de Requisitos que realizou a técnica de introspecção |
+| IDC2        | Foi inlcuido maiores detalhes sobre o planejamento      |
+| IDC3        | Gravação de um vídeo com o cliente para validar os requisitos eliticados e saber a opinião dele sobre           |
+| IDC4        | Ajuste nas legendas e tabelas para ficar em conformidade ao padrão do projeto |
 
 <div style="text-align: center">
 <p> Tabela 7: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
@@ -236,3 +236,4 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 | Versão | Data       | Descrição                                             | Autor              | Revisor       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
 | 1.0    | 25/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman | Rafael Xavier |
+| 1.1    | 06/12/2023 | Alterações na tabela de ajuste | Edilberto Cantuaria | Artur Seppa Reiman |

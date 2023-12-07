@@ -155,10 +155,10 @@ Na tabela 6, se encontra os ajustes que o autor do artefato realizou para arruma
 
 | ID Correção | Ajuste                       |
 | ------------- | ---------------------------- |
-| IDC1          | Foi ajustado x realizando... |
-| IDC2          | Foi incluido x em ...        |
-| IDC3          | Foi removido x ...           |
-| IDC4          | X foi especificaod melhor... |
+| IDC1          | Ajuste nas tabelas e legendas para ficar de acordo com o padrão do projeto |
+| IDC2          | O link que redireciona para o artefato introspecção foi corrigido         |
+| IDC3          | As tabelas e figuras são invocadas ao longo do texto        |
+| IDC4          | Melhor detalhamento nos requistos para evitar generalidades, conferindo uma maior qualidade de testabilidade aos requisitos elicitados |
 
 <div style="text-align: center">
 <p> Tabela 6: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
@@ -196,3 +196,4 @@ requisitos de software. Disponível em: https://www.cin.ufpe.br/~joa/menu_option
 | Versão | Data       | Descrição                                             | Autor              | Revisor       |
 | ------ | ---------- | ----------------------------------------------------- | ------------------ | ------------- |
 | 1.0    | 27/11/2023 | Criação e desenvolvimento do documento de verificação | Artur Seppa Reiman | Edilberto Cantuaria |
+| 1.1    | 06/12/2023 | Modificação na tabela de ajustes | Edilberto Cantuaria | Artur Seppa Reiman |

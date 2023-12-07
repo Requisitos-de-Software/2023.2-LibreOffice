@@ -250,6 +250,7 @@ Para realizar o mapeamento dos requisitos, será utilizada a seguinte legenda na
 > 
 > [INT: introspecção](../../elicitacao/introspeccao.md)
 
+
 <table id="tabela7">
 <thead>
   <tr>
@@ -430,6 +431,25 @@ Para realizar o mapeamento dos requisitos, será utilizada a seguinte legenda na
 
 </center>
 
+
+
+
+### Validação do cliente
+ A fim de confirmar os requisitos elicitados, gravou-se um vídeo com um cliente que possui o seguinte perfil:
+
+**Perfil do cliente entrevistado**
+
+```
+Idade: 26 anos;
+Ocupação: engenheira eletrônica (Circuitos integrados);
+Região: São Paulo - SP;
+Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
+Sistemas Operacionais: Windows, Linux, Android;
+Usa o LibreOffice Writter com alguma frequência.
+Usa aplicação semelhante de uma empresa concorrente com frequência.
+```
+Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
+
 Por fim, tem-se a <a href="#8">Tabela 8</a> em que as Histórias de Usuários estão elencadas em prioridades.
 
 <center>
@@ -466,21 +486,6 @@ Por fim, tem-se a <a href="#8">Tabela 8</a> em que as Histórias de Usuários es
 <font><div style="text-align: center"><p>Tabela 8: Histórias de Usuários classificadas por nível de prioridades.<br/> (Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira, 2023)</p></div></font>
 </center>
 
-### Validação do cliente
- A fim de confirmar os requisitos elicitados, gravou-se um vídeo com um cliente que possui o seguinte perfil:
-
-**Perfil do cliente entrevistado**
-
-```
-Idade: 26 anos;
-Ocupação: engenheira eletrônica (Circuitos integrados);
-Região: São Paulo - SP;
-Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
-Sistemas Operacionais: Windows, Linux, Android;
-Usa o LibreOffice Writter com alguma frequência.
-Usa aplicação semelhante de uma empresa concorrente com frequência.
-```
-Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
 
 <center>
 
