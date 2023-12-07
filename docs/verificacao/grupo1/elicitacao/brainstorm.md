@@ -8,9 +8,15 @@ O presente documento apresentará a verificação do artefato "Brainstorming", d
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão | Autor(es)             | Revisor(es)             |
 | ---------------- | ----------------- | ------------------- |
 | `1.3`        | Lucas Victor | Gabriel Rosa |
+=======
+| Versão avaliada | Autor             | Revisor             |
+| ---------------- | ----------------- | ------------------- |
+| 1.3        | Lucas Victor | Gabriel Rosa |
+>>>>>>> Stashed changes
 
 
 </center>

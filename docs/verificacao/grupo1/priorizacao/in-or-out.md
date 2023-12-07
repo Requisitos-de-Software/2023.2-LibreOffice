@@ -6,9 +6,15 @@ O presente documento apresentará a verificação do In or Out, desenvolvidos pe
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão | Autor(es)        | Revisor(es)                         |
 | --------------- | ------------ | ------------------------------- |
 | `1.3`             | Lucas de Oliveira | Gabriel Rosa |
+=======
+| Versão avaliada | Autor        | Revisor                         |
+| --------------- | ------------ | ------------------------------- |
+| 1.3             | Lucas de Oliveira | Gabriel Rosa |
+>>>>>>> Stashed changes
 
 </center>
 

@@ -8,10 +8,17 @@ O presente documento apresentará a verificação dos artefatos "Cronograma plan
 
 <center>
 
+<<<<<<< Updated upstream
 | Artefato | Versão | Autor(es)             | Revisor(es)             |
 | ------------ | ---------------- | ----------------- | ------------------- |
 | Cronograma planejado | `1.5`        | Gabriel Rosa | Izabella Alves |
 | Cronograma executado | `1.4`        | Zenilda Vieira | Lucas de Oliveira |
+=======
+| Artefato | Versão avaliada | Autor             | Revisor             |
+| ------------ | ---------------- | ----------------- | ------------------- |
+| Cronograma planejado | 1.5        | Gabriel Rosa | Izabella Alves |
+| Cronograma executado | 1.4        | Zenilda Vieira | Lucas de Oliveira |
+>>>>>>> Stashed changes
 
 </center>
 

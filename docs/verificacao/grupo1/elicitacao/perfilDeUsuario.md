@@ -6,9 +6,15 @@ O presente documento apresentará a verificação do artefato [Perfil de Usuári
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão |       Autor(es)     |     Revisor(es)   |
 | :----: | :-----------------: | :----------: |
 | `1.3`  | Gabriel Zaranza | Gabriel Rosa |
+=======
+| Versão |    Data    |         Descrição          |       Autor(es)     |     Revisor(es)   |
+| :----: | :--------: | :------------------------: | :-----------------: | :----------: |
+| `1.3`  | 30/09/2023 | Retirando o questionário e grupo de foco | Gabriel Zaranza | Gabriel Rosa |
+>>>>>>> Stashed changes
 
 
 <div style="text-align: center">

@@ -6,7 +6,11 @@ Neste documento, será realizada a verificação do artefato da especificação 
 
 <center>
 
+<<<<<<< Updated upstream
 |Versão|Autor(es)|Revisor(es)|
+=======
+|Versão|Autor|Revisor|
+>>>>>>> Stashed changes
 |:----:|----|---------|
 |`1.9`|Lucas de Oliveira|-|
 

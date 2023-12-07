@@ -8,9 +8,15 @@ A tabela 1 a seguir representa os dados do artefato Rich Picture.
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão | Autor(es)        | Revisor(es)        |
 | --------------- | ------------ | -------------- |
 | `1.3`             | Gabriel Rosa | Izabella Alves |
+=======
+| Versão avaliada | Autor        | Revisor        |
+| --------------- | ------------ | -------------- |
+| 1.3             | Gabriel Rosa | Izabella Alves |
+>>>>>>> Stashed changes
 
 </center>
 

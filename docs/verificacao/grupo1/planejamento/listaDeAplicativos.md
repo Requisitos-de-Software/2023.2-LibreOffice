@@ -6,9 +6,15 @@ O presente documento apresentará a verificação dos artefatos [Lista de Aplica
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão |       Autor(es)     |     Revisor(es)   |
 | :----: | :-----------------: | :----------: |
 | `2.0`  | Gabriel Rosa | Gabriel Rosa |
+=======
+| Versão |    Data    |         Descrição          |       Autor(es)     |     Revisor(es)   |
+| :----: | :--------: | :------------------------: | :-----------------: | :----------: |
+| `2.0`  | 12/10/2023 | Documento revisado com as orientações do monitor | Gabriel Rosa | Gabriel Rosa |
+>>>>>>> Stashed changes
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato Aplicativos Avaliados. (Fonte: Ana Luíza, 2023). </p>

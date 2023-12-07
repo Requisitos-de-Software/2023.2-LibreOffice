@@ -5,9 +5,15 @@ Neste documento, será realizada a verificação do artefato de [Personas](https
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão |     Autor(es)   |      Revisor(es)            |
 | :----: | :-----------: | :---------------------------: |
 | `1.6`  | Lucas de Oliveira  | Lucas Víctor  |
+=======
+| Versão |    Data    |       Descrição        |                                 Autor(es)                                 |                    Revisor(es)                    |
+| :----: | :--------: | :--------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------: |
+| `1.6`  | 29/10/2023 | Correção das personas. | [Lucas de Oliveira ](https://github.com/LucasOliveiraDiasMarquesFerreira) | [Lucas Víctor ](https://github.com/Lucas13032003) |
+>>>>>>> Stashed changes
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman e Edilberto Cantuaria, 2023). </p>

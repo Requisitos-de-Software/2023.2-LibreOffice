@@ -1,13 +1,23 @@
+<<<<<<< Updated upstream
 # Verificação dos Léxicos
+=======
+# Verificação de Personas
+>>>>>>> Stashed changes
 
 ## Introdução
 Neste documento, será realizada a verificação do artefato de [Léxicos](https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/lexicos/) desenvolvido pela equipe 1, Economia-DF. Sendo realizado a técnica de inspeção como forma de avaliação deste documento, além de seguir o planejamento previamente estabelecido. Na tabela 1, se encontra os metadados do arquivo desenvolvido, enquanto que nas tabelas 2 e 3 pode ser vista as questões a serem avaliadas.
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão |                      Autor(es)                      |            Revisor(es)             |
 | :----: | :-------------------------------------------------: | :--------------------------------: |
 | `1.9`  | Zenilda Vieira | - (revisão não precisa de revisor) |
+=======
+| Versão |    Data    |         Descrição          |                      Autor(es)                      |            Revisor(es)             |
+| :----: | :--------: | :------------------------: | :-------------------------------------------------: | :--------------------------------: |
+| `1.9`  | 22/10/2023 | Revisão geral do documento | Zenilda Vieira | - (revisão não precisa de revisor) |
+>>>>>>> Stashed changes
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>

@@ -5,9 +5,15 @@ Neste documento, será realizada a verificação do artefato de [First Things Fi
 
 <center>
 
+<<<<<<< Updated upstream
 | Versão |     Autor(es)      |    Revisor(es)  |
 | :----: | :-------------: | :-------------------: |
 | `1.1`  | Zenilda Vieira | Gabriel Rosa e  Izabella Alves |
+=======
+| Versão |    Data    |         Descrição          |                      Autor(es)                      |                                              Revisor(es)                                               |
+| :----: | :--------: | :------------------------: | :-------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
+| `1.1`  | 01/10/2023 | Adiçao do link da gravação | Zenilda Vieira | Gabriel Rosa e  Izabella Alves |
+>>>>>>> Stashed changes
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>
