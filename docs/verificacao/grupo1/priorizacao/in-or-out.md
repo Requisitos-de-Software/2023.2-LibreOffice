@@ -6,9 +6,9 @@ O presente documento apresentará a verificação do In or Out, desenvolvidos pe
 
 <center>
 
-| Versão avaliada | Autor        | Revisor                         |
+| Versão | Autor(es)        | Revisor(es)                         |
 | --------------- | ------------ | ------------------------------- |
-| 1.3             | Lucas de Oliveira | Gabriel Rosa |
+| `1.3`             | Lucas de Oliveira | Gabriel Rosa |
 
 </center>
 

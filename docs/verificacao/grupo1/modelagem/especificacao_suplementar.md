@@ -6,7 +6,7 @@ Neste documento, será realizada a verificação do artefato da especificação 
 
 <center>
 
-|Versão|Autor|Revisor|
+|Versão|Autor(es)|Revisor(es)|
 |:----:|----|---------|
 |`1.9`|Lucas de Oliveira|-|
 

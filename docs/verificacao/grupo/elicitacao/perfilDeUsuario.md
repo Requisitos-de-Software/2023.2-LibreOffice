@@ -6,7 +6,7 @@ Para a verificação do artefato perfil de usuário será utilizada a técnica d
 
 <center>
 
-| Versão avaliada | Autor  | Revisor       |
+| Versão | Autor(es)  | Revisor(es)       |
 | --------------- | ------ | ------------- |
 | 1.0             | Ana Luiza | Edilberto |
 

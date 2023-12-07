@@ -6,7 +6,7 @@ Nesta verificação será analisado o artefato Diagrama de Caso de Uso desenvolv
 
 <center>
 
-| Versão avaliada | Autor  | Revisor  |
+| Versão | Autor(es)  | Revisor(es)  |
 | ---------------- | ------ | -------- |
 | 1.0              | Artur Seppa | Ana Luíza |
 

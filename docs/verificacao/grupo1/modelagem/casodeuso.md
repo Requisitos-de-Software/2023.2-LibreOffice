@@ -6,9 +6,9 @@ Neste documento, será realizada a verificação do artefato "Casos de Uso" dese
 
 <center>
 
-| Versão |  Autor |      Revisor(es)     |
+| Versão |  Autor(es) |      Revisor(es)     |
 | :----: | :--------: | :-------------: |
-| `1.14`  | 22/10/2023 | Zenilda Vieira | - |
+| `1.14`  | Zenilda Vieira | - |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Ana Luíza e Rafael Xavier, 2023). </p>

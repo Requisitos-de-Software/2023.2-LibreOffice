@@ -524,6 +524,12 @@ Tabela 6: Artefatos da etapa 5.2 (Fonte: Ana Luíza, 2023).
             <td style="text-align:center">Edilberto, Rafael e Raphaela</td>
             <td style="text-align:center">Ana Luíza</td>
         </tr>
+        <tr>
+            <td style="text-align:center"><a href="../../posRastreabilidade/matrizRastreabilidade.md">Matriz de Rastreabilidade</a></td>
+            <td style="text-align:center">Sintetiza a rastreabilidade dos requisitos</td>
+            <td style="text-align:center">Ana Letícia e Raphaela</td>
+            <td style="text-align:center">Ana Luíza</td>
+        </tr>
     </tbody>
 </table>
 

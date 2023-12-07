@@ -6,7 +6,7 @@ Da minha parte, tive dificuldade para me organizar em relação a frequência de
 
 ## Ana Luíza Rodrigues da Silva
 
-Dentre as facilidades encontradas posso citar a familiaridade com a metodologia do professor. Entre as dificuldades estão organização da equipe, critérios de entrega adicionais repentinamente, poucas explicações do conteúdo. Esses aspectos de dificuldade impactaram negativamente a compreensão e execução das tarefas.
+Dentre as facilidades encontradas posso citar a familiaridade com a metodologia do professor e as ferramentas utilizadas. Entre as dificuldades estão organização da equipe, critérios de entrega adicionais repentinamente, poucas explicações do conteúdo. Esses aspectos de dificuldade impactaram negativamente a compreensão e execução das tarefas.
 
 ## Artur Seppa Reiman
 
