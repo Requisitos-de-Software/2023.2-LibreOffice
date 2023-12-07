@@ -8,10 +8,10 @@ O presente documento apresentará a verificação dos artefatos "Cronograma plan
 
 <center>
 
-| Artefato | Versão avaliada | Autor             | Revisor             |
+| Artefato | Versão | Autor(es)             | Revisor(es)             |
 | ------------ | ---------------- | ----------------- | ------------------- |
-| Cronograma planejado | 1.5        | Gabriel Rosa | Izabella Alves |
-| Cronograma executado | 1.4        | Zenilda Vieira | Lucas de Oliveira |
+| Cronograma planejado | `1.5`        | Gabriel Rosa | Izabella Alves |
+| Cronograma executado | `1.4`        | Zenilda Vieira | Lucas de Oliveira |
 
 </center>
 

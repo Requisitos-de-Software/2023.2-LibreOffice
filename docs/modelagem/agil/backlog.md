@@ -448,7 +448,7 @@ Sistemas Operacionais: Windows, Linux, Android;
 Usa o LibreOffice Writter com alguma frequência.
 Usa aplicação semelhante de uma empresa concorrente com frequência.
 ```
-Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
+Este perfil converge com a maioria dos dados coletados no [Questionário](../../elicitacao/questionario.md).
 
 Por fim, tem-se a <a href="#8">Tabela 8</a> em que as Histórias de Usuários estão elencadas em prioridades.
 

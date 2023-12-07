@@ -22,7 +22,7 @@ Para efetuar a inspeção e verificação do documento o integrante Rafael Xavie
 
 <center>
 
-| Versão | Autor  |    Revisor         |
+| Versão | Autor(es)  |    Revisor(es)         |
 | :----: | :--------: | :------------------------: | 
 | 1.0  | Artur Seppa | Ana Luíza |
 

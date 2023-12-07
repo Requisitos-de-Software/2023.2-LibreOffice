@@ -6,9 +6,9 @@ O presente documento apresentará a verificação do artefato [Backlog](https://
 
 <center>
 
-| Versão |    Data    |         Descrição          |       Autor(es)     |     Revisor(es)   |
-| :----: | :--------: | :------------------------: | :-----------------: | :----------: |
-| `1.2`  | 28/10/2023 | Adição dos temas e descrição dos épicos | Zenilda Vieira | Lucas Ribeiro |
+| Versão |       Autor(es)     |     Revisor(es)   |
+| :----: | :-----------------: | :----------: |
+| `1.2`  | Zenilda Vieira | Lucas Ribeiro |
 
 
 <div style="text-align: center">

@@ -6,7 +6,7 @@ Neste documento, será realizada a verificação do artefato "Histórias de Usu�
 
 <center>
 
-| Versão | Autor  |    Revisor         |
+| Versão | Autor(es)  |    Revisor(es)         |
 | :----: | :--------: | :------------------------: | 
 | `2.3`  | Lucas Victor | Gabriel Rosa |
 
