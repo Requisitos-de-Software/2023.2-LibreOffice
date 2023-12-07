@@ -5,9 +5,9 @@ Neste documento, será realizada a verificação do artefato de [Léxicos](https
 
 <center>
 
-| Versão |    Data    |         Descrição          |                      Autor(es)                      |            Revisor(es)             |
-| :----: | :--------: | :------------------------: | :-------------------------------------------------: | :--------------------------------: |
-| `1.9`  | 22/10/2023 | Revisão geral do documento | Zenilda Vieira | - (revisão não precisa de revisor) |
+| Versão |                      Autor(es)                      |            Revisor(es)             |
+| :----: | :-------------------------------------------------: | :--------------------------------: |
+| `1.9`  | Zenilda Vieira | - (revisão não precisa de revisor) |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Edilberto Cantuaria, 2023). </p>

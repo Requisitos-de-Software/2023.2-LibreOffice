@@ -3,7 +3,7 @@
 As histórias de usuário são uma técnica amplamente empregada nas metodologias de desenvolvimento ágil para elicitar requisitos, nos quais consistem em descrições concisas e de alto nível de funcionalidades desejadas, expressas a partir da perspectiva do cliente. Elas devem incluir critérios de aceitação claramente definidos, que possibilitam a verificação da implementação dessas funcionalidades. Nesse contexto, o presente artefato busca propor uma descrição detalhada com critérios de aceitação das histórias de usuário.
 
 ## Metodologia
-Como metodologia, contamos com a participação de um usuário desempenhando o papel de Product Owner (PO) do projeto. Sendo realizado uma entrevista via Teams às 22:48 do dia 05 de novembro de 2023, com a devida aprovação do <a href="../images/modelagem/historiaDeUsuario/TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO.pdf" target="blanket">TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO</a> por parte do usuário. O entrevistado, seguindo o seu papel, compartilhava suas funcionalidades desejadas, enquanto o entrevistador indagava e faziam questionamentos para obter mais informações.
+Como metodologia, contamos com a participação de um usuário desempenhando o papel de Product Owner (PO) do projeto. Sendo realizado uma entrevista via Teams às 22:48 do dia 05 de novembro de 2023, com a devida aprovação do <a href="../../termoDeConsentimento/TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO.pdf" target="blanket">TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO</a> por parte do usuário. O entrevistado, seguindo o seu papel, compartilhava suas funcionalidades desejadas, enquanto o entrevistador indagava e faziam questionamentos para obter mais informações.
 
 Após a elicitação, os critérios de aceitação foram definidos e as histórias de usuário foram priorizadas pelo entrevistado em termos de Alta, Média ou Baixa prioridade, utilizando o método Three Level Scale para realizar a priorização de requisitos. Os participantes envolvidos estão listados na Tabela 1, a gravação da entrevista está disponível no Vídeo 1 e o modelo realizado para as histórias de usuário é descrito na Tabela 2 do documento.
 
@@ -12,7 +12,7 @@ Após a elicitação, os critérios de aceitação foram definidos e as históri
 | **Participante**                                        | **Função**     |
 | :------------------------------------------------------ | :------------- |
 | <span style = "color: yellow"> Antonio Ferreira </span>               | Product Owner  |
-| [Artur Seppa Reiman](https://github.com/artur-seppa) | Entrevistador  |
+| Artur Seppa Reiman | Entrevistador  |
 
 <div style="text-align: center">
 <p> Tabela 1: Participantes da entrevista (Fonte: Artur Seppa Reiman, 2023).</p>
