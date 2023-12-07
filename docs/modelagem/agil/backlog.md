@@ -238,8 +238,8 @@ As histórias de usuário refinam ainda mais as features e são abordadas em mai
 ### Legenda
 
 Para realizar o mapeamento dos requisitos, será utilizada a seguinte legenda na qual contém todos os simbolos necessários para o bom entendimento da <a href="#tabela7">Tabela 7</a>:
-> [B: brainstorming](../../elicitacao/tecnicas/brainstorming.md])
- 
+> [B: brainstorming](../../elicitacao/tecnicas/brainstorming.md)
+>
 > [USA: usabilidade](../../modelagem/especificacaoSuplementar.md)
 >
 > [CONF: confiabilidade](../../modelagem/especificacaoSuplementar.md)
@@ -434,33 +434,34 @@ Por fim, tem-se a <a href="#8">Tabela 8</a> em que as Histórias de Usuários es
 
 <center>
 
-| História de usuário                                                                                                | Priorização |
-| ------------------------------------------------------------------------------------------------------------------ | ----------- |
-| [ST01](#ST01) - Criar um novo documento utilizando modelos pré-definidos, como currículos, folhetos ou calendários | Alta        |
-| [ST08](#ST08) - Opção de formatação de texto                                                                       | Alta        |
-| [ST09](#ST09) - Alinhamento do texto                                                                               | Alta        |
-| [ST10](#ST10) - Inserir imagens                                                                                    | Alta        |
-| [ST19](#ST19) - Salvar documentos com extensões diversas                                                           | Alta        |
-| [ST20](#ST20) - Editar textos vindos de outros softwares                                                           | Alta        |
-| [ST24](#ST24) - Ferramentas de acessibilidade para, por exemplo, baixa visão, daltonismo e surdez                  | Alta        |
-| [ST29](#ST29) - Sistema de backup                                                                                  | Alta        |
-| [ST30](#ST30) - Compartilhar um documento com terceiros e ter acesso às modificações                               | Alta        |
-| [ST35](#ST35) - Proteger o acesso com senha                                                                        | Alta        |
-| [ST36](#ST36) - Compatibilidade com diversos sistemas operacionais                                                 | Alta        |
-| [ST03](#ST03) - Personalização do documento                                                                        | Média       |
-| [ST13](#ST13) - Inserir e formatar gráficos                                                                        | Média       |
-| [ST12](#ST12) - Inserir e formatar tabelas                                                                         | Média       |
-| [ST15](#ST15) - Opção de auto-complete                                                                             | Média       |
-| [ST16](#ST16) - Verificador de erros ortográficos                                                                  | Média       |
-| [ST27](#ST27) - Salvar o documento na nuvem                                                                        | Média       |
-| [ST38](#ST38) - Responsividade na plataforma de edição web                                                         | Baixa       |
-| [ST17](#ST17) - Sugestões de melhoria da escrita do texto                                                          | Baixa       |
-| [ST23](#ST23) - Plugins que se conectem à internet                                                                 | Baixa       |
-| [ST26](#ST26) - Suporte para múltiplos idiomas                                                                     | Baixa       |
-| [ST33](#ST33) - Acessar e restaurar versões anteriores                                                             | Baixa       |
-| [ST34](#ST34) - Limitar as modificações feitas por terceiros                                                       | Baixa       |
-| [ST37](#ST37) - Possibilidade de uso em plataforma web                                                             | Baixa       |
-| [ST34](#ST34) - Definir o nível de confidencialidade do documento                                                  | Baixa       |
+| História de usuário                                                                                                | Priorização segundo a equipe | Priorização segundo o usuário entrevistado |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ------------------------------------------ |
+| [ST01](#ST01) - Criar um novo documento utilizando modelos pré-definidos, como currículos, folhetos ou calendários | Alta                         | Baixa                                      |
+| [ST08](#ST08) - Opção de formatação de texto                                                                       | Alta                         | Alta                                       |
+| [ST09](#ST09) - Alinhamento do texto                                                                               | Alta                         | Alta                                       |
+| [ST10](#ST10) - Inserir imagens                                                                                    | Alta                         | Alta                                       |
+| [ST19](#ST19) - Salvar documentos com extensões diversas                                                           | Alta                         | Alta                                       |
+| [ST20](#ST20) - Editar textos vindos de outros softwares                                                           | Alta                         | Alta                                       |
+| [ST24](#ST24) - Ferramentas de acessibilidade para, por exemplo, baixa visão, daltonismo e surdez                  | Alta                         | Média                                      |
+| [ST29](#ST29) - Sistema de backup                                                                                  | Alta                         | Média                                      |
+| [ST30](#ST30) - Compartilhar um documento com terceiros e ter acesso às modificações                               | Alta                         | Alta                                       |
+| [ST35](#ST35) - Proteger o acesso com senha                                                                        | Alta                         | Baixa                                      |
+| [ST36](#ST36) - Compatibilidade com diversos sistemas operacionais                                                 | Alta                         | Média                                      |
+| [ST03](#ST03) - Personalização do documento                                                                        | Média                        | Alta                                       |
+| [ST13](#ST13) - Inserir e formatar gráficos                                                                        | Média                        | Alta                                       |
+| [ST12](#ST12) - Inserir e formatar tabelas                                                                         | Média                        | Alta                                       |
+| [ST15](#ST15) - Opção de auto-complete                                                                             | Média                        | Baixa                                      |
+| [ST16](#ST16) - Verificador de erros ortográficos                                                                  | Média                        | Alta                                       |
+| [ST27](#ST27) - Salvar o documento na nuvem                                                                        | Média                        | Baixa                                      |
+| [ST38](#ST38) - Responsividade na plataforma de edição web                                                         | Baixa                        | Média                                      |
+| [ST17](#ST17) - Sugestões de melhoria da escrita do texto                                                          | Baixa                        | Alta                                       |
+| [ST23](#ST23) - Plugins que se conectem à internet                                                                 | Baixa                        | Média                                      |
+| [ST26](#ST26) - Suporte para múltiplos idiomas                                                                     | Baixa                        | Alta                                       |
+| [ST33](#ST33) - Acessar e restaurar versões anteriores                                                             | Baixa                        | Alta                                       |
+| [ST34](#ST34) - Limitar as modificações feitas por terceiros                                                       | Baixa                        | Média                                      |
+| [ST37](#ST37) - Possibilidade de uso em plataforma web                                                             | Baixa                        | Média                                      |
+| [ST34](#ST34) - Definir o nível de confidencialidade do documento                                                  | Baixa                        | Média                                      |
+
 
 <font><div style="text-align: center"><p>Tabela 8: Histórias de Usuários classificadas por nível de prioridades.<br/> (Fonte: Edilberto Almeida Cantuaria e Ana Letícia Melo Pereira, 2023)</p></div></font>
 </center>
@@ -471,24 +472,23 @@ Por fim, tem-se a <a href="#8">Tabela 8</a> em que as Histórias de Usuários es
 **Perfil do cliente entrevistado**
 
 ```
-Idade: 20 anos;
-Ocupação: estudante universitário e estagiário;
-Região: Brasília-DF;
+Idade: 26 anos;
+Ocupação: engenheira eletrônica (Circuitos integrados);
+Região: São Paulo - SP;
 Experiência com dispositivos eletrônicos (tablets, smartphones, computadores, etc.): muita experiência;
-Sistemas Operacionais: Windows, Linux, Android, iOS;
-Usa o LibreOffice Writter com frequência.
+Sistemas Operacionais: Windows, Linux, Android;
+Usa o LibreOffice Writter com alguma frequência.
 Usa aplicação semelhante de uma empresa concorrente com frequência.
 ```
 Este perfil converge com a maioria dos dados coletados no [Questionário](../elicitacao/questionario.md).
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yiNBIQFzSW8?si=gVTN9P-oDopbCIsz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<div style="text-align: center">
-<p> Gravação 1: Validação do documento. (Fonte: Edilberto Cantuaria, 2023). </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ko9ycNn3EzY?si=j0QP-d-S9wafYMXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p> Gravação 1: Validação do Backlog com o cliente. (Fonte: Edilberto Cantuaria, 2023). </p>
 </div>
 
-</center>
+</center> 
 
 
 
@@ -514,8 +514,8 @@ Este perfil converge com a maioria dos dados coletados no [Questionário](../eli
 > SANTOS, Eduardo; Repositório do Grupo MEI da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <<https://requisitos-de-software.github.io/2022.2-MEI/Modelagem/EspecificacaoSuplementar/>>. Acesso em: 06 de nov. 2023.
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                | Autor(es)                         | Revisor(es)           |
-| ------ | ---------- | ---------------------------------------- | --------------------------------- | --------------------- |
-| 1.0    | 06/11/2023 | Criação do documento.                    | Edilberto Cantuaria , Ana Letícia | Artur Seppa, Raphaela |
-| 1.1    | 06/11/2023 | Atualização das referências das tabelas. | Artur Seppa Reiman                | Raphaela              |
-| 1.2    | 06/12/2023 | Correção do documento                    | Edilberto Cantuaria                | Artur Seppa, Raphaela             |
+| Versão | Data       | Descrição                                | Autor(es)                         | Revisor(es)              |
+| ------ | ---------- | ---------------------------------------- | --------------------------------- | ------------------------ |
+| 1.0    | 06/11/2023 | Criação do documento.                    | Edilberto Cantuaria , Ana Letícia | Artur Seppa, Raphaela    |
+| 1.1    | 06/11/2023 | Atualização das referências das tabelas. | Artur Seppa Reiman                | Raphaela                 |
+| 1.2    | 06/12/2023 | Correção do documento                    | Edilberto Cantuaria               | Ana Luíza, Rafael Xavier |
