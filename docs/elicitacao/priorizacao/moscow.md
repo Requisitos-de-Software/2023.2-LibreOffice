@@ -126,4 +126,4 @@ Tabela 1: Priorização dos requisitos de acordo com método Moscow (Fonte: Raph
 
 | Versão | Data de execução  | Data de revisão |  Descrição    | Autor(es)     |  Revisor(es)  |
 | :----: | :---------------: | :-------------: | :-----------: | :-----------: | :-----------: |
-| `1.0` | 04/10/2023 | 04/10/2023 | Criação do documento | Raphaela Guimararães  | Rafael Xavier |
+| 1.0 | 04/10/2023 | 04/10/2023 | Criação do documento | Raphaela Guimararães  | Rafael Xavier |

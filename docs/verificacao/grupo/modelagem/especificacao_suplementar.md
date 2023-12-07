@@ -8,7 +8,7 @@ Neste documento, será realizada a verificação do artefato da especificação 
 
 | Versão | Autor(es)           | Revisor(es)   |
 | :----: | ------------------- | ------------- |
-| `1.0`  | Edilberto Cantuaria | Rafael Xavier |
+| 1.0  | Edilberto Cantuaria | Rafael Xavier |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman, 2023). </p>

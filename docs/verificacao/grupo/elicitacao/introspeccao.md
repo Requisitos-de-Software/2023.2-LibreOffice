@@ -38,7 +38,7 @@ Para consolidar a inspeção do documento na tabela 1, se encontra os metadados 
 
 | Versão | Autor(es)           | Revisor(es)   |
 | :----: | ------------------- | ------------- |
-| `1.0`  | Edilberto Cantuaria | Rafael Xavier |
+| 1.0  | Edilberto Cantuaria | Rafael Xavier |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur Seppa Reiman, 2023). </p>

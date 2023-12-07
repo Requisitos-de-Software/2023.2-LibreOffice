@@ -8,7 +8,7 @@ Neste documento, será realizada a verificação do artefato cenários desenvolv
 
 | Versão | Autor(es)              | Revisor(es)         |
 | :----: | ---------------------- | ------------------- |
-| `1.0`  | Ana Letícia e Raphaela | Edilberto Cantuaria |
+| 1.0  | Ana Letícia e Raphaela | Edilberto Cantuaria |
 
 <div style="text-align: center">
 <p> Tabela 1: Metadados do artefato produzido. (Fonte: Artur e Edilberto, 2023). </p>

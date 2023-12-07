@@ -10,7 +10,7 @@ Este documento apresentará a verificação do artefato [Aplicativo Escolhido](h
 
 | Versão |       Autor(es)     |     Revisor(es)   |
 | :----: | :-----------------: | :----------: |
-| `1.0`  | Ana Luíza | Rafael |
+| 1.0  | Ana Luíza | Rafael |
 
 </center>
 

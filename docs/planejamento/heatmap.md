@@ -4,7 +4,9 @@ O heatmap da _Figura 1_ tem por objetivo transparecer os horários livres dos me
 
 | ![Heatmap](../images/heatmap/heatmap.jpg "versionamento") |
 |---------------------------------------------------|
-| Figura 1: HeatMap; Fonte: [Edilberto Cantuaria](github.com/edilbertocantuaria)      |
+| Figura 1: HeatMap (Fonte: Edilberto Cantuaria, 2023)      |
+
+
 
 ## Histórico de Versão
 

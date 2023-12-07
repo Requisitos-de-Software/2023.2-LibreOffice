@@ -202,5 +202,5 @@ Este perfil converge com a maioria dos dados coletados no [Questionário](../eli
 
 | Versão | Data       | Descrição              | Autor               | Revisor       |
 | ------ | ---------- | ---------------------- | ------------------- | ------------- |
-| `1.0`  | 01/10/2023 | Criação do documento.  | Edilberto Cantuaria | Rafael Xavier |
-| `1.1`  | 06/12/2023 | Correção do documento. | Edilberto Cantuaria | Rafael Xavier |
+| 1.0  | 01/10/2023 | Criação do documento.  | Edilberto Cantuaria | Rafael Xavier |
+| 1.1  | 06/12/2023 | Correção do documento. | Edilberto Cantuaria | Rafael Xavier |
