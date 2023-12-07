@@ -56,7 +56,7 @@ A checklist será preenchida com base em diferentes classificações, que inclue
 
 | ID Correção | Tarefa         |
 | ------------- | -------------- |
-| IDC1          | Determinar a proporção de usuários em cada perfil     |
+| IDC1          | Determinar a proporção de usuários em cada perfil |
 
 <div style="text-align: center">
 <p> Tabela 4: Tabela do que precisa ser ajustado (Fonte: Ana Letícia, 2023). </p>
@@ -74,8 +74,6 @@ Nos checklists realizados, podemos observar que:
 - 0/14 exigências estão incompletas;
 - 2/14 não se aplicam
 - 1/14 exigências estão erradas ou não foram realizadas.
-
-Portanto, com base no cálculo realizado, pode-se dizer que o aproveitamento deste artefato está em 92.86%.
 
 ```vegalite
 {
@@ -104,10 +102,30 @@ Portanto, com base no cálculo realizado, pode-se dizer que o aproveitamento des
 }
 ```
 
+
 <div style="text-align: center">
 <p> Gráfico 1: Gráfico de aproveitamento (Fonte: Ana Letícia, 2023). </p>
 </div>
 
+Portanto, com base no cálculo realizado, pode-se dizer que o aproveitamento deste artefato está em 92.86%.
+
+## Correção 
+
+### Ajustes
+
+Na tabela 5, se encontra os ajustes que o autor do artefato realizou para arrumar o que foi pedido na tabela 4.
+
+<center>
+
+| ID Correção | Ajuste                       |
+| ------------- | ---------------------------- |
+| IDC1          | Foi ajustado adicionado a proporção de usuários para o perfil de usuário |
+
+<div style="text-align: center">
+<p> Tabela 5: Tabela de ajustes feitos (Fonte: Ana Luíza, 2023). </p>
+</div>
+
+</center>
 
 ## Referência Bibliográfica 
 
