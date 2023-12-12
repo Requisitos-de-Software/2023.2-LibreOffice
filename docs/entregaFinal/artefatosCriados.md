@@ -4,7 +4,7 @@
 
 Com o objetivo de representar de forma abrangente todos os artefatos gerados em cada fase do projeto, com atribuição de autor e revisor, este documento visa apresentar tabelas sintetizadas que abrangem todos os elementos produzidos em suas respectivas etapas. Essa abordagem contribui para a manutenção de uma documentação clara e organizada, proporcionando uma visão global das atividades realizadas em cada fase do projeto.
 
-No total do projeto foram elaborado 52 artefatos representados nas tabelas 1 a 7.
+No total do projeto foram elaborado 53 artefatos representados nas tabelas 1 a 7.
 
 ## Tabelas Sintetizadas
 
@@ -37,9 +37,15 @@ No total do projeto foram elaborado 52 artefatos representados nas tabelas 1 a 7
         </tr>
         <tr>
             <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/planejamento/appEscolhido/">Aplicativo Escolhido</a></td>
-            <td style="text-align:center">Critérios e motivações da escolha do aplicativo e o Rich Picture.</td>
+            <td style="text-align:center">Critérios e motivações da escolha do aplicativo</td>
             <td style="text-align:center">Ana Luíza</td>
             <td style="text-align:center">Rafael</td>
+        </tr>
+        <tr>
+            <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/preRastreabilidade/richpicture/">Rich Picture</a></td>
+            <td style="text-align:center">Rich Picture do aplicativo escolhido.</td>
+            <td style="text-align:center">Raphaela</td>
+            <td style="text-align:center">Ana Letícia</td>
         </tr>
         <tr>
             <td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.2-LibreOffice/planejamento/ferramentas/">Ferramentas</a></td>
@@ -534,6 +540,7 @@ Tabela 6: Artefatos da etapa 5.2 (Fonte: Ana Luíza, 2023).
 </table>
 
 Tabela 7: Artefatos da etapa 6 (Fonte: Ana Luíza, 2023).
+
 
 </center>
 </details>
